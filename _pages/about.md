@@ -1,12 +1,12 @@
-<!-- ---
+---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
 I join the Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Before that, I received academic guidance from external research advisor, [Dr. Deng-Ping Fan](https://dengpingfan.github.io/) during 2018-2022. 
 
