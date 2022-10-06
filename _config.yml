@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ge-Peng (Daniel) Ji"
 description              : &description "personal description"
@@ -85,10 +85,10 @@ author:
   bio              : "Australian National University (ANU)"
   location         : "Australia, Canberra"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=oaxKYKUAAAAJ"
   email            : "gepengai.ji@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ge-Peng-Ji"
   uri              :
   bitbucket        :
   codepen          :
