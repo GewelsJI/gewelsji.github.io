@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-About Me
-======
-I join the Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
+I join the Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also fortunately received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
 
 
 Research Interests
@@ -54,3 +52,7 @@ The Visual Computer ([TVC](https://www.springer.com/journal/371/?utm_source=letp
 International Journal of Imaging Systems and Technology ([IJIST](https://onlinelibrary.wiley.com/journal/10981098))
 Diagnostics ([Link](https://www.mdpi.com/journal/diagnostics))
 Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))
+
+<div style='width:850px;height:300px;margin:0 auto'>
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&cl=ffffff&w=a"></script>
+    </div>
