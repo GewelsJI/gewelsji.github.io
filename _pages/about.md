@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I join the Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also fortunately received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
+I joined the Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also fortunately received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
 
 
 Research Interests
