@@ -36,3 +36,9 @@ Journal
 
 Conference
 ======
+
+- **Progressively Normalized Self-Attention Network for Video Polyp Segmentation**
+  - *Authors:* Ge-Peng Ji^, Yu-Cheng Chou^, Deng-Ping Fan*, Geng Chen, Huazhu Fu, Debesh Jha, Ling Shao
+  - *Conference:* Medical Image Computing and Computer Assisted Intervention (MICCAI), Strasbourg, France, September 27-October 1, 2021.
+  - *Infos:* Early Accept (Accept rate = 13%) ; Student Travel Award (Rate = 95/1630 = 5.8%)
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2105.08468v2) & [official](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14)) ; [Code](https://github.com/GewelsJI/PNS-Net) ; [中译版本](https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf)
