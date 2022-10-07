@@ -21,6 +21,8 @@ Recent Updates
 - [24/08/2022] One paper about video polyp segmentation was accepted by Machine Intelligence Research (MIR) journal.
 - [06/08/2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal.
 
+Viewing Stats
+======
 
 <div style='width:850px;height:300px;margin:0 auto'>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&cl=ffffff&w=a"></script>
