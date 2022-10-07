@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Activity"
+title: ""
 permalink: /activity/
 author_profile: true
 redirect_from:
@@ -9,10 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Invited Talks
+======
+
+VALSE 2021 Spotlight Talking: Camouflaged Object Detection and its Applications ([Poster](http://valser.org/2021/#/poster)<br>
+Synced-ICCV 2021: Full-Duplex Strategy for Video Object Segmentation [Page]<br>
+CSIG-ICCV 2021: Full-Duplex Strategy for Video Object Segmentation [Page](https://event.baai.ac.cn/event/162#section-one<br>
+
 Academic Services
 ======
 
-- **Program Committee Member/Conference Reviewer**
+**Program Committee Member/Conference Reviewer**
 
 International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022))<br>
 International Conference on Machine Learning ([ICML@2022](https://icml.cc/Conferences/2022))<br>
@@ -25,7 +32,7 @@ IEEE International Conference on Image Processing ([ICIP@2022](https://2022.ieee
 IEEE International Symposium on Mixed and Augmented Reality ([ISMAR@2021](https://ismar21.org/))<br>
 Chinese Conference on Pattern Recognition and Computer Vision ([PRCV@2021](http://2021.prcv.cn/))<br>
 
-- **Journal Reviewer**
+**Journal Reviewer**
   
 International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263/))<br>
 IEEE Transactions on Medical Imaging ([TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))<br>
