@@ -24,6 +24,6 @@ Recent Updates
 Viewing Stats
 ======
 
-<div style='width:850px;height:300px;margin:0 auto'>
+<div style='width:600px;height:212px;margin:0 auto'>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&cl=ffffff&w=a"></script>
 </div>
