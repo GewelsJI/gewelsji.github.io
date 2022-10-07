@@ -16,10 +16,12 @@ Research Interests
 ======
 My primary research interest lies in designing effective and applicable AI algorithms for resolving dense prediction problems in the real world. Especially on these complex scene understanding (*e.g.*, camouflaged/salient object discovery), automated driving (*e.g.*, open-world image/video scene understanding) and healthcare (*e.g.*, polyp segmentation, lung infection segmentation) problems.
 
+
 Recent Updates
 ======
 - [24/08/2022] One paper about video polyp segmentation was accepted by Machine Intelligence Research (MIR) journal.
 - [06/08/2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal.
+
 
 Viewing Stats
 ======
