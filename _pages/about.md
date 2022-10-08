@@ -11,11 +11,14 @@ redirect_from:
 
 About Me
 ======
-I joined the College of Engineering and Computer Science, Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also fortunately received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
+I joined the College of Engineering and Computer Science, Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also, fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
 
 Research Interests
 ======
-My primary research interest lies in solving challenging problems in computer vision and machine learning. Especially on designing effective and scalable algorithms for resolving dense prediction problems in the real world, including **complex scene understanding** (*e.g.*, camouflaged/salient object discovery), **automated driving** (*e.g.*, open-world image/video scene understanding) and **healthcare AI** (*e.g.*, polyp segmentation, lung infection segmentation) problems.
+My primary research interest lies in solving challenging problems in computer vision and machine learning. Especially in designing effective and scalable algorithms for dense prediction problems in the real world, including:
+- **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
+- **Automated Driving:** Video Object Segmentation, Open-world Scene Understanding
+- **Medical Image Analysis:** Image/Video Polyp Segmentation, Lung Infection Segmentation
 
 
 Recent Updates
