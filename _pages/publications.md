@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-> Note: ^ Equal contribuion. * Corresponding author.
+> Note: ^ Equal contribuion. # Corresponding author.
 
 Journal
 ======
