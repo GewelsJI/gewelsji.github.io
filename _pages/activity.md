@@ -42,6 +42,7 @@ Academic Services
 * Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding))<br>
 * Scientific Reports ([Link](https://www.nature.com/srep/))<br>
 * Expert Systems with Applications ([ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications))<br>
+* Digital Signal Processing ([DSP](https://www.sciencedirect.com/journal/digital-signal-processing))<br>
 * Sensors ([Link](https://www.mdpi.com/journal/sensors))<br>
 * Signal Processing: Image Communication ([SPIC](https://www.sciencedirect.com/journal/signal-processing-image-communication))<br>
 * The Visual Computer ([TVC](https://www.springer.com/journal/371/?utm_source=letpub&utm_medium=display&utm_content=mpu&utm_campaign=SRCN_3_ll01_cn_letpuborganic_cs_371))<br>

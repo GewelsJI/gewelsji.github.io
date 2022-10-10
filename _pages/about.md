@@ -16,9 +16,9 @@ I joined the College of Engineering and Computer Science, Australian National Un
 Research Interests
 ======
 My primary research interest lies in solving challenging problems in computer vision and machine learning. Especially in designing effective and scalable algorithms for dense prediction problems in the real world, including:
-- **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
-- **Automated Driving:** Video Object Segmentation, Open-world Scene Understanding
-- **Medical Image Analysis:** Image/Video Polyp Segmentation, Lung Infection Segmentation
+- **Complex Scene Understanding:** camouflaged/salient object discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
+- **Automated Driving:** video object segmentation, open-world scene understanding
+- **Medical Image Analysis:** image/video polyp segmentation, lung infection segmentation
 
 
 Recent Updates
