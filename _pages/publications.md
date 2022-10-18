@@ -15,24 +15,31 @@ author_profile: true
 
 International Journal
 ======
+- **Full-duplex Strategy for Video Object Segmentation**
+  - *Authors:* Ge-Peng Ji, Deng-Ping Fan#, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao
+  - *Journal:* Computational Visual Media (CVMJ), 2023, 9 (1): 155–175 (IF: 4.127, 中国卓越期刊, JCR分区Q1, Accept rate ~=12.5%)
+  - *Info:* Extension of [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Ji_Full-Duplex_Strategy_for_Video_Object_Segmentation_ICCV_2021_paper.html)
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2108.03151v3) & [official](https://link.springer.com/article/10.1007/s41095-021-0262-4)) ; Code ([PyTorch](https://github.com/GewelsJI/FSNet))
+- **Deep Gradient Learning for Efficient Camouflaged Object Detection**
+  - *Authors:* Ge-Peng Ji, Deng-Ping Fan#, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool
+  - *Journal:* Machine Intelligence Research (MIR), 2023. (中国卓越期刊)
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2205.12853v2)) ; Code ([PyTorch](https://github.com/GewelsJI/DGNet) & [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib)) ; [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]DGNet_Chinese.pdf)
+- **Masked Vision-Language Transformer in Fashion**
+  - *Authors:* Ge-Peng Ji^, Mingcheng Zhuge^, Dehong Gao, Deng-Ping Fan#, Christos Sakaridis, Luc Van Gool
+  - *Journal:* Machine Intelligence Research (MIR), 2023. (中国卓越期刊)
 - **Video Polyp Segmentation: A Deep Learning Perspective**
   - *Authors:* Ge-Peng Ji^, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan#, Kai Zhao, Geng Chen, and Luc Van Gool
   - *Journal:* Machine Intelligence Research (MIR), 2022. (中国卓越期刊)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2203.14291v3)) ; Code ([PyTorch](https://github.com/GewelsJI/VPS)) ; [Dataset](https://github.com/GewelsJI/VPS/blob/main/docs/DATA_PREPARATION.md) ; [Awesome Paper List](https://github.com/GewelsJI/VPS/blob/main/docs/AWESOME_VPS.) ; [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf)
-- **Deep Gradient Learning for Efficient Camouflaged Object Detection**
-  - *Authors:* Ge-Peng Ji, Deng-Ping Fan#, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool
-  - *Journal:* Machine Intelligence Research (MIR), 2022. (中国卓越期刊)
-  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2205.12853v2)) ; Code ([PyTorch](https://github.com/GewelsJI/DGNet) & [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib)) ; [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]DGNet_Chinese.pdf)
-- **Full-duplex Strategy for Video Object Segmentation**
-  - *Authors:* Ge-Peng Ji, Deng-Ping Fan#, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao
-  - *Journal:* Computational Visual Media (CVMJ), 2022. (IF: 4.127, 中国卓越期刊, JCR分区Q1, Accept rate ~=12.5%)
-  - *Info:* Extension of [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Ji_Full-Duplex_Strategy_for_Video_Object_Segmentation_ICCV_2021_paper.html)
-  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2108.03151v3)) ; Code ([PyTorch](https://github.com/GewelsJI/FSNet))
 - **Concealed Object Detection**
   - *Authors:* Deng-Ping Fan, Ge-Peng Ji, Ming-Ming Cheng#, Ling Shao
   - *Journal:* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022, 44 (10): 6024-6042. (IF: 24.314)
   - *Info:* [JDC 2021 Distinguish Paper](https://dengpingfan.github.io/papers/SINet-V2-Award.pdf) ; Extension of [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2102.10274v2) & [official](https://ieeexplore.ieee.org/document/9444794)) ; Code ([PyTorch](https://github.com/GewelsJI/SINet-V2) & [Jittor](https://github.com/GewelsJI/SINet-V2/tree/main/jittor_lib)); [Project Page](https://dengpingfan.github.io/pages/COD.html) ; [Online Demo](http://mmcheng.net/cod/) ; [中译版本](https://dengpingfan.github.io/papers/[2021][PAMI]SINetV2_Chinese.pdf) 
+- **Cognitive Vision Inspired Object Segmentation Metric and Loss Function**
+  - *Authors:* Deng-Ping Fan, Ge-Peng Ji, Xuebin Qin, Ming-Ming Cheng#
+  - *Journal:* SCIENTIA SINICA Informationis (SSI), 2021, 51 (9): 1475-1489. (IF: 7.275, CCF A类中文期刊, JCR分区Q1)
+  - Paper ([arXiv](https://dengpingfan.github.io/papers/[2021][SSI]EmeasureEng.pdf) & [Official](https://www.sciengine.com/SSI/doi/10.1360/SSI-2020-0370)) ; Code ([PyTorch](https://github.com/GewelsJI/Hybrid-Eloss/))
 - **Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images**
   - *Authors:* Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen#, Huazhu Fu#, Jianbing Shen#, Ling Shao
   - *Journal:* IEEE Transactions on Medical Imaging (TMI), 2020, 39 (8): 2626-2637. (IF: 11.037)

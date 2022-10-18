@@ -12,7 +12,7 @@ redirect_from:
 Working Experience
 ======
 - **Alibaba Group (Hangzhou, China)**
-  - *Duration:* June 2021 ~ April 2022
+  - *Duration:* June 2021 ~ March 2022
   - *Position:* Research Intern (ICBU Technology Department)
   - *Advisor:* [Dehong Gao](https://scholar.google.com/citations?hl=zh-CN&user=0uPb8MMAAAAJ) (Algorithm Leader)
   - Research on large-scale vision-language pre-training models for e-commercial.
