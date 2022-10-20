@@ -24,7 +24,7 @@ Academic Services
 * International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022))<br>
 * International Conference on Machine Learning ([ICML@2022](https://icml.cc/Conferences/2022))<br>
 * Conference on Neural Information Processing Systems ([NeurIPS@2022](https://nips.cc/Conferences/2022))<br>
-* IEEE/CVF Computer Vision and Pattern Recognition Conference ([CVPR@2022](https://cvpr2022.thecvf.com/))<br>
+* IEEE/CVF Computer Vision and Pattern Recognition Conference ([CVPR@2022](https://cvpr2022.thecvf.com/), [CVPR@2023](https://cvpr2023.thecvf.com/))<br>
 * European Conference on Computer Vision ([ECCV@2022](https://eccv2022.ecva.net/))<br>
 * International Joint Conference on Artificial Intelligence ([IJCAI@2021](https://ijcai-21.org/), [IJCAI@2022](https://ijcai-22.org/))<br>
 * International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI@2020](https://miccai2020.org/en/), [MICCAI@2022](https://miccai2022.org/))<br>
@@ -38,7 +38,8 @@ Academic Services
 * IEEE Transactions on Medical Imaging ([TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))<br>
 * IEEE Transactions on Visualization and Computer Graphics ([TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945))<br>
 * IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))<br>
-* Machine Intelligence Research ([MIR](https://www.springer.com/journal/11633))
+* IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046))<br>
+* Machine Intelligence Research ([MIR](https://www.springer.com/journal/11633))<br>
 * Neurocomputing ([NC](https://www.elsevier.com/journals/neurocomputing/0925-2312))<br>
 * Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding))<br>
 * Scientific Reports ([Link](https://www.nature.com/srep/))<br>
