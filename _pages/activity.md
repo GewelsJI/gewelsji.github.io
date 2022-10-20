@@ -38,6 +38,7 @@ Academic Services
 * IEEE Transactions on Medical Imaging ([TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))<br>
 * IEEE Transactions on Visualization and Computer Graphics ([TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945))<br>
 * IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))<br>
+* Machine Intelligence Research ([MIR](https://www.springer.com/journal/11633))
 * Neurocomputing ([NC](https://www.elsevier.com/journals/neurocomputing/0925-2312))<br>
 * Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding))<br>
 * Scientific Reports ([Link](https://www.nature.com/srep/))<br>
