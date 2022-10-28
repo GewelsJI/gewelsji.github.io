@@ -27,7 +27,7 @@ International Journal
 - **Masked Vision-Language Transformer in Fashion**
   - *Authors:* Ge-Peng Ji^, Mingcheng Zhuge^, Dehong Gao, Deng-Ping Fan#, Christos Sakaridis, Luc Van Gool
   - *Journal:* Machine Intelligence Research (MIR), 2023. (中国卓越期刊)
-  - *Links:* Code ([PyTorch](https://github.com/GewelsJI/MVLT))
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2210.15110)); Code ([PyTorch](https://github.com/GewelsJI/MVLT))
 - **Video Polyp Segmentation: A Deep Learning Perspective**
   - *Authors:* Ge-Peng Ji^, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan#, Kai Zhao, Geng Chen, and Luc Van Gool
   - *Journal:* Machine Intelligence Research (MIR), 2022. (中国卓越期刊)
