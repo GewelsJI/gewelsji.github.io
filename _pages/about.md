@@ -26,7 +26,7 @@ Recent Updates
 ======
 - [18/10/2022] Our paper about video object segmentation is published by Computational Visual Media Journal (CVMJ). ([Open Access](https://link.springer.com/article/10.1007/s41095-021-0262-4))
 - [14/10/2022] One paper about vision-language representation was accepted by Machine Intelligence Research (MIR) journal.
-- [24/08/2022] One paper about video polyp segmentation was accepted by Machine Intelligence Research (MIR) journal.
+- [24/08/2022] One paper about video polyp segmentation was accepted by Machine Intelligence Research (MIR) journal. ([Open Access](https://link.springer.com/article/10.1007/s11633-022-1371-y))
 - [06/08/2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal.
 
 
