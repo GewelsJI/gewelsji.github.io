@@ -76,24 +76,24 @@ International Conference
 Patent Application (in Chinese)
 ======
 - **Pre-Training Image-Text Model Processing Method and Image-Text Retrieval System**
-  - *申请日：* 202210327383.8
-  - *申请号：* 2022-03-30
+  - *申请日：* 2022-03-30
+  - *申请号：* 202210327383.8 
   - *中文名：* 一种基于隐式引导与显式教导策略的视频显著性目标检测方法
 - **Camouflage Object Detection Method and System based on Grouping Gradient Learning Strategy**
   - *申请日：* 2022-02-14
   - *申请号：* 202210134042.9
   - *中文名：* 一种基于分组梯度学习策略的伪装物体检测方法及系统
 - **Video Target Segmentation Method and System Based on Full-Duplex Strategy**
-  - *申请日：* 202110870786.2
-  - *申请号：* 2021-07-30
+  - *申请日：* 2021-07-30
+  - *申请号：* 202110870786.2
   - *中文名：* 一种基于全双工策略的视频目标分割方法及系统
 - **Video Saliency Target Detection Method Based on Implicit Guidance and Explicit Teaching Strategy**
   - *申请日：* 2021-05-12
   - *申请号：* 202110516620.0
   - *中文名：* 一种基于隐式引导与显式教导策略的视频显著性目标检测方法
 - **Grouping Reverse Attention-Based Camouflage Object Detection Method and System**
-  - *申请日：* 202110180500.8
-  - *申请号：* 2021-02-08
+  - *申请日：* 2021-02-08
+  - *申请号：* 202110180500.8
   - *中文名：* 基于分组反向注意力的伪装物体检测方法及系统
 - **Face Anti-Counterfeiting Method Based on Face Depth Information and Edge Image Fusion**
   - *申请日：* 2019-06-18
