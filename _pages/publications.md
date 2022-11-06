@@ -73,7 +73,7 @@ International Conference
 
 
 
-Patent Application
+Patent Application (in Chinese)
 ======
 - **Pre-Training Image-Text Model Processing Method and Image-Text Retrieval System**
   - *申请日：* 202210327383.8
