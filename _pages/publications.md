@@ -87,15 +87,15 @@ Patent Application (in Chinese)
   - *申请日：* 2021-07-30
   - *申请号：* 202110870786.2
   - *中文名：* 一种基于全双工策略的视频目标分割方法及系统
-- **Video Saliency Target Detection Method Based on Implicit Guidance and Explicit Teaching Strategy**
+- **Video Saliency Target Detection Method Based on Implicit Guidance and Explicit Teaching Strategy (Granted)**
   - *申请日：* 2021-05-12
   - *申请号：* 202110516620.0
   - *中文名：* 一种基于隐式引导与显式教导策略的视频显著性目标检测方法
-- **Grouping Reverse Attention-Based Camouflage Object Detection Method and System**
+- **Grouping Reverse Attention-Based Camouflage Object Detection Method and System (Granted)**
   - *申请日：* 2021-02-08
   - *申请号：* 202110180500.8
   - *中文名：* 基于分组反向注意力的伪装物体检测方法及系统
-- **Face Anti-Counterfeiting Method Based on Face Depth Information and Edge Image Fusion**
+- **Face Anti-Counterfeiting Method Based on Face Depth Information and Edge Image Fusion (Granted)**
   - *申请日：* 2019-06-18
   - *申请号：* 201910525961.7
   - *中文名：* 一种基于人脸深度信息和边缘图像融合的人脸防伪方法
