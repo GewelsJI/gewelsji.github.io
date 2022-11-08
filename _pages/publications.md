@@ -16,6 +16,7 @@ author_profile: true
 Note: ^ indicates equal contribuion. # indicates corresponding author.
 
 <!-- $\color{Brown}{\texttt{International Journal}}$ -->
+
 International Journal
 ======
 - **Full-duplex Strategy for Video Object Segmentation**
@@ -52,6 +53,7 @@ International Journal
 
 
 <!-- $\color{Brown}{\texttt{International Conference}}$ -->
+
 International Conference
 ======
 
@@ -77,6 +79,7 @@ International Conference
 
 
 <!-- $\color{Brown}{\texttt{Books}}$ -->
+
 Book
 ======
 - **Inf-Net: an automatic lung infection segmentation network that uses CT images (Chapter 3, pp: 3-1 to 3-15)**
@@ -86,6 +89,7 @@ Book
 
 
 <!-- $\color{Brown}{\texttt{Patent Application (in Chinese)}}$ -->
+
 Patent Application (in Chinese)
 ======
 - **Pre-Training Image-Text Model Processing Method and Image-Text Retrieval System**
