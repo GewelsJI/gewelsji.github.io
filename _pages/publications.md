@@ -30,7 +30,7 @@ International Journal
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2210.15110)); Code ([PyTorch](https://github.com/GewelsJI/MVLT))
 - **Video Polyp Segmentation: A Deep Learning Perspective**
   - *Authors:* Ge-Peng Ji^, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan#, Kai Zhao, Geng Chen, and Luc Van Gool
-  - *Journal:* Machine Intelligence Research (MIR), 2022. (中国卓越期刊)
+  - *Journal:* Machine Intelligence Research (MIR), 2022, 19 (6): 531-549. (中国卓越期刊)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2203.14291v3) & [official](https://link.springer.com/article/10.1007/s11633-022-1371-y)) ; Code ([PyTorch](https://github.com/GewelsJI/VPS)) ; [Dataset](https://github.com/GewelsJI/VPS/blob/main/docs/DATA_PREPARATION.md) ; [Awesome Paper List](https://github.com/GewelsJI/VPS/blob/main/docs/AWESOME_VPS.) ; [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf)
 - **Concealed Object Detection**
   - *Authors:* Deng-Ping Fan, Ge-Peng Ji, Ming-Ming Cheng#, Ling Shao
