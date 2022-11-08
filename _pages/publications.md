@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- https://en.wikibooks.org/wiki/LaTeX/Colors#Adding_the_color_package -->
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -13,7 +15,8 @@ author_profile: true
 
 Note: ^ indicates equal contribuion. # indicates corresponding author.
 
-$\color{brown}{\texttt{International~Journal}}$
+<!-- $\color{Brown}{\texttt{International Journal}}$ -->
+International Journal
 ======
 - **Full-duplex Strategy for Video Object Segmentation**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan#, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao
@@ -48,6 +51,7 @@ $\color{brown}{\texttt{International~Journal}}$
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2004.14133v4) & [official](https://ieeexplore.ieee.org/document/9098956)) ; Code ([PyTorch](https://github.com/DengPingFan/Inf-Net)) ; [中译版本](https://dengpingfan.github.io/papers/[2020][TMI]InfNet_Chinese.pdf)
 
 
+<!-- $\color{Brown}{\texttt{International Conference}}$ -->
 International Conference
 ======
 
@@ -72,7 +76,8 @@ International Conference
   - *Links:* Paper ([official](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html)) ; Code ([PyTorch](https://github.com/DengPingFan/SINet/)) ; [中译版本](https://dengpingfan.github.io/papers/[2020][CVPR]COD_Chinese.pdf)
 
 
-Books
+<!-- $\color{Brown}{\texttt{Books}}$ -->
+Book
 ======
 - **Inf-Net: an automatic lung infection segmentation network that uses CT images (Chapter 3, pp: 3-1 to 3-15)**
   - *Authors:* Tao Zhou, Deng-Ping Fan, **Gepeng Ji**, Geng Chen, Huazhu Fu, Ling Shao
@@ -80,6 +85,7 @@ Books
   - *Publisher:* IOP Publishing ([Access Link](https://iopscience.iop.org/book/edit/978-0-7503-3795-3))
 
 
+<!-- $\color{Brown}{\texttt{Patent Application (in Chinese)}}$ -->
 Patent Application (in Chinese)
 ======
 - **Pre-Training Image-Text Model Processing Method and Image-Text Retrieval System**
