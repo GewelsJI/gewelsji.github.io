@@ -13,6 +13,21 @@ About Me
 ======
 I joined the College of Engineering and Computer Science, Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also, fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
 
+<p> 
+  <a href="mailto:gepengai.ji@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
+  <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/followers/GewelsJI?label=Followers&style=plastic" height="20px" alt="github follow" /> </a>
+  <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/stars/GewelsJI?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
+  <a href="center"><img src="https://komarev.com/ghpvc/?username=GewelsJI" alt="GewelsJI" height="20px"> </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{GewelsJI}1212%2Fhit-counter" height="20px"> </a>
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" height="20px"> </a>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20px"> </a>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="20px"> </a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20px"> </a>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20px"> </a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="20px"> </a>
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" height="20px"> </a>
+</p> 
+
 
 Research Interests
 ======
