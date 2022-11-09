@@ -13,7 +13,7 @@ Working Experience
 ======
 - **Sensing IntelliGence and MAchine learning laboratory, SIGMA LAB (Wuhan, China)**
   - *Duration:* April 2022 ~ July 2022
-  - *Position:* Research Intern (ICBU Technology Department)
+  - *Position:* Research Assistant
   - *Advisor:* [Lefei Zhang](https://scholar.google.com/citations?user=BLKHwNwAAAAJ&hl=en) (Professor) & [Bo Du](https://scholar.google.com/citations?hl=en&user=Shy1gnMAAAAJ) (Professor)
   - Research on Healthcare AI.
 - **Alibaba Group (Hangzhou, China)**
