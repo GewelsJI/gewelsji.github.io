@@ -13,7 +13,7 @@ About Me
 ======
 I joined the College of Engineering and Computer Science, Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also, fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
 
-<p> 
+<!-- <p> 
   <a href="mailto:gepengai.ji@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
   <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/followers/GewelsJI?label=Followers&style=plastic" height="20px" alt="github follow" /> </a>
   <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/stars/GewelsJI?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
@@ -29,7 +29,7 @@ I joined the College of Engineering and Computer Science, Australian National Un
   <a href="center"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="10px"> </a>
   <a href="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="10px"> </a>
   <a href="center"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" height="10px"> </a>
-</p> 
+</p>  -->
 
 
 Research Interests
@@ -44,7 +44,7 @@ Recent Updates
 ======
 
 - [04/11/2022] One paper about video polyp segmentation is published by Machine Intelligence Research (MIR) journal. ([Open Access](https://link.springer.com/article/10.1007/s11633-022-1371-y))
-- [18/10/2022] Our paper about video object segmentation is published by Computational Visual Media Journal (CVMJ). ([Open Access](https://link.springer.com/article/10.1007/s41095-021-0262-4))
+- [18/10/2022] Our paper about video object segmentation is published by Computational Visual Media (CVM) journal. ([Open Access](https://link.springer.com/article/10.1007/s41095-021-0262-4))
 - [14/10/2022] One paper about vision-language representation was accepted by Machine Intelligence Research (MIR) journal.
 - [06/08/2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal.
 
