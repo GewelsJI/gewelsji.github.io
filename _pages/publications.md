@@ -95,7 +95,7 @@ Patent Application (in Chinese)
 - **Pre-Training Image-Text Model Processing Method and Image-Text Retrieval System**
   - *申请日：* 2022-03-30
   - *申请号：* 202210327383.8 
-  - *中文名：* 一种基于隐式引导与显式教导策略的视频显著性目标检测方法
+  - *中文名：* 预训练图像文本模型处理方法和图文检索系统
 - **Camouflage Object Detection Method and System based on Grouping Gradient Learning Strategy**
   - *申请日：* 2022-02-14
   - *申请号：* 202210134042.9
