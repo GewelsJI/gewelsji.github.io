@@ -52,9 +52,11 @@ Recent Updates
 Viewing Stats
 ======
 
-<div style='width:350px;height:350px;margin:0 auto'>
+<!-- <div style='width:350px;height:350px;margin:0 auto'>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&cl=ffffff&w=a"></script>
-</div>
+</div> -->
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=500&t=tt&d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script>
 
 <!-- Motto
 ======
