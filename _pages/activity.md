@@ -40,6 +40,7 @@ Academic Services
 * IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))<br>
 * IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046))<br>
 * Machine Intelligence Research ([MIR](https://www.springer.com/journal/11633))<br>
+* Information Fusion ([IF](https://www.sciencedirect.com/journal/information-fusion))
 * Neurocomputing ([NC](https://www.elsevier.com/journals/neurocomputing/0925-2312))<br>
 * Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding))<br>
 * Scientific Reports ([Link](https://www.nature.com/srep/))<br>
