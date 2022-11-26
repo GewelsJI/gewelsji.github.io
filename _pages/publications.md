@@ -27,7 +27,7 @@ International Journal
 - **Deep Gradient Learning for Efficient Camouflaged Object Detection**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan#, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool
   - *Journal:* Machine Intelligence Research (MIR), 2023. (中国卓越期刊)
-  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2205.12853v2)) ; Code ([PyTorch](https://github.com/GewelsJI/DGNet) & [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/DGNet.svg); [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]DGNet_Chinese.pdf)
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2205.12853v2)) ; Code ([PyTorch](https://github.com/GewelsJI/DGNet) & [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [Huawei Ascend](https://gitee.com/ascend/mindxsdk-referenceapps/tree/master/contrib/CamouflagedObjectDetection)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/DGNet.svg); [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]DGNet_Chinese.pdf)
 - **Masked Vision-Language Transformer in Fashion**
   - *Authors:* **Ge-Peng Ji**^, Mingcheng Zhuge^, Dehong Gao, Deng-Ping Fan#, Christos Sakaridis, Luc Van Gool
   - *Journal:* Machine Intelligence Research (MIR), 2023. (中国卓越期刊)
@@ -70,7 +70,7 @@ International Conference
   - *Authors:* Deng-Ping Fan, **Ge-Peng Ji**, Tao Zhou, Geng Chen, Huazhu Fu#, Jianbing Shen#, Ling Shao
   - *Conference:* Medical Image Computing and Computer Assisted Intervention (MICCAI), Vitural, October 4-8, 2020. 
   - *Info:* Early Accept & Oral Presentation (Accept rate = 13%) ; [JDC 2021 Most Influential (Application) Paper](https://dengpingfan.github.io/papers/PraNet-Award.pdf)) ; [Top-10 Most Cited Paper within 5 Years in MICCAI 2020](https://scholar.google.com/citations?hl=zh-CN&view_op=list_hcore&venue=QLpioUFGyGMJ.2022) ; Best precision of MediaEval 2020 Workshop at Medico Track
-  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2006.11392v4) & [official](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)) ; Code ([PyTorch](https://github.com/DengPingFan/PraNet) & [Jittor](https://github.com/DengPingFan/PraNet/tree/master/jittor)) ![Github stars](https://img.shields.io/github/stars/DengPingFan/PraNet.svg); [中译版本](https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf)
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2006.11392v4) & [official](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)) ; Code ([PyTorch](https://github.com/DengPingFan/PraNet) & [Jittor](https://github.com/DengPingFan/PraNet/tree/master/jittor) & [Huawei Ascend ModelZoo](https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet)) ![Github stars](https://img.shields.io/github/stars/DengPingFan/PraNet.svg); [中译版本](https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf)
 - **Camouflaged Object Detection**
   - *Authors:* Deng-Ping Fan, **Ge-Peng Ji**, Guolei Sun, Ming-Ming Cheng, Jianbing Shen#, Ling Shao
   - *Conference:* IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Virtual, June 14-19, 2020.
@@ -83,7 +83,7 @@ International Conference
 Book
 ======
 - **Inf-Net: an automatic lung infection segmentation network that uses CT images (Chapter 3, pp: 3-1 to 3-15)**
-  - *Authors:* Tao Zhou, Deng-Ping Fan, **Gepeng Ji**, Geng Chen, Huazhu Fu, Ling Shao
+  - *Authors:* Tao Zhou, Deng-Ping Fan, **Ge-Peng Ji**, Geng Chen, Huazhu Fu, Ling Shao
   - *Book Info:* Artificial Intelligence Strategies for Analyzing COVID-19 Pneumonia Lung Imaging (Volume 1), Ayman El-Baz, Jasjit S Suri, University of Louisville, Louisville, KY, USA.
   - *Publisher:* IOP Publishing ([Access Link](https://iopscience.iop.org/book/edit/978-0-7503-3795-3))
 
