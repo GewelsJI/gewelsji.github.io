@@ -36,18 +36,17 @@ Research Interests
 ======
 My primary research interest lies in solving challenging problems in computer vision and machine learning. Especially in designing effective and scalable algorithms for dense prediction problems in the real world, including:
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
-- **Trustworthy AI:** Open-World Scene Understanding
 - **Automated Driving:** Video Object Segmentation
 - **Medical Image Analysis:** Colonoscopy Polyp Diagnosis, Lung Infection Segmentation
-
+- **Trustworthy AI:** Open-World Scene Understanding
 
 Recent Updates
 ======
 
-- [04/11/2022] One paper about video polyp segmentation is published by Machine Intelligence Research (MIR) journal. ([Open Access](https://link.springer.com/article/10.1007/s11633-022-1371-y))
-- [18/10/2022] Our paper about video object segmentation is published by Computational Visual Media (CVM) journal. ([Open Access](https://link.springer.com/article/10.1007/s41095-021-0262-4))
-- [14/10/2022] One paper about vision-language representation was accepted by Machine Intelligence Research (MIR) journal.
-- [06/08/2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal.
+- [Nov 26, 2022] We release two awesome paper reading lists for the [camouflaged object detction (COD)](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md) and [video polyp segmentation (VPS)](https://github.com/GewelsJI/VPS/blob/main/docs/AWESOME_VPS.md)
+- [Nov 04, 2022] One paper about video polyp segmentation is published by Machine Intelligence Research (MIR) journal. ([Open Access](https://link.springer.com/article/10.1007/s11633-022-1371-y))
+- [Oct 18, 2022] Our paper about video object segmentation is published by Computational Visual Media (CVM) journal. ([Open Access](https://link.springer.com/article/10.1007/s41095-021-0262-4))
+- [Aug 06, 2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal.
 
 
 Viewing Stats
