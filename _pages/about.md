@@ -12,9 +12,9 @@ redirect_from:
 About Me
 ======
 
-<img align="right" src="./images/ANU_Primary_Horizontal_GoldBlack.png" width="250px" />
+<img align="right" src="./images/ANU_Primary_Horizontal_GoldBlack.png" width="300px" />
 
-I joined the College of Engineering, Computing & Cybernetics (CECC), Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also, fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
+I joined the College of Engineering, Computing & Cybernetics (CECC), Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Jing Zhang](https://scholar.google.com.au/citations?user=Qa1DMv8AAAAJ&hl=en) and [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also, fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
 
 
 
