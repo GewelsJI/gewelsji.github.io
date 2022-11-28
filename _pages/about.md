@@ -16,10 +16,6 @@ About Me
 I joined the College of Engineering, Computing & Cybernetics (CECC), Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also, fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
 
 <p align="center" width="100%">
-  <img src="./images/ANU_College_name_2.jpg" />
-</p>
-
-<p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
 </p>
 

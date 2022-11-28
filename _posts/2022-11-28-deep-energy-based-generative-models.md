@@ -9,8 +9,6 @@ tags:
 
 In this tutorial, we will look at energy-based deep learning models, and focus on their application as generative models. Energy models have been a popular tool before the huge deep learning hype around 2012 hit. However, in recent years, energy-based models have gained increasing attention because of improved training methods and tricks being proposed. Although they are still in a research stage, they have shown to outperform strong Generative Adversarial Networks (Lecture/Tutorial 10) in certain cases which have been the state of the art of generating images (blog post about strong energy-based models, blog post about the power of GANs). Hence, it is important to be aware of energy-based models, and as the theory can be abstract sometimes, we will show the idea of energy-based models with a lot of examples.
 
-First, let’s import our standard libraries below.
-
 # Energy Models
 
 In the first part of this tutorial, we will review the theory of the energy-based models. While most of the previous models had the goal of classification or regression, energy-based models are motivated from a different perspective: **density estimation**. Given a dataset with a lot of elements, we want to estimate the probability distribution over the whole data space. As an example, if we model images from CIFAR10, our goal would be to have a probability distribution over all possible images of size $32 \times 32 \times 3$ where those images have a high likelihood that look realistic and are one of the 10 CIFAR classes. Simple methods like interpolation between images don’t work because images are extremely high-dimensional (especially for large HD images). Hence, we turn to deep learning methods that have performed well on complex data.
@@ -52,8 +50,9 @@ Note that the loss is still an objective we want to minimize. Thus, we try to mi
 
 Visually, we can look at the objective as follows (figure credit - [Stefano Ermon and Aditya Grover](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture11.pdf)):
 
-
-<center width=\"100%\"><img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/contrastive_divergence.svg" width=\"700px\"></center>
+<p align="center" width="100%">
+  <img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/contrastive_divergence.svg" />
+</p>
 
 $f_{\theta}$ represents $\exp(-E_{\theta}(\mathbf{x}))$ in our case. Because the larger likelihood has small energy value, thus the correct answer has large $\exp(-E_{\theta}(\mathbf{x}))$ value after training. The point on the right, called \"correct answer\", represents a data point from the dataset (i.e. $x_{\text{train}}$), and the left point, \"wrong answer\", a sample from our model (i.e. $x_{\text{sample}}$). Thus, we try to \"pull up\" the probability of the data points in the dataset, while \"pushing down\" randomly sampled points. The two forces for pulling and pushing are in balance iff $q_{\theta}(\mathbf{x})=p(\mathbf{x})$.
 
@@ -62,14 +61,18 @@ $f_{\theta}$ represents $\exp(-E_{\theta}(\mathbf{x}))$ in our case. Because the
 
 For sampling from an energy-based model, we can apply a Markov Chain Monte Carlo (MCMC) using Langevin Dynamics. **The idea of the algorithm is to start from a random point, and slowly move towards the direction of higher probability using the gradients of $E_{\theta}$.** Nevertheless, this is not enough to fully capture the probability distribution. We need to add noise $\omega$ at each gradient step to the current sample. Under certain conditions such as that we perform the gradient steps an infinite amount of times, we would be able to create an exact sample from our modeled distribution. (**Note. More steps we take, more accurate sample we generate.**) However, as this is not practically possible, we usually limit the chain to $K$ steps ($K$ is a hyperparameter that needs to be finetuned). Overall, the sampling procedure can be summarized in the following algorithm:
 
-<center width=\"100%\" style=\"padding:15px\"><img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/sampling.svg" width=\"750px\"></center>
+<p align="center" width="100%">
+  <img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/sampling.svg" />
+</p>
 
 
 # Applications of Energy-based models beyond generation
 
 Modeling the probability distribution for sampling new data is not the only application of energy-based models. Any application which requires us to compare two elements is much simpler to learn because we just need to go for the higher energy. A couple of examples are shown below (figure credit - [Stefano Ermon and Aditya Grover](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture11.pdf)). A classification setup like object recognition or sequence labeling can be considered as an energy-based task as we just need to find the $Y$ input that minimizes the output $E(X, Y)$ (hence maximizes probability). Similarly, a popular application of energy-based models is denoising of images. Given an image $X$ with a lot of noise, we try to minimize the energy by finding the true input image $Y$.
 
-<center width=\"100%\"><img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/energy_models_application.svg" width=\"600px\"></center>
+<p align="center" width="100%">
+  <img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/energy_models_application.svg" />
+</p>
 
 Nonetheless, we will focus on generative modeling here as in the next couple of lectures, we will discuss more generative deep learning approaches.
 
@@ -262,11 +265,248 @@ The idea of the buffer becomes a bit clearer in the following algorithm.
 With the sampling buffer being ready, we can complete our training algorithm. Below is shown a summary of the full training algorithm of an energy model on image modeling:
 
 <p align="center" width="100%">
-  <img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/training_algorithm.svg" />
+  <img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/training_algorithm.svg" />
 </p>
+
+The first few statements in each training iteration concern the sampling of the real and fake data, as we have seen above with the sample buffer. Next, we calculate the contrastive divergence objective using our energy model $E_{\theta}$. However, one additional training trick we need is to add a regularization loss on the output of $E_{\theta}$. As the output of the network is not constrained and adding a large bias or not to the output doesn't change the contrastive divergence loss, we need to ensure somehow else that the output values are in a reasonable range. Without the regularization loss, the output values will fluctuate in a very large range. With this, we ensure that the values for the real data are around 0, and the fake data likely slightly lower (for noise or outliers the score can be still significantly lower). As the regularization loss is less important than the Contrastive Divergence, we have a weight factor $\alpha$ which is usually quite some smaller than 1. Finally, we perform an update step with an optimizer on the combined loss and add the new samples to the buffer.
+
+Below, we put this training dynamic into a PyTorch Lightning module. Remember that, since we model $f_{\theta}(x)=-E_{\theta}(x)$, we need to be careful with switching all important signs, e.g. in the loss function.
+
+```python
+class DeepEnergyModel(pl.LightningModule):
+
+    def __init__(self, img_shape, batch_size, alpha=0.1, lr=1e-4, beta1=0.0, **CNN_args):
+        super().__init__()
+        self.save_hyperparameters()
+
+        self.cnn = CNNModel(**CNN_args)
+        self.sampler = Sampler(self.cnn, img_shape=img_shape, sample_size=batch_size)
+        self.example_input_array = torch.zeros(1, *img_shape)
+
+    def forward(self, x):
+        z = self.cnn(x)
+        return z
+
+    def configure_optimizers(self):
+        # Energy models can have issues with momentum as the loss surfaces changes with its parameters.
+        # Hence, we set it to 0 by default.
+        optimizer = optim.Adam(self.parameters(), lr=self.hparams.lr, betas=(self.hparams.beta1, 0.999))
+        scheduler = optim.lr_scheduler.StepLR(optimizer, 1, gamma=0.97) # Exponential decay over epochs
+        return [optimizer], [scheduler]
+
+    def training_step(self, batch, batch_idx):
+        # We add minimal noise to the original images to prevent the model from focusing on purely "clean" inputs
+        real_imgs, _ = batch
+        small_noise = torch.randn_like(real_imgs) * 0.005
+        real_imgs.add_(small_noise).clamp_(min=-1.0, max=1.0)
+
+        # Obtain samples
+        fake_imgs = self.sampler.sample_new_exmps(steps=60, step_size=10)
+
+        # Predict energy score for all images
+        inp_imgs = torch.cat([real_imgs, fake_imgs], dim=0)
+        real_out, fake_out = self.cnn(inp_imgs).chunk(2, dim=0)
+
+        # Calculate losses
+        reg_loss = self.hparams.alpha * (real_out ** 2 + fake_out ** 2).mean()
+        cdiv_loss = fake_out.mean() - real_out.mean()
+        loss = reg_loss + cdiv_loss
+
+        # Logging
+        self.log('loss', loss)
+        self.log('loss_regularization', reg_loss)
+        self.log('loss_contrastive_divergence', cdiv_loss)
+        self.log('metrics_avg_real', real_out.mean())
+        self.log('metrics_avg_fake', fake_out.mean())
+        return loss
+
+    def validation_step(self, batch, batch_idx):
+        # For validating, we calculate the contrastive divergence between purely random images and unseen examples
+        # Note that the validation/test step of energy-based models depends on what we are interested in the model
+        real_imgs, _ = batch
+        fake_imgs = torch.rand_like(real_imgs) * 2 - 1
+
+        inp_imgs = torch.cat([real_imgs, fake_imgs], dim=0)
+        real_out, fake_out = self.cnn(inp_imgs).chunk(2, dim=0)
+
+        cdiv = fake_out.mean() - real_out.mean()
+        self.log('val_contrastive_divergence', cdiv)
+        self.log('val_fake_out', fake_out.mean())
+        self.log('val_real_out', real_out.mean())
+```
+
+We do not implement a test step because energy-based, generative models are usually not evaluated on a test set. The validation step however is used to get an idea of the difference between ennergy/likelihood of random images to unseen examples of the dataset. Alternative test steps would be to generate new images and evaluate how realistic they are based on FID or Inception score, or try to denoise images.
+
+## Callbacks
+
+To track the performance of our model during training, we will make extensive use of PyTorch Lightning’s callback framework. Remember that callbacks can be used for running small functions at any point of the training, for instance after finishing an epoch. Here, we will use three different callbacks we define ourselves.
+
+The first callback, called `GenerateCallback`, is used for adding image generations to the model during training. After every $N$ epochs (usually $N=5$ to reduce output to TensorBoard), we take a small batch of random images and perform many MCMC iterations until the model's generation converges. Compared to the training that used 60 iterations, we use 256 here because (1) we only have to do it once compared to the training that has to do it every iteration, and (2) we do not start from a buffer here, but from scratch. It is implemented as follows:
+
+
+```python
+class GenerateCallback(pl.Callback):
+
+    def __init__(self, batch_size=8, vis_steps=8, num_steps=256, every_n_epochs=5):
+        super().__init__()
+        self.batch_size = batch_size         # Number of images to generate
+        self.vis_steps = vis_steps           # Number of steps within generation to visualize
+        self.num_steps = num_steps           # Number of steps to take during generation
+        self.every_n_epochs = every_n_epochs # Only save those images every N epochs (otherwise tensorboard gets quite large)
+
+    def on_epoch_end(self, trainer, pl_module):
+        # Skip for all other epochs
+        if trainer.current_epoch % self.every_n_epochs == 0:
+            # Generate images
+            imgs_per_step = self.generate_imgs(pl_module)
+            # Plot and add to tensorboard
+            for i in range(imgs_per_step.shape[1]):
+                step_size = self.num_steps // self.vis_steps
+                imgs_to_plot = imgs_per_step[step_size-1::step_size,i]
+                grid = torchvision.utils.make_grid(imgs_to_plot, nrow=imgs_to_plot.shape[0], normalize=True, range=(-1,1))
+                trainer.logger.experiment.add_image(f"generation_{i}", grid, global_step=trainer.current_epoch)
+
+    def generate_imgs(self, pl_module):
+        pl_module.eval()
+        start_imgs = torch.rand((self.batch_size,) + pl_module.hparams["img_shape"]).to(pl_module.device)
+        start_imgs = start_imgs * 2 - 1
+        torch.set_grad_enabled(True)  # Tracking gradients for sampling necessary
+        imgs_per_step = Sampler.generate_samples(pl_module.cnn, start_imgs, steps=self.num_steps, step_size=10, return_img_per_step=True)
+        torch.set_grad_enabled(False)
+        pl_module.train()
+        return imgs_per_step
+```
+
+The second callback is called `SamplerCallback`, and simply adds a randomly picked subset of images in the sampling buffer to the TensorBoard. This helps to understand what images are currently shown to the model as \"fake\".
+
+```python
+class SamplerCallback(pl.Callback):
+
+    def __init__(self, num_imgs=32, every_n_epochs=5):
+        super().__init__()
+        self.num_imgs = num_imgs             # Number of images to plot
+        self.every_n_epochs = every_n_epochs # Only save those images every N epochs (otherwise tensorboard gets quite large)
+
+    def on_epoch_end(self, trainer, pl_module):
+        if trainer.current_epoch % self.every_n_epochs == 0:
+            exmp_imgs = torch.cat(random.choices(pl_module.sampler.examples, k=self.num_imgs), dim=0)
+            grid = torchvision.utils.make_grid(exmp_imgs, nrow=4, normalize=True, range=(-1,1))
+            trainer.logger.experiment.add_image("sampler", grid, global_step=trainer.current_epoch)
+```
+
+Finally, our last callback is `OutlierCallback`. This callback evaluates the model by recording the (negative) energy assigned to random noise. While our training loss is almost constant across iterations, this score is likely showing the progress of the model to detect \"outliers\".
+
+```python
+class OutlierCallback(pl.Callback):
+
+    def __init__(self, batch_size=1024):
+        super().__init__()
+        self.batch_size = batch_size
+
+    def on_epoch_end(self, trainer, pl_module):
+        with torch.no_grad():
+            pl_module.eval()
+            rand_imgs = torch.rand((self.batch_size,) + pl_module.hparams["img_shape"]).to(pl_module.device)
+            rand_imgs = rand_imgs * 2 - 1.0
+            rand_out = pl_module.cnn(rand_imgs).mean()
+            pl_module.train()
+
+        trainer.logger.experiment.add_scalar("rand_out", rand_out, global_step=trainer.current_epoch)
+```
+
+## Running the model
+
+Finally, we can add everything together to create our final training function. The function is very similar to any other PyTorch Lightning training function we have seen so far. However, there is the small difference of that we do not test the model on a test set because we will analyse the model afterward by checking its prediction and ability to perform outlier detection.
+
+```python
+def train_model(**kwargs):
+    # Create a PyTorch Lightning trainer with the generation callback
+    trainer = pl.Trainer(default_root_dir=os.path.join(CHECKPOINT_PATH, "MNIST"),
+                         accelerator="gpu" if str(device).startswith("cuda") else "cpu",
+                         devices=1,
+                         max_epochs=60,
+                         gradient_clip_val=0.1,
+                         callbacks=[ModelCheckpoint(save_weights_only=True, mode="min", monitor='val_contrastive_divergence'),
+                                    GenerateCallback(every_n_epochs=5),
+                                    SamplerCallback(every_n_epochs=5),
+                                    OutlierCallback(),
+                                    LearningRateMonitor("epoch")
+                                   ])
+    # Check whether pretrained model exists. If yes, load it and skip training
+    pretrained_filename = os.path.join(CHECKPOINT_PATH, "MNIST.ckpt")
+    if os.path.isfile(pretrained_filename):
+        print("Found pretrained model, loading...")
+        model = DeepEnergyModel.load_from_checkpoint(pretrained_filename)
+    else:
+        pl.seed_everything(42)
+        model = DeepEnergyModel(**kwargs)
+        trainer.fit(model, train_loader, test_loader)
+        model = DeepEnergyModel.load_from_checkpoint(trainer.checkpoint_callback.best_model_path)
+    # No testing as we are more interested in other properties
+    return model
+
+# define the model 
+model = train_model(img_shape=(1,28,28),
+                    batch_size=train_loader.batch_size,
+                    lr=1e-4,
+                    beta1=0.0)
+```
+
+# Analysis
+In the last part of the notebook, we will try to take the trained energy-based generative model, and analyse its properties.
+
+## TensorBoard
+The first thing we can look at is the TensorBoard generate during training. This can help us to understand the training dynamic even better, and shows potential issues. Let’s load the TensorBoard below:
+
+<p align="center" width="100%">
+  <img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/tensorboard_screenshot.png" />
+</p>
+
+We see that the contrastive divergence as well as the regularization converge quickly to 0. However, the training continues although the loss is always close to zero. This is because our “training” data changes with the model by sampling. The progress of training can be best measured by looking at the samples across iterations, and the score for random images that decreases constantly over time.
+
+## Image Generation
+Another way of evaluating generative models is by sampling a few generated images. Generative models need to be good at generating realistic images as this truely shows that they have modeled the true data distribution. Thus, let’s sample a few images of the model below:
+
+```python
+model.to(device)
+pl.seed_everything(43)
+callback = GenerateCallback(batch_size=4, vis_steps=8, num_steps=256)
+imgs_per_step = callback.generate_imgs(model)
+imgs_per_step = imgs_per_step.cpu()
+```
+
+The characteristic of sampling with energy-based models is that they require the iterative MCMC algorithm. To gain an insight in how the images change over iterations, we plot a few intermediate samples in the MCMC as well:
+
+```python
+for i in range(imgs_per_step.shape[1]):
+    step_size = callback.num_steps // callback.vis_steps
+    imgs_to_plot = imgs_per_step[step_size-1::step_size,i]
+    imgs_to_plot = torch.cat([imgs_per_step[0:1,i],imgs_to_plot], dim=0)
+    grid = torchvision.utils.make_grid(imgs_to_plot, nrow=imgs_to_plot.shape[0], normalize=True, range=(-1,1), pad_value=0.5, padding=2)
+    grid = grid.permute(1, 2, 0)
+    plt.figure(figsize=(8,8))
+    plt.imshow(grid)
+    plt.xlabel("Generation iteration")
+    plt.xticks([(imgs_per_step.shape[-1]+2)*(0.5+j) for j in range(callback.vis_steps+1)],
+               labels=[1] + list(range(step_size,imgs_per_step.shape[0]+1,step_size)))
+    plt.yticks([])
+    plt.show()
+```
+
+<p align="center" width="100%">
+  <img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/generation_results.png" />
+</p>
+
+We see that although starting from noise in the very first step, the sampling algorithm obtains reasonable shapes after only 32 steps. Over the next 200 steps, the shapes become clearer and changed towards realistic digits. The specific samples can differ when you run the code on Colab, hence the following description is specific to the plots shown on the website. The first row shows an 8, where we remove unnecessary white parts over iterations. The transformation across iterations can be seen at best for the second sample, which creates a digit of 2. While the first sample after 32 iterations looks a bit like a digit, but not really, the sample is transformed more and more to a typical image of the digit 2.
+
+# More details
+
+Coming soon ...
 
 # Reference
 
 - Original Tutorial: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html#Energy-Models
 - Awesome list of EBM: https://github.com/yataobian/awesome-ebm
-- 
+- A Tutorial on Energy-Based Learning - Yann LeCun: http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
+- Yann LeCun | May 18, 2021 | The Energy-Based Learning Model: https://www.youtube.com/watch?v=4lthJd3DNTM
+- Deep Learning 7: Energy-based models: https://www.youtube.com/watch?v=kpulMklVmRU
