@@ -55,7 +55,7 @@ Note that the loss is still an objective we want to minimize. Thus, we try to mi
 Visually, we can look at the objective as follows (figure credit - [Stefano Ermon and Aditya Grover](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture11.pdf)):
 
 
-<center width=\"100%\"><img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/contrastive_divergence.svg" width=\"700px\"></center>
+<center width=\"100%\"><img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/contrastive_divergence.svg" width=\"700px\"></center>
 
 $f_{\theta}$ represents $\exp(-E_{\theta}(\mathbf{x}))$ in our case. **Because the larger likelihood has small energy value, thus the correct answer has large $\exp(-E_{\theta}(\mathbf{x}))$ value after training.** The point on the right, called \"correct answer\", represents a data point from the dataset (i.e. $x_{\text{train}}$), and the left point, \"wrong answer\", a sample from our model (i.e. $x_{\text{sample}}$). Thus, we try to \"pull up\" the probability of the data points in the dataset, while \"pushing down\" randomly sampled points. The two forces for pulling and pushing are in balance iff $q_{\theta}(\mathbf{x})=p(\mathbf{x})$.
 
@@ -64,13 +64,21 @@ $f_{\theta}$ represents $\exp(-E_{\theta}(\mathbf{x}))$ in our case. **Because t
 
 For sampling from an energy-based model, we can apply a Markov Chain Monte Carlo (MCMC) using Langevin Dynamics. **The idea of the algorithm is to start from a random point, and slowly move towards the direction of higher probability using the gradients of $E_{\theta}$.** Nevertheless, this is not enough to fully capture the probability distribution. We need to add noise $\omega$ at each gradient step to the current sample. Under certain conditions such as that we perform the gradient steps an infinite amount of times, we would be able to create an exact sample from our modeled distribution. (**Note. More steps we take, more accurate sample we generate.**) However, as this is not practically possible, we usually limit the chain to $K$ steps ($K$ is a hyperparameter that needs to be finetuned). Overall, the sampling procedure can be summarized in the following algorithm:
 
-<center width=\"100%\" style=\"padding:15px\"><img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/sampling.svg" width=\"750px\"></center>
+<center width=\"100%\" style=\"padding:15px\"><img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/sampling.svg" width=\"750px\"></center>
 
 
 # Applications of Energy-based models beyond generation
 
 Modeling the probability distribution for sampling new data is not the only application of energy-based models. Any application which requires us to compare two elements is much simpler to learn because we just need to go for the higher energy. A couple of examples are shown below (figure credit - [Stefano Ermon and Aditya Grover](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture11.pdf)). A classification setup like object recognition or sequence labeling can be considered as an energy-based task as we just need to find the $Y$ input that minimizes the output $E(X, Y)$ (hence maximizes probability). Similarly, a popular application of energy-based models is denoising of images. Given an image $X$ with a lot of noise, we try to minimize the energy by finding the true input image $Y$.
 
-<center width=\"100%\"><img src="../images/blog_posts/2022-11-28-deep-energy-based-generative-models/energy_models_application.svg" width=\"600px\"></center>
+<center width=\"100%\"><img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/energy_models_application.svg" width=\"600px\"></center>
 
 Nonetheless, we will focus on generative modeling here as in the next couple of lectures, we will discuss more generative deep learning approaches.
+
+# Image generation
+
+As an example for energy-based models, we will train a model on image generation. Specifically, we will look at how we can generate MNIST digits with a very simple CNN model. **However, it should be noted that energy models are not easy to train and often diverge if the hyperparameters are not well tuned.** We will rely on training tricks proposed in the paper [Implicit Generation and Generalization in Energy-Based Models](https://arxiv.org/abs/1903.08689) by Yilun Du and Igor Mordatch ([blog](https://openai.com/blog/energy-based-models/)). The important part of this notebook is however to see how the theory above can actually be used in a model.
+
+## Dataset
+
+First, we can load the MNIST dataset below. Note that we need to normalize the images between -1 and 1 instead of mean 0 and std 1 because during sampling, we have to limit the input space. Scaling between -1 and 1 makes it easier to implement it.
