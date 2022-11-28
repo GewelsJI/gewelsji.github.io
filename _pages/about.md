@@ -19,7 +19,6 @@ I joined the College of Engineering, Computing & Cybernetics (CECC), Australian 
   <img src="../images/ANU_College_name_2.jpg" />
 </p>
 
-
 <!-- <p> 
   <a href="mailto:gepengai.ji@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
   <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/followers/GewelsJI?label=Followers&style=plastic" height="20px" alt="github follow" /> </a>
