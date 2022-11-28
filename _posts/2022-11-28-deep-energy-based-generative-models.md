@@ -7,8 +7,6 @@ tags:
   - Deep Learning Tutorial
 ---
 
-> Original Tutorial: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html#Energy-Models
-
 In this tutorial, we will look at energy-based deep learning models, and focus on their application as generative models. Energy models have been a popular tool before the huge deep learning hype around 2012 hit. However, in recent years, energy-based models have gained increasing attention because of improved training methods and tricks being proposed. Although they are still in a research stage, they have shown to outperform strong Generative Adversarial Networks (Lecture/Tutorial 10) in certain cases which have been the state of the art of generating images (blog post about strong energy-based models, blog post about the power of GANs). Hence, it is important to be aware of energy-based models, and as the theory can be abstract sometimes, we will show the idea of energy-based models with a lot of examples.
 
 First, let’s import our standard libraries below.
@@ -262,3 +260,13 @@ The idea of the buffer becomes a bit clearer in the following algorithm.
 ## Training algorithm
 
 With the sampling buffer being ready, we can complete our training algorithm. Below is shown a summary of the full training algorithm of an energy model on image modeling:
+
+<p align="center" width="100%">
+  <img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/training_algorithm.svg" />
+</p>
+
+# Reference
+
+- Original Tutorial: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html#Energy-Models
+- Awesome list of EBM: https://github.com/yataobian/awesome-ebm
+- 
