@@ -57,7 +57,7 @@ Visually, we can look at the objective as follows (figure credit - [Stefano Ermo
 
 <center width=\"100%\"><img src="./images/blog_posts/2022-11-28-deep-energy-based-generative-models/contrastive_divergence.svg" width=\"700px\"></center>
 
-$f_{\theta}$ represents $\exp(-E_{\theta}(\mathbf{x}))$ in our case. **Because the larger likelihood has small energy value, thus the correct answer has large $\exp(-E_{\theta}(\mathbf{x}))$ value after training.** The point on the right, called \"correct answer\", represents a data point from the dataset (i.e. $x_{\text{train}}$), and the left point, \"wrong answer\", a sample from our model (i.e. $x_{\text{sample}}$). Thus, we try to \"pull up\" the probability of the data points in the dataset, while \"pushing down\" randomly sampled points. The two forces for pulling and pushing are in balance iff $q_{\theta}(\mathbf{x})=p(\mathbf{x})$.
+$f_{\theta}$ represents $\exp(-E_{\theta}(\mathbf{x}))$ in our case. Because the larger likelihood has small energy value, thus the correct answer has large $\exp(-E_{\theta}(\mathbf{x}))$ value after training. The point on the right, called \"correct answer\", represents a data point from the dataset (i.e. $x_{\text{train}}$), and the left point, \"wrong answer\", a sample from our model (i.e. $x_{\text{sample}}$). Thus, we try to \"pull up\" the probability of the data points in the dataset, while \"pushing down\" randomly sampled points. The two forces for pulling and pushing are in balance iff $q_{\theta}(\mathbf{x})=p(\mathbf{x})$.
 
 
 # Sampling from Energy-Based Models
@@ -82,3 +82,68 @@ As an example for energy-based models, we will train a model on image generation
 ## Dataset
 
 First, we can load the MNIST dataset below. Note that we need to normalize the images between -1 and 1 instead of mean 0 and std 1 because during sampling, we have to limit the input space. Scaling between -1 and 1 makes it easier to implement it.
+
+```python
+# Transformations applied on each image => make them a tensor and normalize between -1 and 1
+transform = transforms.Compose([transforms.ToTensor(),
+                                transforms.Normalize((0.5,), (0.5,))
+                               ])
+
+# Loading the training dataset. We need to split it into a training and validation part
+train_set = MNIST(root=DATASET_PATH, train=True, transform=transform, download=True)
+
+# Loading the test set
+test_set = MNIST(root=DATASET_PATH, train=False, transform=transform, download=True)
+
+# We define a set of data loaders that we can use for various purposes later.
+# Note that for actually training a model, we will use different data loaders
+# with a lower batch size.
+train_loader = data.DataLoader(train_set, batch_size=128, shuffle=True,  drop_last=True,  num_workers=4, pin_memory=True)
+test_loader  = data.DataLoader(test_set,  batch_size=256, shuffle=False, drop_last=False, num_workers=4)
+```
+
+## CNN Model
+
+First, we implement our CNN model. The MNIST images are of size 28x28, hence we only need a small model. As an example, we will apply several convolutions with stride 2 that downscale the images. If you are interested, you can also use a deeper model such as a small ResNet, but for simplicity, we will stick with the tiny network.
+
+It is a good practice to use a smooth activation function like Swish instead of ReLU in the energy model. This is because we will rely on the gradients we get back with respect to the input image, which should not be sparse. (**Maybe I can have a try for this point?**)
+
+```python
+class Swish(nn.Module):
+
+    def forward(self, x):
+        return x * torch.sigmoid(x)
+
+
+class CNNModel(nn.Module):
+
+    def __init__(self, hidden_features=32, out_dim=1, **kwargs):
+        super().__init__()
+        # We increase the hidden dimension over layers. Here pre-calculated for simplicity.
+        c_hid1 = hidden_features//2
+        c_hid2 = hidden_features
+        c_hid3 = hidden_features*2
+
+        # Series of convolutions and Swish activation functions
+        self.cnn_layers = nn.Sequential(
+                nn.Conv2d(1, c_hid1, kernel_size=5, stride=2, padding=4), # [16x16] - Larger padding to get 32x32 image
+                Swish(),
+                nn.Conv2d(c_hid1, c_hid2, kernel_size=3, stride=2, padding=1), #  [8x8]
+                Swish(),
+                nn.Conv2d(c_hid2, c_hid3, kernel_size=3, stride=2, padding=1), # [4x4]
+                Swish(),
+                nn.Conv2d(c_hid3, c_hid3, kernel_size=3, stride=2, padding=1), # [2x2]
+                Swish(),
+                nn.Flatten(),
+                nn.Linear(c_hid3*4, c_hid3),
+                Swish(),
+                nn.Linear(c_hid3, out_dim)
+        )
+
+    def forward(self, x):
+        x = self.cnn_layers(x).squeeze(dim=-1)
+        return x
+```
+
+In the rest of the notebook, the output of the model will actually not represent $E_{\theta}(\mathbf{x})$, but $-E_{\theta}(\mathbf{x})$. This is a standard implementation practice for energy-based models, as some people also write the energy probability density as $q_{\theta}(\mathbf{x}) = \frac{\exp\left(f_{\theta}(\mathbf{x})\right)}{Z_{\theta}}$. In that case, the model would actually represent $f_{\theta}(\mathbf{x})$. In the training loss etc., we need to be careful to not switch up the signs.
+
