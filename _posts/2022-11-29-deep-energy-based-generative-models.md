@@ -55,7 +55,7 @@ Note that the loss is still an objective we want to minimize. Thus, we try to mi
 Visually, we can look at the objective as follows (figure credit - [Stefano Ermon and Aditya Grover](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture11.pdf)):
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/contrastive_divergence.svg" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/contrastive_divergence.svg" />
 </p>
 
 $f_{\theta}$ represents $\exp(-E_{\theta}(\mathbf{x}))$ in our case. Because the larger likelihood has small energy value, thus the correct answer has large $\exp(-E_{\theta}(\mathbf{x}))$ value after training. The point on the right, called \"correct answer\", represents a data point from the dataset (i.e. $x_{\text{train}}$), and the left point, \"wrong answer\", a sample from our model (i.e. $x_{\text{sample}}$). Thus, we try to \"pull up\" the probability of the data points in the dataset, while \"pushing down\" randomly sampled points. The two forces for pulling and pushing are in balance iff $q_{\theta}(\mathbf{x})=p(\mathbf{x})$.
@@ -66,7 +66,7 @@ $f_{\theta}$ represents $\exp(-E_{\theta}(\mathbf{x}))$ in our case. Because the
 For sampling from an energy-based model, we can apply a Markov Chain Monte Carlo (MCMC) using Langevin Dynamics. **The idea of the algorithm is to start from a random point, and slowly move towards the direction of higher probability using the gradients of $E_{\theta}$.** Nevertheless, this is not enough to fully capture the probability distribution. We need to add noise $\omega$ at each gradient step to the current sample. Under certain conditions such as that we perform the gradient steps an infinite amount of times, we would be able to create an exact sample from our modeled distribution. (**Note. More steps we take, more accurate sample we generate.**) However, as this is not practically possible, we usually limit the chain to $K$ steps ($K$ is a hyperparameter that needs to be finetuned). Overall, the sampling procedure can be summarized in the following algorithm:
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/sampling.svg" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/sampling.svg" />
 </p>
 
 
@@ -75,7 +75,7 @@ For sampling from an energy-based model, we can apply a Markov Chain Monte Carlo
 Modeling the probability distribution for sampling new data is not the only application of energy-based models. Any application which requires us to compare two elements is much simpler to learn because we just need to go for the higher energy. A couple of examples are shown below (figure credit - [Stefano Ermon and Aditya Grover](https://deepgenerativemodels.github.io/assets/slides/cs236_lecture11.pdf)). A classification setup like object recognition or sequence labeling can be considered as an energy-based task as we just need to find the $Y$ input that minimizes the output $E(X, Y)$ (hence maximizes probability). Similarly, a popular application of energy-based models is denoising of images. Given an image $X$ with a lot of noise, we try to minimize the energy by finding the true input image $Y$.
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/energy_models_application.svg" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/energy_models_application.svg" />
 </p>
 
 Nonetheless, we will focus on generative modeling here as in the next couple of lectures, we will discuss more generative deep learning approaches.
@@ -269,7 +269,7 @@ The idea of the buffer becomes a bit clearer in the following algorithm.
 With the sampling buffer being ready, we can complete our training algorithm. Below is shown a summary of the full training algorithm of an energy model on image modeling:
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/training_algorithm.svg" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/training_algorithm.svg" />
 </p>
 
 The first few statements in each training iteration concern the sampling of the real and fake data, as we have seen above with the sample buffer. Next, we calculate the contrastive divergence objective using our energy model $E_{\theta}$. However, one additional training trick we need is to add a regularization loss on the output of $E_{\theta}$. As the output of the network is not constrained and adding a large bias or not to the output doesn't change the contrastive divergence loss, we need to ensure somehow else that the output values are in a reasonable range. Without the regularization loss, the output values will fluctuate in a very large range. With this, we ensure that the values for the real data are around 0, and the fake data likely slightly lower (for noise or outliers the score can be still significantly lower). As the regularization loss is less important than the Contrastive Divergence, we have a weight factor $\alpha$ which is usually quite some smaller than 1. Finally, we perform an update step with an optimizer on the combined loss and add the new samples to the buffer.
@@ -463,7 +463,7 @@ In the last part of the notebook, we will try to take the trained energy-based g
 The first thing we can look at is the TensorBoard generate during training. This can help us to understand the training dynamic even better, and shows potential issues. Let’s load the TensorBoard below:
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/tensorboard_screenshot.png" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/tensorboard_screenshot.png" />
 </p>
 
 We see that the contrastive divergence as well as the regularization converge quickly to 0. However, the training continues although the loss is always close to zero. This is because our “training” data changes with the model by sampling. The progress of training can be best measured by looking at the samples across iterations, and the score for random images that decreases constantly over time.
@@ -498,7 +498,7 @@ for i in range(imgs_per_step.shape[1]):
 ```
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/generation_results.png" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/generation_results.png" />
 </p>
 
 We see that although starting from noise in the very first step, the sampling algorithm obtains reasonable shapes after only 32 steps. Over the next 200 steps, the shapes become clearer and changed towards realistic digits. The specific samples can differ when you run the code on Colab, hence the following description is specific to the plots shown on the website. The first row shows an 8, where we remove unnecessary white parts over iterations. The transformation across iterations can be seen at best for the second sample, which creates a digit of 2. While the first sample after 32 iterations looks a bit like a digit, but not really, the sample is transformed more and more to a typical image of the digit 2.
@@ -564,7 +564,7 @@ compare_images(exmp_img, img_noisy)
 ```
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/ood_results_1.png" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/ood_results_1.png" />
 </p>
 
 We can see that the score considerably drops. Hence, the model can detect random Gaussian noise on the image. This is also to expect as initially, the “fake” samples are pure noise images.
@@ -577,7 +577,7 @@ compare_images(exmp_img, img_flipped)
 ```
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/ood_results_2.png" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/ood_results_2.png" />
 </p>
 
 If the digit can only be read in this way, for example, the 7, then we can see that the score drops. However, the score only drops slightly. This is likely because of the small size of our model. Keep in mind that generative modeling is a much harder task than classification, as we do not only need to distinguish between classes but learn all details/characteristics of the digits. With a deeper model, this could eventually be captured better (but at the cost of greater training instability).
@@ -591,7 +591,7 @@ compare_images(exmp_img, img_tiny)
 ```
 
 <p align="center" width="100%">
-  <img src="https://github.com/GewelsJI/gewelsji.github.io/tree/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/ood_results_3.png" />
+  <img src="https://github.com/GewelsJI/gewelsji.github.io/blob/master/images/blog_posts/2022-11-29-deep-energy-based-generative-models/ood_results_3.png" />
 </p>
 
 The score again drops but not by a large margin, although digits in the MNIST dataset usually are much larger.
