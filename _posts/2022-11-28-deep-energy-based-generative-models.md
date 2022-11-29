@@ -1,13 +1,15 @@
 ---
 title: '[DL-Tutorial] Deep Energy-Based Generative Models'
-date: 2022-11-28
-permalink: /posts/2022/11/28/deep-energy-based-generative-models/
+date: 2022-11-29
+permalink: /posts/2022/11/29/deep-energy-based-generative-models/
 tags:
   - Research
   - Deep Learning Tutorial
 ---
 
-In this tutorial, we will look at energy-based deep learning models, and focus on their application as generative models. Energy models have been a popular tool before the huge deep learning hype around 2012 hit. However, in recent years, energy-based models have gained increasing attention because of improved training methods and tricks being proposed. Although they are still in a research stage, they have shown to outperform strong Generative Adversarial Networks (Lecture/Tutorial 10) in certain cases which have been the state of the art of generating images (blog post about strong energy-based models, blog post about the power of GANs). Hence, it is important to be aware of energy-based models, and as the theory can be abstract sometimes, we will show the idea of energy-based models with a lot of examples.
+In this tutorial, we will look at energy-based deep learning models, and focus on their application as generative models.
+
+Energy models have been a popular tool before the huge deep learning hype around 2012 hit. However, in recent years, energy-based models have gained increasing attention because of improved training methods and tricks being proposed. Although they are still in a research stage, they have shown to outperform strong Generative Adversarial Networks (Lecture/Tutorial 10) in certain cases which have been the state of the art of generating images (blog post about strong energy-based models, blog post about the power of GANs). Hence, it is important to be aware of energy-based models, and as the theory can be abstract sometimes, we will show the idea of energy-based models with a lot of examples.
 
 # Energy Models
 
@@ -499,14 +501,66 @@ for i in range(imgs_per_step.shape[1]):
 
 We see that although starting from noise in the very first step, the sampling algorithm obtains reasonable shapes after only 32 steps. Over the next 200 steps, the shapes become clearer and changed towards realistic digits. The specific samples can differ when you run the code on Colab, hence the following description is specific to the plots shown on the website. The first row shows an 8, where we remove unnecessary white parts over iterations. The transformation across iterations can be seen at best for the second sample, which creates a digit of 2. While the first sample after 32 iterations looks a bit like a digit, but not really, the sample is transformed more and more to a typical image of the digit 2.
 
-# More details
+# Out-of-distribution detection
+A very common and strong application of energy-based models is out-of-distribution detection (sometimes referred to as “anomaly” detection). As more and more deep learning models are applied in production and applications, **a crucial aspect of these models is to know what the models don’t know.** Deep learning models are usually overconfident, meaning that they classify even random images sometimes with 100% probability. Clearly, this is not something that we want to see in applications. Energy-based models can help with this problem because they are trained to detect images that do not fit the training dataset distribution. Thus, in those applications, you could train an energy-based model along with the classifier, and only output predictions if the energy-based models assign a (unnormalized) probability higher than  to the image. You can actually combine classifiers and energy-based objectives in a single model, as proposed in this [paper](https://arxiv.org/pdf/1912.03263v3.pdf).
 
-Coming soon ...
+In this part of the analysis, we want to test the out-of-distribution capability of our energy-based model. Remember that a lower output of the model denotes a low probability. Thus, we hope to see low scores if we enter random noise to the model:
+
+```python
+with torch.no_grad():
+    rand_imgs = torch.rand((128,) + model.hparams.img_shape).to(model.device)
+    rand_imgs = rand_imgs * 2 - 1.0
+    rand_out = model.cnn(rand_imgs).mean()
+    print(f"Average score for random images: {rand_out.item():4.2f}")
+```
+
+As we hoped, the model assigns very low probability to those noisy images. As another reference, let’s look at predictions for a batch of images from the training set:
+
+```python
+with torch.no_grad():
+    train_imgs,_ = next(iter(train_loader))
+    train_imgs = train_imgs.to(model.device)
+    train_out = model.cnn(train_imgs).mean()
+    print(f"Average score for training images: {train_out.item():4.2f}")
+
+>>> Average score for training images: -0.00
+```
+
+
+The scores are close to 0 because of the regularization objective that was added to the training. So clearly, the model can distinguish between noise and real digits. However, what happens if we change the training images a little, and see which ones gets a very low score?
+
+```python
+@torch.no_grad()
+def compare_images(img1, img2):
+    imgs = torch.stack([img1, img2], dim=0).to(model.device)
+    score1, score2 = model.cnn(imgs).cpu().chunk(2, dim=0)
+    grid = torchvision.utils.make_grid([img1.cpu(), img2.cpu()], nrow=2, normalize=True, range=(-1,1), pad_value=0.5, padding=2)
+    grid = grid.permute(1, 2, 0)
+    plt.figure(figsize=(4,4))
+    plt.imshow(grid)
+    plt.xticks([(img1.shape[2]+2)*(0.5+j) for j in range(2)],
+               labels=["Original image", "Transformed image"])
+    plt.yticks([])
+    plt.show()
+    print(f"Score original image: {score1:4.2f}")
+    print(f"Score transformed image: {score2:4.2f}")
+```
+<p align="center" width="100%">
+  <img src="images/blog_posts/2022-11-28-deep-energy-based-generative-models/ood_results_1.png" />
+</p>
+
+<p align="center" width="100%">
+  <img src="images/blog_posts/2022-11-28-deep-energy-based-generative-models/ood_results_2.png" />
+</p>
+
+<p align="center" width="100%">
+  <img src="images/blog_posts/2022-11-28-deep-energy-based-generative-models/ood_results_3.png" />
+</p>
 
 # Reference
 
-- Original Tutorial: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html#Energy-Models
-- Awesome list of EBM: https://github.com/yataobian/awesome-ebm
-- A Tutorial on Energy-Based Learning - Yann LeCun: http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
-- Yann LeCun | May 18, 2021 | The Energy-Based Learning Model: https://www.youtube.com/watch?v=4lthJd3DNTM
-- Deep Learning 7: Energy-based models: https://www.youtube.com/watch?v=kpulMklVmRU
+- Original Tutorial: ([link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html#Energy-Models))
+- Awesome list of EBM: ([link](https://github.com/yataobian/awesome-ebm))
+- A Tutorial on Energy-Based Learning - Yann LeCun: ([link](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf))
+- Yann LeCun, May 18, 2021, The Energy-Based Learning Model ([link](https://www.youtube.com/watch?v=4lthJd3DNTM))
+- Deep Learning 7: Energy-based models ([link](https://www.youtube.com/watch?v=kpulMklVmRU))
