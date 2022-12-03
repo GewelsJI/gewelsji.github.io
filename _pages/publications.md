@@ -21,7 +21,7 @@ International Journal
 ======
 - **Full-duplex Strategy for Video Object Segmentation**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan#, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao
-  - *Journal:* Computational Visual Media (CVMJ), 2023, 9 (1): 155–175 (IF: 4.127, 中国卓越期刊, JCR分区Q1, Accept rate ~=12.5%)
+  - *Journal:* Computational Visual Media (CVMJ), 2023, 9 (1): 155–175 (IF: 4.127, 中国卓越期刊, CCF T2, JCR分区Q1, Accept rate ~=12.5%)
   - *Info:* Extension of [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Ji_Full-Duplex_Strategy_for_Video_Object_Segmentation_ICCV_2021_paper.html)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2108.03151v3) & [official](https://link.springer.com/article/10.1007/s41095-021-0262-4)) ; Code ([PyTorch](https://github.com/GewelsJI/FSNet)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/FSNet.svg)
 - **Video Polyp Segmentation: A Deep Learning Perspective**
@@ -43,7 +43,7 @@ International Journal
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2102.10274v2) & [official](https://ieeexplore.ieee.org/document/9444794)) ; Code ([PyTorch](https://github.com/GewelsJI/SINet-V2) & [Jittor](https://github.com/GewelsJI/SINet-V2/tree/main/jittor_lib)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/SINet-V2.svg); [Project Page](https://dengpingfan.github.io/pages/COD.html) ; [Online Demo](http://mmcheng.net/cod/) ; [中译版本](https://dengpingfan.github.io/papers/[2021][PAMI]SINetV2_Chinese.pdf) ; [Awesome list for COD](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 - **Cognitive Vision Inspired Object Segmentation Metric and Loss Function**
   - *Authors:* Deng-Ping Fan, **Ge-Peng Ji**, Xuebin Qin, Ming-Ming Cheng#
-  - *Journal:* SCIENTIA SINICA Informationis (SSI), 2021, 51 (9): 1475-1489. (IF: 7.275, CCF A类中文期刊, JCR分区Q1)
+  - *Journal:* SCIENTIA SINICA Informationis (SSI), 2021, 51 (9): 1475-1489. (IF: 7.275, CCF A类中文期刊, CCF T1, JCR分区Q1)
   - Paper ([arXiv](https://dengpingfan.github.io/papers/[2021][SSI]EmeasureEng.pdf) & [Official](https://www.sciengine.com/SSI/doi/10.1360/SSI-2020-0370)) ; Code ([PyTorch](https://github.com/GewelsJI/Hybrid-Eloss/)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/Hybrid-Eloss.svg)
 - **Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images**
   - *Authors:* Deng-Ping Fan, Tao Zhou, **Ge-Peng Ji**, Yi Zhou, Geng Chen#, Huazhu Fu#, Jianbing Shen#, Ling Shao
