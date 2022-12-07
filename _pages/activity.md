@@ -12,6 +12,7 @@ redirect_from:
 Invited Talks
 ======
 
+* Anhui Univeristy Talking 2022: Colonoscopy in the AI Era. <br>
 * VALSE 2021 Spotlight Talking: Camouflaged Object Detection and its Applications ([Poster](http://valser.org/2021/#/poster))<br>
 * Synced-ICCV 2021: Full-Duplex Strategy for Video Object Segmentation <br>
 * CSIG-ICCV 2021: Full-Duplex Strategy for Video Object Segmentation ([Page](https://event.baai.ac.cn/event/162#section-one))<br>
