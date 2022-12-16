@@ -29,7 +29,7 @@ Academic Services
 * Conference on Neural Information Processing Systems ([NeurIPS@2022](https://nips.cc/Conferences/2022))<br>
 * IEEE/CVF Computer Vision and Pattern Recognition Conference ([CVPR@2022](https://cvpr2022.thecvf.com/), [CVPR@2023](https://cvpr2023.thecvf.com/))<br>
 * European Conference on Computer Vision ([ECCV@2022](https://eccv2022.ecva.net/))<br>
-* International Joint Conference on Artificial Intelligence ([IJCAI@2021](https://ijcai-21.org/), [IJCAI@2022](https://ijcai-22.org/))<br>
+* International Joint Conference on Artificial Intelligence ([IJCAI@2021](https://ijcai-21.org/), [IJCAI@2022](https://ijcai-22.org/), [IJCAI@2023](https://ijcai-23.org))<br>
 * International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI@2020](https://miccai2020.org/en/), [MICCAI@2022](https://miccai2022.org/))<br>
 * IEEE International Conference on Acoustics, Speech, & Signal Processing ([ICASSP@2023](https://2023.ieeeicassp.org/))
 * IEEE International Conference on Image Processing ([ICIP@2022](https://2022.ieeeicip.org/))<br>
@@ -39,6 +39,7 @@ Academic Services
 **Journal Reviewer**
   
 * International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263/))<br>
+* IEEE Journal of Biomedical and Health Informatics ([JBHI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020))<br>
 * IEEE Transactions on Medical Imaging ([TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))<br>
 * IEEE Transactions on Visualization and Computer Graphics ([TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945))<br>
 * IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))<br>
