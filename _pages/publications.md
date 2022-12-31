@@ -21,20 +21,20 @@ International Journal
 ======
 - **Full-duplex Strategy for Video Object Segmentation**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan#, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao
-  - *Journal:* Computational Visual Media (CVMJ), 2023, 9 (1): 155–175 (IF: 4.127, 中国卓越期刊, CCF T2, JCR分区Q1, Accept rate ~=12.5%)
+  - *Journal:* Computational Visual Media (CVMJ), 2023, 9 (1): 155–175 (IF: 4.127, 中国国际影响力优秀学术期刊, CCF T2, JCR分区Q1, Accept rate ~=12.5%)
   - *Info:* Extension of [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Ji_Full-Duplex_Strategy_for_Video_Object_Segmentation_ICCV_2021_paper.html)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2108.03151v3) & [official](https://link.springer.com/article/10.1007/s41095-021-0262-4)) ; Code ([PyTorch](https://github.com/GewelsJI/FSNet)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/FSNet.svg)
 - **Video Polyp Segmentation: A Deep Learning Perspective**
   - *Authors:* **Ge-Peng Ji**^, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan#, Kai Zhao, Geng Chen, and Luc Van Gool
-  - *Journal:* Machine Intelligence Research (MIR), 2022, 19 (6): 531-549. (中国卓越期刊)
+  - *Journal:* Machine Intelligence Research (MIR), 2022, 19 (6): 531-549. (中国国际影响力优秀学术期刊)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2203.14291v3) & [official](https://link.springer.com/article/10.1007/s11633-022-1371-y)) ; Code ([PyTorch](https://github.com/GewelsJI/VPS)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/VPS.svg); [Dataset Download](https://github.com/GewelsJI/VPS/blob/main/docs/DATA_PREPARATION.md) ; [Awesome Paper List](https://github.com/GewelsJI/VPS/blob/main/docs/AWESOME_VPS.) ; [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf) ; [Awesome list for VPS](https://github.com/GewelsJI/VPS/blob/main/docs/AWESOME_VPS.md) ; Publicity Page ([EN](https://www.mi-research.net/news/MIRNews/4f8a3e44-f2b9-4e8b-9295-e2122c77293f_en.htm)/[ZH](https://mp.weixin.qq.com/s/wp0MdDxJpZzXyrLzbLhP1w)) 
 - **Deep Gradient Learning for Efficient Camouflaged Object Detection**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan#, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool
-  - *Journal:* Machine Intelligence Research (MIR), 2023. (中国卓越期刊)
+  - *Journal:* Machine Intelligence Research (MIR), 2023, 20 (1): 92-108.  (中国国际影响力优秀学术期刊)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2205.12853v2)) ; Code ([PyTorch](https://github.com/GewelsJI/DGNet) & [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [Huawei Ascend](https://gitee.com/ascend/mindxsdk-referenceapps/tree/master/contrib/CamouflagedObjectDetection)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/DGNet.svg); [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]DGNet_Chinese.pdf)
 - **Masked Vision-Language Transformer in Fashion**
   - *Authors:* **Ge-Peng Ji**^, Mingcheng Zhuge^, Dehong Gao, Deng-Ping Fan#, Christos Sakaridis, Luc Van Gool
-  - *Journal:* Machine Intelligence Research (MIR), 2023. (中国卓越期刊)
+  - *Journal:* Machine Intelligence Research (MIR), 2023. (中国国际影响力优秀学术期刊)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2210.15110)); Code ([PyTorch](https://github.com/GewelsJI/MVLT)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/MVLT.svg) ; [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]MVLT_Chinese.pdf)
 - **Concealed Object Detection**
   - *Authors:* Deng-Ping Fan, **Ge-Peng Ji**, Ming-Ming Cheng#, Ling Shao
