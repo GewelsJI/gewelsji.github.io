@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 
-Note: ^ indicates equal contribuion. # indicates corresponding author.
+Note: ^ indicates equal contribuion. # indicates corresponding author. ([Full Publication List](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en))
 
 <!-- $\color{Brown}{\texttt{International Journal}}$ -->
 
