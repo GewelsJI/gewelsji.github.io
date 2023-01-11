@@ -50,9 +50,9 @@ Recent Updates
 ======
 
 - [Nov 26, 2022] We release two awesome paper reading lists for the [camouflaged object detction (COD)](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md) and [video polyp segmentation (VPS)](https://github.com/GewelsJI/VPS/blob/main/docs/AWESOME_VPS.md)
-- [Nov 04, 2022] One paper about video polyp segmentation is published by Machine Intelligence Research (MIR) journal. ([Open Access](https://link.springer.com/article/10.1007/s11633-022-1371-y) & [MIR News](https://www.mi-research.net/news/MIRNews/4f8a3e44-f2b9-4e8b-9295-e2122c77293f_en.htm))
+- [Nov 04, 2022] One paper about video polyp segmentation is published by Machine Intelligence Research (MIR) journal. ([Open Access - Springer](https://link.springer.com/article/10.1007/s11633-022-1371-y) & [MIR News](https://www.mi-research.net/news/MIRNews/4f8a3e44-f2b9-4e8b-9295-e2122c77293f_en.htm))
 - [Oct 18, 2022] Our paper about video object segmentation is published by Computational Visual Media (CVM) journal. ([Open Access](https://link.springer.com/article/10.1007/s41095-021-0262-4))
-- [Aug 06, 2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal.
+- [Aug 06, 2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal. ([Open Access - Springer](https://link.springer.com/article/10.1007/s11633-022-1365-9))
 
 
 Viewing Stats
