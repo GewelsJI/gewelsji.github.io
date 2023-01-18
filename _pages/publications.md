@@ -39,7 +39,7 @@ International Journal
 - **Concealed Object Detection**
   - *Authors:* Deng-Ping Fan, **Ge-Peng Ji**, Ming-Ming Cheng#, Ling Shao
   - *Journal:* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022, 44 (10): 6024-6042. (IF: 24.314)
-  - *Info:* [JDC 2021 Distinguish Paper](https://dengpingfan.github.io/papers/SINet-V2-Award.pdf) ; Extension of [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html)
+  - *Info:* ESI Highly Cited Paper (1%) ; [JDC 2021 Distinguish Paper](https://dengpingfan.github.io/papers/SINet-V2-Award.pdf) ; Extension of [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2102.10274v2) & [official](https://ieeexplore.ieee.org/document/9444794)) ; Code ([PyTorch](https://github.com/GewelsJI/SINet-V2) & [Jittor](https://github.com/GewelsJI/SINet-V2/tree/main/jittor_lib)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/SINet-V2.svg); [Project Page](https://dengpingfan.github.io/pages/COD.html) ; [Online Demo](http://mmcheng.net/cod/) ; [中译版本](https://dengpingfan.github.io/papers/[2021][PAMI]SINetV2_Chinese.pdf) ; [Awesome list for COD](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 - **Cognitive Vision Inspired Object Segmentation Metric and Loss Function**
   - *Authors:* Deng-Ping Fan, **Ge-Peng Ji**, Xuebin Qin, Ming-Ming Cheng#
