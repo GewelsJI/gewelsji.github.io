@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ======
 
-I joined the College of Engineering, Computing & Cybernetics (CECC), Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and also, fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
+I joined the College of Engineering, Computing & Cybernetics (CECC), Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
 
 <p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
@@ -40,19 +40,19 @@ I joined the College of Engineering, Computing & Cybernetics (CECC), Australian 
 
 Research Interests
 ======
-My primary research interest lies in solving challenging problems in computer vision and machine learning. Especially in designing effective and scalable algorithms for dense prediction problems in the real world, including:
+My primary research interest lies in solving challenging problems in computer vision and machine learning. Especially in designing effective and scalable algorithms for dense prediction problems in the real world, including but not limited in:
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
-- **Automated Driving:** Video Object Segmentation
-- **Medical Image Analysis:** Colonoscopy Polyp Diagnosis, Lung Infection Segmentation
-- **Trustworthy AI:** Open-World Scene Understanding
+- **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
+- **Medical Image Analysis:** AI-enabled Automated Medical Diagnosis (e.g., Colorectal Polyp Segmentation and Lung Infection Segmentation)
+- **Open-World Scene Understanding:** Out-of-distribution Detection, Anomaly Detection
 
 Recent Updates
 ======
 
 - [Feb 14, 2023] Call for paper: [Multi-Modal Representation Learning](https://mp.weixin.qq.com/s/G8LjgU3GdEehOyaSIlrUbw), Special Issue in Machine Intelligence Research (MIR) journal, 2023 (Submission Deadline: July 1, 2023)
-- [Nov 26, 2022] We release two awesome paper reading lists for the [camouflaged object detction (COD)](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md) and [video polyp segmentation (VPS)](https://github.com/GewelsJI/VPS/blob/main/docs/AWESOME_VPS.md)
-- [Nov 04, 2022] One paper about video polyp segmentation is published by Machine Intelligence Research (MIR) journal. ([Open Access - Springer](https://link.springer.com/article/10.1007/s11633-022-1371-y) & [MIR News](https://www.mi-research.net/news/MIRNews/4f8a3e44-f2b9-4e8b-9295-e2122c77293f_en.htm))
-- [Oct 18, 2022] Our paper about video object segmentation is published by Computational Visual Media (CVM) journal. ([Open Access](https://link.springer.com/article/10.1007/s41095-021-0262-4))
+- [Nov 26, 2022] We release two awesome paper reading lists for the [camouflaged object detection (COD)](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md) and [video polyp segmentation (VPS)](https://github.com/GewelsJI/VPS/blob/main/docs/AWESOME_VPS.md)
+- [Nov 04, 2022] One paper about video polyp segmentation is published in Machine Intelligence Research (MIR) journal. ([Open Access - Springer](https://link.springer.com/article/10.1007/s11633-022-1371-y) & [MIR News](https://www.mi-research.net/news/MIRNews/4f8a3e44-f2b9-4e8b-9295-e2122c77293f_en.htm))
+- [Oct 18, 2022] Our paper about video object segmentation is published in Computational Visual Media (CVM) journal. ([Open Access](https://link.springer.com/article/10.1007/s41095-021-0262-4))
 - [Aug 06, 2022] One paper about efficient camouflaged object detection was accepted by Machine Intelligence Research (MIR) journal. ([Open Access - Springer](https://link.springer.com/article/10.1007/s11633-022-1365-9))
 
 
