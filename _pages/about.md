@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ======
 
-I joined the College of Engineering, Computing & Cybernetics (CECC), Australian National University as a Ph.D. student in 2022 fall, under the supervision of [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and fortunately, received academic instructions from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Before that, I received my Master's degree from the School of Computer Science, Wuhan University, in 2021.
+In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Computing & Cybernetics (CECC) at Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I have had the privilege of receiving academic guidance from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Prior to this, in 2021, I obtained my Master's degree from Wuhan University's School of Computer Science.
 
 <p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
@@ -40,7 +40,7 @@ I joined the College of Engineering, Computing & Cybernetics (CECC), Australian 
 
 Research Interests
 ======
-My primary research interest lies in solving challenging problems in computer vision and machine learning. Especially in designing effective and scalable algorithms for dense prediction problems in the real world, including but not limited in:
+My main research interest is to solve complex problems in computer vision and machine learning, particularly by developing efficient and scalable algorithms for dense prediction tasks in real-world scenarios. These tasks include but are not limited to:
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
 - **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
 - **Medical Image Analysis:** AI-enabled Automated Medical Diagnosis (e.g., Colorectal Polyp Segmentation and Lung Infection Segmentation)
