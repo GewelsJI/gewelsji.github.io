@@ -17,6 +17,15 @@ Note: ^ indicates equal contribuion. # indicates corresponding author. ([Full Pu
 
 <!-- $\color{Brown}{\texttt{International Journal}}$ -->
 
+Preprint
+======
+- **Advances in Deep Concealed Scene Understanding**
+  - *Authors:* Deng-Ping Fan, **Ge-Peng Ji**, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool
+  - *Links:* Paper ([Paper](https://arxiv.org/abs/2304.11234)); Project ([Link](https://github.com/DengPingFan/CSU)); [Awesome list for COD](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
+- **SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"**
+  - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan, Peng Xu#, Ming-Ming Cheng, Bowen Zhou, Luc Van Gool
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2304.06022v2))
+
 International Journal
 ======
 - **Full-duplex Strategy for Video Object Segmentation**
