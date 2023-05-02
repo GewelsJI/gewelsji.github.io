@@ -24,7 +24,7 @@ Preprint
   - *Links:* Paper ([Paper](https://arxiv.org/abs/2304.11234)); Project ([Link](https://github.com/DengPingFan/CSU)); [Awesome list for COD](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md); Promotion Piece ([微信公众号解读](https://mp.weixin.qq.com/s/9_v-A-AoHLY_C-Uze1I6PA))
 - **SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan, Peng Xu#, Ming-Ming Cheng, Bowen Zhou, Luc Van Gool
-  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2304.06022v2)); Promotion Piece ([公众号解读](https://mp.weixin.qq.com/s/qYJGdNW3BziShfJalSx1RA))
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2304.06022v3)); Promotion Piece ([公众号解读](https://mp.weixin.qq.com/s/qYJGdNW3BziShfJalSx1RA))
 
 International Journal
 ======
