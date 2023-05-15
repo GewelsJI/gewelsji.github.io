@@ -26,9 +26,9 @@ Academic Services
 
 **Program Committee Member/Conference Reviewer**
 
-* International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022))<br>
+* International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022), [ICLR@2023](https://iclr.cc/Conferences/2023))<br>
 * International Conference on Machine Learning ([ICML@2022](https://icml.cc/Conferences/2022), [ICML@2023](https://icml.cc/Conferences/2023))<br>
-* Conference on Neural Information Processing Systems ([NeurIPS@2022](https://nips.cc/Conferences/2022))<br>
+* Conference on Neural Information Processing Systems ([NeurIPS@2022](https://nips.cc/Conferences/2022), [NeurIPS@2023](https://neurips.cc/Conferences/2023))<br>
 * IEEE/CVF Computer Vision and Pattern Recognition Conference ([CVPR@2022](https://cvpr2022.thecvf.com/), [CVPR@2023](https://cvpr2023.thecvf.com/))<br>
 * International Conference on Computer Vision ([ICCV@2023](https://iccv2023.thecvf.com))<br>
 * European Conference on Computer Vision ([ECCV@2022](https://eccv2022.ecva.net/))<br>
@@ -48,6 +48,7 @@ Academic Services
 * IEEE Transactions on Visualization and Computer Graphics ([TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945))<br>
 * IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))<br>
 * IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046))<br>
+* Computational Visual Media ([CVM](https://www.springer.com/journal/41095))<br>
 * Machine Intelligence Research ([MIR](https://www.springer.com/journal/11633))<br>
 * Information Fusion ([IF](https://www.sciencedirect.com/journal/information-fusion))
 * Neurocomputing ([NC](https://www.elsevier.com/journals/neurocomputing/0925-2312))<br>
@@ -61,5 +62,3 @@ Academic Services
 * International Journal of Imaging Systems and Technology ([IJIST](https://onlinelibrary.wiley.com/journal/10981098))
 * Diagnostics ([Link](https://www.mdpi.com/journal/diagnostics))<br>
 * Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br>
-
-<!-- * Computational Visual Media ([CVM](https://www.springer.com/journal/41095)) -->
