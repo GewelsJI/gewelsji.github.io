@@ -71,3 +71,8 @@ Viewing Stats
 ======
 
 $\color{Brown}{\texttt{Never Underestimate Your Power to Change Yourself!}}$ -->
+
+Useful Links
+======
+
+[Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/); [LaTeX Cheatsheet](https://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf); Python Cheatsheet [1](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) & [2](https://blog.finxter.com/wp-content/uploads/2020/07/Finxter_WorldsMostDensePythonCheatSheet.pdf); [Data Science Cheat Sheet](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
