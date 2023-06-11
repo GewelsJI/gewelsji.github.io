@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "MICS"
+title: "Some Resources"
 permalink: /mics/
 author_profile: true
 ---
