@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ======
 
-In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Computing & Cybernetics (CECC) at Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I have had the privilege of receiving academic guidance from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Prior to this, in 2021, I obtained my Master's degree from Wuhan University's School of Computer Science.
+In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Computing & Cybernetics (CECC) at Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also have the privilege of receiving academic guidance from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Prior to this, in 2021, I obtained my Master's degree from School of Computer Science, Wuhan University.
 
 <p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
@@ -43,7 +43,7 @@ Research Interests
 My main research interest is to solve complex problems in computer vision and machine learning, particularly by developing efficient and scalable algorithms for dense prediction tasks in real-world scenarios. These tasks include but are not limited to:
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
 - **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
-- **Medical Image Analysis:** AI-enabled Automated Medical Diagnosis (e.g., Colorectal Polyp Segmentation and Lung Infection Segmentation)
+- **Medical Image Analysis:** Medical Image Segmentation (e.g., Colorectal Polyp Segmentation and Lung Infection Segmentation), Volumetric Medical Segmentation
 - **Open-World Scene Understanding:** Out-of-distribution Detection, Anomaly Detection
 
 Recent Updates
@@ -72,7 +72,4 @@ Viewing Stats
 
 $\color{Brown}{\texttt{Never Underestimate Your Power to Change Yourself!}}$ -->
 
-Useful Links
-======
 
-[Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/); [LaTeX Cheatsheet](https://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf); [Python Cheatsheet 1](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) & [Python Cheatsheet 2](https://blog.finxter.com/wp-content/uploads/2020/07/Finxter_WorldsMostDensePythonCheatSheet.pdf); [Data Science Cheat Sheet](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
