@@ -8,10 +8,14 @@ author_profile: true
 Welcome to this page, a treasure trove of useful links and resources that will empower you in your computer science journey. This comprehensive collection is carefully curated to enrich your learning experience and empower you to achieve your goals. So, dive in, explore, and unlock your full potential in the fascinating world of computer science and beyond!
 
 
-Cheatsheet
+Research Related
 ======
 
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
+
+Cheatsheet
+======
+
 - [LaTeX Cheatsheet](https://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf)
 - [Python Cheatsheet 1](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) & [Python Cheatsheet 2](https://blog.finxter.com/wp-content/uploads/2020/07/Finxter_WorldsMostDensePythonCheatSheet.pdf)
 - [Data Science Cheatsheet](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
@@ -28,6 +32,7 @@ Research Writing
 ======
 
 - [English for Writing Research Papers](https://link.springer.com/book/10.1007/978-3-319-26094-5)
+- [Free Grammar Check](https://www.aje.com/grammar-check/?utm_source=Website&utm_medium=Springer&utm_campaign=SNAS+Referrals+2022+GC&utm_id=Grammar+Check)
 
 Course
 ======
