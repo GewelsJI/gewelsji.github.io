@@ -11,6 +11,7 @@ Welcome to this page, a treasure trove of useful links and resources that will e
 Research Related
 ======
 
+- [Acceptance Rates of Top-tier Conference/Journal](https://dengpingfan.github.io/pages/Accept.html)
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 
 Cheatsheet
