@@ -29,6 +29,7 @@ Documentations
 - [Pandas](https://pandas.pydata.org/docs/) is a popular Python library for data analysis.
 - [Scikit-learn](https://scikit-learn.org/dev/getting_started.html) is one of the most popular ML libraries for classical ML algorithms.
 - [Matplotlib](https://matplotlib.org/stable/index.html) is a very popular Python library for data visualization.
+- [ENIOPS](https://einops.rocks) supports flexible and powerful tensor operations for readable and reliable code. 
 
 Research Writing
 ======
