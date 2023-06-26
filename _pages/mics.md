@@ -39,6 +39,7 @@ Books
 Blogs
 ======
 - [The Illustrated Transformer (by Jay Alammar)](http://jalammar.github.io/illustrated-transformer/) and its [CN version](https://zhuanlan.zhihu.com/p/48508221) --- best illustration for self-attention mechanism in transformers
+- [研习UNet](https://zhuanlan.zhihu.com/p/44958351)
 
 
 GitHub Repos
