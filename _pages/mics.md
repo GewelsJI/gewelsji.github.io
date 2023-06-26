@@ -29,7 +29,22 @@ Documentations
 - [Pandas](https://pandas.pydata.org/docs/) is a popular Python library for data analysis.
 - [Scikit-learn](https://scikit-learn.org/dev/getting_started.html) is one of the most popular ML libraries for classical ML algorithms.
 - [Matplotlib](https://matplotlib.org/stable/index.html) is a very popular Python library for data visualization.
-- [ENIOPS](https://einops.rocks) supports flexible and powerful tensor operations for readable and reliable code. 
+- [ENIOPS](https://einops.rocks) supports flexible and powerful tensor operations for readable and reliable code.
+
+Books
+======
+- [Understanding Deep Learning (by Simon J.D. Prince)](https://udlbook.github.io/udlbook/)
+
+Blogs
+======
+
+- [The Illustrated Transformer (by Jay Alammar)](http://jalammar.github.io/illustrated-transformer/) and its [CN version](https://zhuanlan.zhihu.com/p/48508221) --- best illustration for self-attention mechanism in transformers
+
+GitHub Repos
+======
+
+- [Awesome List Video Object Segmentation](https://github.com/suhwan-cho/awesome-video-object-segmentation)
+- [Eureka](https://github.com/MrGiovanni/Eureka)
 
 Research Writing
 ======
