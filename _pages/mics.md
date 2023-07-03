@@ -60,5 +60,8 @@ Course
 
 Ability Enhancement
 ======
+- How to do presentation?
+  - [How to Convert your Paper into a Presentation](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/paper-to-talk.original.pdf)
+  - [How to Present a Paper: A Speaker’s Guide](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf)
 - [剑桥大学:语言和写作决定人生发展的潜力](https://www.isee-ai.cn/~zhwshi/writing.pdf)
 - [怎样做到准确有力的表达自己的想法](https://zhuanlan.zhihu.com/p/103430659)
