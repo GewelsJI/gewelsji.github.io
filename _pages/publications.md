@@ -21,7 +21,7 @@ Preprint
 ======
 - **Advances in Deep Concealed Scene Understanding**
   - *Authors:* Deng-Ping Fan, **Ge-Peng Ji**, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool
-  - *Links:* Paper ([Paper](https://arxiv.org/abs/2304.11234)); Project ([Link](https://github.com/DengPingFan/CSU)); [Awesome list for COD](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md); [微信公众号解读](https://mp.weixin.qq.com/s/9_v-A-AoHLY_C-Uze1I6PA)
+  - *Links:* Paper ([Paper](https://arxiv.org/abs/2304.11234v2)); Project ([Link](https://github.com/DengPingFan/CSU)); [Awesome list for COD](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md); [微信公众号解读](https://mp.weixin.qq.com/s/9_v-A-AoHLY_C-Uze1I6PA)
 - **SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan, Peng Xu#, Ming-Ming Cheng, Bowen Zhou, Luc Van Gool
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2304.06022v3)); [公众号解读](https://mp.weixin.qq.com/s/qYJGdNW3BziShfJalSx1RA)
@@ -40,7 +40,7 @@ International Journal
 - **Deep Gradient Learning for Efficient Camouflaged Object Detection**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan#, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool
   - *Journal:* Machine Intelligence Research (MIR), 2023, 20 (1): 92-108.  (中国国际影响力优秀学术期刊)
-  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2205.12853v2) & [Springer](https://link.springer.com/article/10.1007/s11633-022-1365-9)) ; Code ([PyTorch](https://github.com/GewelsJI/DGNet) & [Jittor](https://github.com/GewelsJI/DGNet/tree/main/jittor_lib) & [Huawei Ascend](https://gitee.com/ascend/mindxsdk-referenceapps/tree/master/contrib/CamouflagedObjectDetection)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/DGNet.svg); [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]DGNet_Chinese.pdf); [MIR News (EN)](https://www.mi-research.net/news/MIRNews/489f278d-e3ea-4457-a55e-cc5f42abd62f_en.htm) ; [微信公众号解读](https://mp.weixin.qq.com/s/uLg9r9--Cb-jlArnw9l51g)
+  - *Links:* Paper ([arXiv](https://arxiv.org/abs/2205.12853v2) & [Springer](https://link.springer.com/article/10.1007/s11633-022-1365-9)) ; Code ([PyTorch](https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch) & [Jittor](https://github.com/GewelsJI/DGNet/tree/main/lib_jittor) & [Huawei Ascend](https://gitee.com/ascend/mindxsdk-referenceapps/tree/master/contrib/CamouflagedObjectDetection)) ![Github stars](https://img.shields.io/github/stars/GewelsJI/DGNet.svg); [中译版本](https://dengpingfan.github.io/papers/[2022][MIR]DGNet_Chinese.pdf); [MIR News (EN)](https://www.mi-research.net/news/MIRNews/489f278d-e3ea-4457-a55e-cc5f42abd62f_en.htm) ; [微信公众号解读](https://mp.weixin.qq.com/s/uLg9r9--Cb-jlArnw9l51g)
 - **Masked Vision-Language Transformer in Fashion**
   - *Authors:* **Ge-Peng Ji**^, Mingcheng Zhuge^, Dehong Gao, Deng-Ping Fan#, Christos Sakaridis, Luc Van Gool
   - *Journal:* Machine Intelligence Research (MIR), 2023, 20 (3): 421-434. (中国国际影响力优秀学术期刊)
