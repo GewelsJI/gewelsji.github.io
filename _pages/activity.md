@@ -12,7 +12,9 @@ redirect_from:
 Invited Talks
 ======
 
-* CSIG Student Member Forum 2023: 'Towards AI-Powered Colonoscopy'. ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) <br>
+* 机器智能前沿论坛·第2期 -- 伪装场景感知及多模态应用: '一种基于梯度先验信息学习的高效伪装目标分割方法
+' ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA))
+* 中国图象图形学学会第三期学生会员分享论坛会议: 'Towards AI-Powered Colonoscopy'. ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) <br>
 * Shenzhen Univeristy Talking 2023: 'Towards AI-Powered Colonoscopy'. <br>
 * Anhui Univeristy Talking 2022: 'Colonoscopy in the AI Era'. <br>
 * VALSE 2021 Spotlight Talking: 'Camouflaged Object Detection and its Applications' ([Poster](http://valser.org/2021/#/poster))<br>
