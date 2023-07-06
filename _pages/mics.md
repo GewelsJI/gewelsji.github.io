@@ -40,6 +40,9 @@ Blogs
 ======
 - [The Illustrated Transformer (by Jay Alammar)](http://jalammar.github.io/illustrated-transformer/) and its [CN version](https://zhuanlan.zhihu.com/p/48508221) --- best illustration for self-attention mechanism in transformers
 - [研习UNet](https://zhuanlan.zhihu.com/p/44958351)
+- Semantic (语义)
+  - [浅谈认知智能之语义理解](https://zhuanlan.zhihu.com/p/142034372)
+  - [从感知智能到认知智能：自然语言处理、知识图谱技术的发展与未来](https://zhuanlan.zhihu.com/p/76681176)
 
 
 GitHub Repos
