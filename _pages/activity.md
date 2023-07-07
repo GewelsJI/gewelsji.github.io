@@ -13,7 +13,7 @@ Invited Talks
 ======
 
 * [July-06-2023] 机器智能前沿论坛·第2期 -- 伪装场景感知及多模态应用: '一种基于梯度先验信息学习的高效伪装目标分割方法
-' ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA) & [Recorded Video](https://www.bilibili.com/video/BV1ku411b7pR/?share_source=copy_web&vd_source=8242f3ac4270bc9fe54fc88660b4bc04))
+' ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA) & [Recorded Video](https://www.bilibili.com/video/BV1ku411b7pR?t=602.3))
 * [March-31-2023] 中国图象图形学学会第三期学生会员分享论坛会议: 'Towards AI-Powered Colonoscopy'. ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) <br>
 * [January-06-2023] Shenzhen Univeristy Talking 2023: 'Towards AI-Powered Colonoscopy'. <br>
 * [December-07-2022] Anhui Univeristy Talking 2022: 'Colonoscopy in the AI Era'. <br>

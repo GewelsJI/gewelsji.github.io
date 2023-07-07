@@ -49,6 +49,7 @@ GitHub Repos
 ======
 - [Awesome List Video Object Segmentation](https://github.com/suhwan-cho/awesome-video-object-segmentation)
 - [Eureka](https://github.com/MrGiovanni/Eureka)
+- [Implementation of Denoising Diffusion Probabilistic Model in Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 
 
 Research Writing
