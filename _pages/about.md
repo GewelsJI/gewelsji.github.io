@@ -40,7 +40,7 @@ In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Com
 
 Research Interests
 ======
-My main research interest is to solve complex problems in computer vision and machine learning, particularly by developing efficient and scalable algorithms for dense prediction tasks in real-world scenarios. These tasks include but are not limited to:
+My main research interest is to solve complex perception problems in computer vision and machine learning, particularly by developing efficient and scalable algorithms for dense prediction tasks in real-world scenarios. These tasks include but are not limited to:
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
 - **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
 - **Medical Image Analysis:** Medical Image Segmentation (e.g., Colorectal Polyp Segmentation and Lung Infection Segmentation), Volumetric Medical Segmentation

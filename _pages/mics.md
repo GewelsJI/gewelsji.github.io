@@ -10,6 +10,7 @@ Welcome to this page, a treasure trove of useful links and resources that will e
 
 Research Related
 ======
+- [AI deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
 - [Acceptance Rates of Top-tier Conference/Journal](https://dengpingfan.github.io/pages/Accept.html)
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 - [Critical and Emerging Technologies List Update (by NSTC)](https://www.whitehouse.gov/wp-content/uploads/2022/02/02-2022-Critical-and-Emerging-Technologies-List-Update.pdf)
@@ -33,8 +34,14 @@ Documentations
 
 Books
 ======
-- [Understanding Deep Learning (by Simon J.D. Prince)](https://udlbook.github.io/udlbook/)
-
+- [Understanding Deep Learning (written by Simon J.D. Prince)](https://udlbook.github.io/udlbook/)
+  - FEATURE: An authoritative, accessible, and up-to-date treatment of deep learning that strikes a pragmatic middle ground between theory and practice.
+- [Interactive Linear Algebra (written by Dan Margalit, & Joseph Rabinoff)](https://textbooks.math.gatech.edu/ila/parametric-form.html)
+  - FEATURE: Reading this introductory textbook on linear algebra in a fancy interactive way.
+- [Transformers for Machine Learning (written by Uday Kamath, Kenneth Graham, & Wael Emara)](https://download.bibis.ir/Books/Artificial-Intelligence/Machine-Learning/2022/Transformers-for-Machine-Learning-A-Deep-Dive-by-Taylor-Francis-Group_bibis.ir.pdf)
+  - FEATURE: the first comprehensive book on transformers.
+- [LibreTexts Libraries - Mathmetics](https://math.libretexts.org)
+  - FEATURE: it is Open Access textbook that contains diverse mathmatics books (ie, *Arithmetic and Basic Math*, *Linear Algebra*, *Calculus*), allowing outside experts (students, faculty) to supplant conventional paper-based books
 
 Blogs
 ======
