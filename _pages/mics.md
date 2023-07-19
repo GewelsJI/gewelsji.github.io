@@ -35,13 +35,13 @@ Documentations
 Books
 ======
 - [Understanding Deep Learning (written by Simon J.D. Prince)](https://udlbook.github.io/udlbook/)
-  - FEATURE: An authoritative, accessible, and up-to-date treatment of deep learning that strikes a pragmatic middle ground between theory and practice.
+  - **FEATURE**: An authoritative, accessible, and up-to-date treatment of deep learning that strikes a pragmatic middle ground between theory and practice.
 - [Interactive Linear Algebra (written by Dan Margalit, & Joseph Rabinoff)](https://textbooks.math.gatech.edu/ila/parametric-form.html)
-  - FEATURE: Reading this introductory textbook on linear algebra in a fancy interactive way.
+  - **FEATURE**: Reading this introductory textbook on linear algebra in a fancy interactive way.
 - [Transformers for Machine Learning (written by Uday Kamath, Kenneth Graham, & Wael Emara)](https://download.bibis.ir/Books/Artificial-Intelligence/Machine-Learning/2022/Transformers-for-Machine-Learning-A-Deep-Dive-by-Taylor-Francis-Group_bibis.ir.pdf)
-  - FEATURE: the first comprehensive book on transformers.
+  - **FEATURE**: the first comprehensive book on transformers.
 - [LibreTexts Libraries - Mathmetics](https://math.libretexts.org)
-  - FEATURE: it is Open Access textbook that contains diverse mathmatics books (ie, *Arithmetic and Basic Math*, *Linear Algebra*, *Calculus*), allowing outside experts (students, faculty) to supplant conventional paper-based books
+  - **FEATURE**: it is Open Access textbook that contains diverse mathmatics books (ie, *Arithmetic and Basic Math*, *Linear Algebra*, *Calculus*), allowing outside experts (students, faculty) to supplant conventional paper-based books
 
 Blogs
 ======
@@ -55,8 +55,11 @@ Blogs
 GitHub Repos
 ======
 - [Awesome List Video Object Segmentation](https://github.com/suhwan-cho/awesome-video-object-segmentation)
-- [Eureka](https://github.com/MrGiovanni/Eureka)
+  - **FEATURE**: Latest VOS papers.
+- [Academic Writing Skills by Zongwei Zhou](https://github.com/MrGiovanni/Eureka/blob/master/Academic%20writing.md)
 - [Implementation of Denoising Diffusion Probabilistic Model in Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/main)
+  - **FEATURE**: A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others.
 
 
 Research Writing
