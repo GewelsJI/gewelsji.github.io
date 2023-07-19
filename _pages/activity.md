@@ -41,9 +41,9 @@ IJCAI@2023 (PC Member List): https://ijcai-23.org/pc-member-list/
 * International Joint Conference on Artificial Intelligence ([IJCAI@2021](https://ijcai-21.org/), [IJCAI@2022](https://ijcai-22.org/), [IJCAI@2023](https://ijcai-23.org))<br>
 * International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI@2020](https://miccai2020.org/en/), [MICCAI@2022](https://miccai2022.org/), [MICCAI@2023](https://conferences.miccai.org/2023/en/))<br>
 * IEEE International Conference on Acoustics, Speech, & Signal Processing ([ICASSP@2023](https://2023.ieeeicassp.org/))
-* IEEE International Conference on Image Processing ([ICIP@2022](https://2022.ieeeicip.org/))<br>
+* IEEE International Conference on Image Processing ([ICIP@2022](https://2022.ieeeicip.org/), [ICIP@2023](https://2023.ieeeicip.org))<br>
 * IEEE International Symposium on Mixed and Augmented Reality ([ISMAR@2021](https://ismar21.org/))<br>
-* Chinese Conference on Pattern Recognition and Computer Vision ([PRCV@2021](http://2021.prcv.cn/))<br>
+* Chinese Conference on Pattern Recognition and Computer Vision ([PRCV@2021](http://2021.prcv.cn/), PRCV2023)<br>
 
 **Journal Reviewer**
 
