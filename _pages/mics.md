@@ -60,7 +60,8 @@ GitHub Repos
 - [Implementation of Denoising Diffusion Probabilistic Model in Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/main)
   - **FEATURE**: A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others.
-
+- [Awesome-Parameter-Efficient-Transfer-Learning](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning)
+  - **FEATURE**: A collection of parameter-efficient transfer learning papers focusing on computer vision and multimodal domains.
 
 Research Writing
 ======
