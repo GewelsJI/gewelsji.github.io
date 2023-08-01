@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ======
 
-In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Computing & Cybernetics (CECC) at Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also have the privilege of receiving academic guidance from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Prior to this, in 2021, I obtained my Master's degree from School of Computer Science, Wuhan University.
+In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Computing & Cybernetics (CECC) at the Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also have the privilege of receiving academic guidance from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Prior to this, in 2021, I obtained my Master's degree from School of Computer Science, Wuhan University.
 
 <p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
