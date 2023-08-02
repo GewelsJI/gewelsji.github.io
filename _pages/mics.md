@@ -54,24 +54,21 @@ Blogs
 
 GitHub Repos
 ======
-- [Awesome List Video Object Segmentation](https://github.com/suhwan-cho/awesome-video-object-segmentation)
-  - **FEATURE**: Latest VOS papers.
-- [Academic Writing Skills by Zongwei Zhou](https://github.com/MrGiovanni/Eureka/blob/master/Academic%20writing.md)
-- [Implementation of Denoising Diffusion Probabilistic Model in Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
-- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/main)
-  - **FEATURE**: A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others.
-- [Awesome-Parameter-Efficient-Transfer-Learning](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning)
-  - **FEATURE**: A collection of parameter-efficient transfer learning papers focusing on computer vision and multimodal domains.
+- [Awesome List Video Object Segmentation](https://github.com/suhwan-cho/awesome-video-object-segmentation): Latest VOS papers.
+- [Academic Writing Skills by Zongwei Zhou](https://github.com/MrGiovanni/Eureka/blob/master/Academic%20writing.md): Some writing skills
+- [Implementation of Denoising Diffusion Probabilistic Model in Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch): Collection of DDPM written by pytorch
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/main): A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others.
+- [Awesome-Parameter-Efficient-Transfer-Learning](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning): A collection of parameter-efficient transfer learning papers focusing on computer vision and multimodal domains.
 
 Research Writing
 ======
 - [English for Writing Research Papers](https://link.springer.com/book/10.1007/978-3-319-26094-5)
 - [Free Grammar Check](https://www.aje.com/grammar-check/?utm_source=Website&utm_medium=Springer&utm_campaign=SNAS+Referrals+2022+GC&utm_id=Grammar+Check)
 
-Course
+Workshop/Tutorial
 ======
 - [GeeksforGeeks: Machine Learning Tutorial](https://www.geeksforgeeks.org/machine-learning/)
-
+- [All Things ViTs: Understanding and Interpreting Attention in Vision](https://all-things-vits.github.io/atv/) @CVPR2023
 
 Ability Enhancement
 ======
