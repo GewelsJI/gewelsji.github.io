@@ -14,6 +14,7 @@ Research Related
 - [Acceptance Rates of Top-tier Conference/Journal](https://dengpingfan.github.io/pages/Accept.html)
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 - [Critical and Emerging Technologies List Update (by NSTC)](https://www.whitehouse.gov/wp-content/uploads/2022/02/02-2022-Critical-and-Emerging-Technologies-List-Update.pdf)
+- [12 Machine Learning Books You Should Read in 2023](https://mltechniques.com/2022/10/26/11-machine-learning-books-you-should-read-in-2023/?amp=1)
 
 
 Cheatsheet
@@ -77,3 +78,9 @@ Ability Enhancement
   - [How to Present a Paper: A Speaker’s Guide](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf)
 - [剑桥大学:语言和写作决定人生发展的潜力](https://www.isee-ai.cn/~zhwshi/writing.pdf)
 - [怎样做到准确有力的表达自己的想法](https://zhuanlan.zhihu.com/p/103430659)
+
+
+Something interesting
+======
+- [Medivis](https://www.medivis.com) revolutionize AR solutions for medicine, including two majors: [SurgicalAR](https://www.medivis.com/surgical-ar) for surgical imaging platform & [AnatomyX](https://www.medivis.com/anatomy-x) for health education.
+  - These solutions can be corporated into Apple Vision Pro platform.
