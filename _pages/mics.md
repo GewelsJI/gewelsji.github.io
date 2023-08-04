@@ -43,6 +43,9 @@ Books
   - **FEATURE**: the first comprehensive book on transformers.
 - [LibreTexts Libraries - Mathmetics](https://math.libretexts.org)
   - **FEATURE**: it is Open Access textbook that contains diverse mathmatics books (ie, *Arithmetic and Basic Math*, *Linear Algebra*, *Calculus*), allowing outside experts (students, faculty) to supplant conventional paper-based books
+- [Approaching (Almost) Any Machine Learning Problem - Abhishek Thakur](https://docdrop.org/download_annotation_doc/AAAMLP-569to.pdf) (github project: [link](https://github.com/abhishekkrthakur/approachingalmost))
+  - This book is written by World's first quadruple grandmaster -- [Abhishek](https://www.kaggle.com/abhishek). It serves as an invaluable guide for both beginners and experienced practitioners in the field of machine learning.
+
 
 Blogs
 ======
@@ -61,15 +64,18 @@ GitHub Repos
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/main): A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others.
 - [Awesome-Parameter-Efficient-Transfer-Learning](https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning): A collection of parameter-efficient transfer learning papers focusing on computer vision and multimodal domains.
 
+
 Research Writing
 ======
 - [English for Writing Research Papers](https://link.springer.com/book/10.1007/978-3-319-26094-5)
 - [Free Grammar Check](https://www.aje.com/grammar-check/?utm_source=Website&utm_medium=Springer&utm_campaign=SNAS+Referrals+2022+GC&utm_id=Grammar+Check)
 
+
 Workshop/Tutorial
 ======
 - [GeeksforGeeks: Machine Learning Tutorial](https://www.geeksforgeeks.org/machine-learning/)
 - [All Things ViTs: Understanding and Interpreting Attention in Vision](https://all-things-vits.github.io/atv/) @CVPR2023
+
 
 Ability Enhancement
 ======
