@@ -44,6 +44,7 @@ IJCAI@2023 (PC Member List): https://ijcai-23.org/pc-member-list/
 * IEEE International Conference on Image Processing ([ICIP@2022](https://2022.ieeeicip.org/), [ICIP@2023](https://2023.ieeeicip.org))<br>
 * IEEE International Symposium on Mixed and Augmented Reality ([ISMAR@2021](https://ismar21.org/))<br>
 * Chinese Conference on Pattern Recognition and Computer Vision ([PRCV@2021](http://2021.prcv.cn/), PRCV2023)<br>
+* Australasian Joint Conference on Artificial Intelligence ([AJCAI@2023](https://ajcai2023.org))<br>
 
 **Journal Reviewer**
 
