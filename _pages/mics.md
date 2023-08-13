@@ -54,6 +54,8 @@ Blogs
 - Semantic (语义)
   - [浅谈认知智能之语义理解](https://zhuanlan.zhihu.com/p/142034372)
   - [从感知智能到认知智能：自然语言处理、知识图谱技术的发展与未来](https://zhuanlan.zhihu.com/p/76681176)
+- [Transformer Taxonomy (the last lit review)](https://kipp.ly/transformer-taxonomy/)
+  - It covers 22 models, 11 architectural changes, 7 post-pre-training techniques and 3 training techniques (and 5 things that are none of the above).
 
 
 GitHub Repos
