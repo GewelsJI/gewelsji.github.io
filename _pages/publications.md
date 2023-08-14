@@ -28,8 +28,8 @@ International Journal
 ======
 - **Advances in Deep Concealed Scene Understanding**
   - *Authors:* Deng-Ping Fan#, **Ge-Peng Ji**, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool
-  - *Journal:* Visual Intelligence (VINT), 1 (2023). (中国国际影响力优秀学术期刊)
-  - *DOI:* https://doi.org/10.1007/s44267-023-00019-6
+  - *Journal:* Visual Intelligence (VINT), 1, 16 (2023). (中国国际影响力优秀学术期刊)
+  - *DOI:* [https://doi.org/10.1007/s44267-023-00019-6](https://doi.org/10.1007/s44267-023-00019-6)
   - *Links:* Paper ([Paper](https://arxiv.org/abs/2304.11234v2) & [中译版本](https://dengpingfan.github.io/papers/[2023][VI]CSU_Chinese.pdf)); Project ([Link](https://github.com/DengPingFan/CSU)); [Awesome list for COD](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md); [微信公众号解读](https://mp.weixin.qq.com/s/9_v-A-AoHLY_C-Uze1I6PA)
 - **Full-duplex Strategy for Video Object Segmentation**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan#, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao
