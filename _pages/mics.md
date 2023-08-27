@@ -62,6 +62,7 @@ GitHub Repos
 ======
 - [Awesome List Video Object Segmentation](https://github.com/suhwan-cho/awesome-video-object-segmentation): Latest VOS papers.
 - [Academic Writing Skills by Zongwei Zhou](https://github.com/MrGiovanni/Eureka/blob/master/Academic%20writing.md): Some writing skills
+- [Learning Reseach](https://github.com/pengsida/learning_research)
 - [English Writing Skills](https://github.com/yzy1996/English-Writing)
 - [Implementation of Denoising Diffusion Probabilistic Model in Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch): Collection of DDPM written by pytorch
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/main): A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others.
