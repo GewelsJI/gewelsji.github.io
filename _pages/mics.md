@@ -7,6 +7,9 @@ author_profile: true
 
 Welcome to this page, a treasure trove of useful links and resources that will empower you in your computer science journey. This comprehensive collection is carefully curated to enrich your learning experience and empower you to achieve your goals. So, dive in, explore, and unlock your full potential in the fascinating world of computer science and beyond!
 
+<!-- - https://github.com/GewelsJI/gewelsji.github.io/blob/master/
+- https://gewelsji.github.io/assets/2019年CCF推荐中文科技期刊目录.pdf
+- https://dengpingfan.github.io/papers/CCF-ChineseJRecommend-2019.pdf -->
 
 Paper Rating
 ======
