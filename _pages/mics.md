@@ -7,19 +7,15 @@ author_profile: true
 
 Welcome to this page, a treasure trove of useful links and resources that will empower you in your computer science journey. This comprehensive collection is carefully curated to enrich your learning experience and empower you to achieve your goals. So, dive in, explore, and unlock your full potential in the fascinating world of computer science and beyond!
 
-<!-- - https://github.com/GewelsJI/gewelsji.github.io/blob/master/
-- https://gewelsji.github.io/assets/2019年CCF推荐中文科技期刊目录.pdf
-- https://dengpingfan.github.io/papers/CCF-ChineseJRecommend-2019.pdf -->
-
 Paper Rating
 ======
-- 2023年CCF推荐国际学术会议和期刊目录 ([中国计算机学会官网页面](https://www.ccf.org.cn/Academic_Evaluation/By_category/), [PDF]())
-  - 2019年版本 ([中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml))
-- 2019年CCF推荐中文科技期刊目录 ([中国计算机学会官网页面](https://www.ccf.org.cn/c/2019-07-31/667609.shtml), [PDF]())
+- 2023年CCF推荐国际学术会议和期刊目录 ([中国计算机学会官网页面](https://www.ccf.org.cn/Academic_Evaluation/By_category/), [PDF](https://github.com/GewelsJI/gewelsji.github.io/blob/master/docs/2022年CCF中国计算机学会推荐国际学术会议和期刊目录.pdf))
+  - 2019年版本 ([中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml), [PDF](https://github.com/GewelsJI/gewelsji.github.io/blob/master/docs/2019年CCF推荐国际学术会议和期刊目录.pdf))
+- 2019年CCF推荐中文科技期刊目录 ([中国计算机学会官网页面](https://www.ccf.org.cn/c/2019-07-31/667609.shtml), [PDF](https://github.com/GewelsJI/gewelsji.github.io/blob/master/docs/2019年CCF推荐中文科技期刊目录.pdf))
   - CCF中文目录分为A、B、C三类，A为最顶级期刊，B为非常优秀期刊，C为优秀期刊。其中，A类期刊7本，B类期刊11本，C类期刊19本。
-- 2022年CCF计算领域高质量科技期刊分级目录 ([中国计算机学会官网页面](https://www.ccf.org.cn/ccftjgjxskwml/), [PDF]())
+- 2022年CCF计算领域高质量科技期刊分级目录 ([中国计算机学会官网页面](https://www.ccf.org.cn/ccftjgjxskwml/), [PDF](https://github.com/GewelsJI/gewelsji.github.io/blob/master/docs/2022年CCF计算领域高质量科技期刊分级目录.pdf))
   - “计算领域高质量科技期刊分级目录”分为T1、T2、T3三类，T1为最顶级期刊，T2为非常优秀期刊，T3为优秀期刊。其中，T1类期刊16本，T2类期刊23本，T3类期刊29本。
-- 清华大学计算机学科群 推荐学术会议和期刊列表 (TH-CPL, [PDF]())
+- 清华大学计算机学科群 推荐学术会议和期刊列表 (TH-CPL, [PDF](https://github.com/GewelsJI/gewelsji.github.io/blob/master/docs/2019年清华大学计算机学科群推荐学术会议和期刊列表(TH-CPL).pdf))
   - 将推荐的学术会议和期刊划分为 A、B 两类
 
 Research Related
