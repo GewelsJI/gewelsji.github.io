@@ -11,11 +11,16 @@ redirect_from:
 
 Working Experience
 ======
+- **Mohamed bin Zayed University of Artificial Intelligence (Abu Dhabi, UAE)**
+  - *Duration:* March 2023 ~ September 2022
+  - *Position:* Research Assistant (Machine Learning Department)
+  - *Advisor:* [Huan Xiong](https://mbzuai.ac.ae/study/faculty/huan-xiong/) (Assistant Professor)
+  - Research on concealed sence understanding & vision foundation models.
 - **Sensing IntelliGence and MAchine learning laboratory, SIGMA LAB (Wuhan, China)**
   - *Duration:* April 2022 ~ July 2022
   - *Position:* Research Assistant
   - *Advisor:* [Lefei Zhang](https://scholar.google.com/citations?user=BLKHwNwAAAAJ&hl=en) (Professor) & [Bo Du](https://scholar.google.com/citations?hl=en&user=Shy1gnMAAAAJ) (Professor)
-  - Research on Healthcare AI.
+  - Research on healthcare AI.
 - **Alibaba Group (Hangzhou, China)**
   - *Duration:* June 2021 ~ March 2022
   - *Position:* Research Intern (ICBU Technology Department)
