@@ -24,7 +24,7 @@ International Journal
 ======
 - **SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"**
   - *Authors:* **Ge-Peng Ji**, Deng-Ping Fan, Peng Xu#, Ming-Ming Cheng, Bowen Zhou, Luc Van Gool
-  - *Journal:* SCIENCE CHINA Information Sciences (SCIS), xxx. (CCF-A类, CCF T1分级, SCI IF: 8.8)
+  - *Journal:* SCIENCE CHINA Information Sciences , Volume 66, Issue 12: 226101 (2023). (CCF-A类, CCF T1分级, SCI IF: 8.8, 中国最具国际影响力学术期刊)
   - *Links:* Paper ([arXiv](https://arxiv.org/abs/2304.06022v3) & [Official PDF](http://scis.scichina.com/en/2023/226101.pdf) & [SciEngine](http://engine.scichina.com/doi/10.1007/s11432-023-3881-x)); [中国科学信息科学官方公众号解读](https://mp.weixin.qq.com/s/o4wNhZ1SAE0ARhPQRH2T2g)
 - **Advances in Deep Concealed Scene Understanding**
   - *Authors:* Deng-Ping Fan#, **Ge-Peng Ji**, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool

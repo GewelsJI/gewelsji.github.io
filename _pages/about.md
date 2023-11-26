@@ -44,7 +44,7 @@ My primary research interest is to solve complex perception problems using compu
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
 - **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
 - **Medical Image Analysis:** Medical Image Segmentation (e.g., Colorectal Polyp Segmentation and Lung Infection Segmentation), Volumetric Medical Segmentation
-- **Open-World Scene Understanding:** Out-of-distribution Detection, Anomaly Detection
+- **Open-World Scene Understanding:** Out-of-distribution Detection, Large Multi-modal Models
 
 Recent Updates
 ======
