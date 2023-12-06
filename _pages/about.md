@@ -42,7 +42,7 @@ Research Interests
 ======
 My primary research interest is to solve complex perception problems using computer vision and machine learning techniques, particularly by developing efficient and scalable algorithms for dense prediction tasks in real-world scenarios. These tasks include but are not limited to:
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
-- - **Medical Image Segmentation:** Colorectal Polyp Segmentation, Lung Infection Segmentation
+- **Medical Image Segmentation:** Colorectal Polyp Segmentation, Lung Infection Segmentation
 - **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
 - **Open-World Scene Understanding:** Out-of-distribution Detection, Large Multi-modal Models (LMMs)
 
