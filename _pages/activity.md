@@ -71,3 +71,12 @@ IJCAI@2023 (PC Member List): https://ijcai-23.org/pc-member-list/
 * International Journal of Imaging Systems and Technology ([IJIST](https://onlinelibrary.wiley.com/journal/10981098))
 * Diagnostics ([Link](https://www.mdpi.com/journal/diagnostics))<br>
 * Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br>
+
+
+Awards
+======
+- 2024 IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer
+- 2021 Jittor Developer Conference Distinguish Paper & Most Influential (Application) Paper
+- 2021 MICCAI Student Travel Award ([MICCAI link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
+- 2020 Multimedia Evaluation Benchmark Workshop (Ranking top-1 in terms of accuracy metric)
+- 2019 Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top-6\%).
