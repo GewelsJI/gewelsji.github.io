@@ -75,8 +75,9 @@ IJCAI@2023 (PC Member List): https://ijcai-23.org/pc-member-list/
 
 Awards
 ======
-- 2024 IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer
-- 2021 Jittor Developer Conference Distinguish Paper & Most Influential (Application) Paper
-- 2021 MICCAI Student Travel Award ([MICCAI link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
-- 2020 Multimedia Evaluation Benchmark Workshop (Ranking top-1 in terms of accuracy metric)
-- 2019 Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top-6\%).
+- [2024] MIR Outstanding Reviewer Award in 2023 ([MIR Journal News](https://link.springer.com/journal/11633/updates/26630820))
+- [2023] IEEE Transactions on Medical Imaging Distinguished Reviewer (Bronze Level 2022 – 2023)
+- [2021] Jittor Developer Conference Distinguish Paper & Most Influential (Application) Paper
+- [2021] MICCAI Student Travel Award ([MICCAI link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
+- [2020] Multimedia Evaluation Benchmark Workshop (Ranking top-1 in terms of accuracy metric)
+- [2019] Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top-6\%).
