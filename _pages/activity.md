@@ -81,3 +81,9 @@ Awards
 - [2021] MICCAI Student Travel Award ([MICCAI link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
 - [2020] Multimedia Evaluation Benchmark Workshop (Ranking top-1 in terms of accuracy metric)
 - [2019] Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top-6\%).
+
+Collaborators
+======
+- Qi Ma (Now PhD@NKU, Media Computing Lab)
+- [Mingchen Zhuge](https://scholar.google.com.tw/citations?user=Qnj6XlMAAAAJ&hl=en) (Now PhD@KAUST, AI Initiative)
+- [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (Now PhD@JHU, CCVL)

@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ======
 
-In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Computing & Cybernetics (CECC) at the Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also have the privilege of receiving academic guidance from [Dr. Deng-Ping Fan](https://dengpingfan.github.io/). Prior to this, in 2021, I obtained my Master's degree from School of Computer Science, Wuhan University.
+In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Computing & Cybernetics (CECC) at the Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also have the privilege of receiving academic guidance from [Prof. Deng-Ping Fan](https://dengpingfan.github.io/). Prior to this, in 2021, I obtained my Master's degree from School of Computer Science, Wuhan University.
 
 <p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
@@ -44,7 +44,7 @@ My primary research interest is to solve complex perception problems using compu
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
 - **Medical Image Segmentation:** Colorectal Polyp Segmentation, Lung Infection Segmentation
 - **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
-- **Open-World Scene Understanding:** Out-of-distribution Detection, Large Multi-modal Models (LMMs)
+- **Open-World Scene Understanding:** Out-of-distribution Detection, Open-vocabulary, Large Multimodal Models (LMMs)
 
 Recent Updates
 ======
