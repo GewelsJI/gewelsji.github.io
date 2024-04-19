@@ -75,6 +75,7 @@ IJCAI@2023 (PC Member List): https://ijcai-23.org/pc-member-list/
 
 Awards
 ======
+- [2024] CVM Honorable Paper Mention Award in 2023 ([Journal Updates](https://link.springer.com/journal/41095/updates/26965690))
 - [2024] MIR Outstanding Reviewer Award in 2023 ([MIR Journal News](https://link.springer.com/journal/11633/updates/26630820))
 - [2023] IEEE Transactions on Medical Imaging Distinguished Reviewer (Bronze Level 2022 – 2023)
 - [2021] Jittor Developer Conference Distinguish Paper & Most Influential (Application) Paper
