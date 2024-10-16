@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ======
 
-In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Computing & Cybernetics (CECC) at the Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also have the privilege of receiving academic guidance from [Prof. Deng-Ping Fan](https://dengpingfan.github.io/). Prior to this, in 2021, I obtained my Master's degree from School of Computer Science, Wuhan University.
+In the autumn of 2022, I embarked on my Ph.D. journey at the Australian National University's School of Computing. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also benefit from the academic mentorship of [Prof. Deng-Ping Fan](https://dengpingfan.github.io/). Before this, I obtained my Master's degree in 2021 from the School of Computer Science at Wuhan University. My main research focus is on addressing complex perception challenges using computer vision and machine learning techniques, particularly by crafting effective and scalable algorithms for dense prediction tasks in real-world contexts. I frequently serve as a reviewer for top-tier conferences and journals such as TPAMI, TIP, IJCV, CVPR, ICCV, etc. I am honored to be ranked among the list of Stanford/Elsevier world's top2 scientists in 2024 ([link](https://topresearcherslist.com/Home/Profile/924272)).
 
 <p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
@@ -40,11 +40,13 @@ In the fall of 2022, I began my Ph.D. studies at the College of Engineering, Com
 
 Research Interests
 ======
-My primary research interest is to solve complex perception problems using computer vision and machine learning techniques, particularly by developing efficient and scalable algorithms for dense prediction tasks in real-world scenarios. These tasks include but are not limited to:
+
+ These tasks include but are not limited to:
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
+- **Open-World Scene Understanding:** Out-of-distribution Detection, Open-vocabulary, Large Multimodal Models (LMMs)
 - **Medical Image Segmentation:** Colorectal Polyp Segmentation, Lung Infection Segmentation
 - **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
-- **Open-World Scene Understanding:** Out-of-distribution Detection, Open-vocabulary, Large Multimodal Models (LMMs)
+
 
 Recent Updates
 ======

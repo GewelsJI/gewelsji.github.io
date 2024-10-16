@@ -29,10 +29,6 @@ Academic Services
 
 **Program Committee Member/Conference Reviewer**
 
-<!-- 
-IJCAI@2023 (PC Member List): https://ijcai-23.org/pc-member-list/
- -->
-
 * International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022), [ICLR@2023](https://iclr.cc/Conferences/2023))<br>
 * International Conference on Machine Learning ([ICML@2022](https://icml.cc/Conferences/2022), [ICML@2023](https://icml.cc/Conferences/2023))<br>
 * Conference on Neural Information Processing Systems ([NeurIPS@2022](https://nips.cc/Conferences/2022), [NeurIPS@2023](https://neurips.cc/Conferences/2023))<br>
@@ -75,6 +71,8 @@ IJCAI@2023 (PC Member List): https://ijcai-23.org/pc-member-list/
 
 Awards
 ======
+- [2024] MICCAI2024 Young Scientist Publication Impact Award Shortlist
+- [2024] Stanford/Elsevier Top 2% Scientists List 2024 ([Link](https://topresearcherslist.com/Home/Profile/924272)))
 - [2024] CVM Honorable Paper Mention Award in 2023 ([Journal Updates](https://link.springer.com/journal/41095/updates/26965690))
 - [2024] MIR Outstanding Reviewer Award in 2023 ([MIR Journal News](https://link.springer.com/journal/11633/updates/26630820))
 - [2023] IEEE Transactions on Medical Imaging Distinguished Reviewer (Bronze Level 2022 – 2023)
@@ -85,6 +83,7 @@ Awards
 
 Collaborators
 ======
+- Jingyi Liu
 - Qi Ma (Now PhD@NKU, Media Computing Lab)
 - [Mingchen Zhuge](https://scholar.google.com.tw/citations?user=Qnj6XlMAAAAJ&hl=en) (Now PhD@KAUST, AI Initiative)
 - [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (Now PhD@JHU, CCVL)
