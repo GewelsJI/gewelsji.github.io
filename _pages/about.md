@@ -41,7 +41,8 @@ In the autumn of 2022, I embarked on my Ph.D. journey at the Australian National
 Research Interests
 ======
 
- These tasks include but are not limited to:
+My research areas include but are not limited to:
+
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
 - **Open-World Scene Understanding:** Out-of-distribution Detection, Open-vocabulary, Large Multimodal Models (LMMs)
 - **Medical Image Segmentation:** Colorectal Polyp Segmentation, Lung Infection Segmentation
