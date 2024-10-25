@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ======
 
-In the autumn of 2022, I embarked on my Ph.D. journey at the Australian National University's School of Computing. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also benefit from the academic mentorship of [Prof. Deng-Ping Fan](https://dengpingfan.github.io/). Before this, I obtained my Master's degree in 2021 from the School of Computer Science at Wuhan University. My main research focus is on addressing complex perception challenges using computer vision and machine learning techniques, particularly by crafting effective and scalable algorithms for dense prediction tasks in real-world contexts. I frequently serve as a reviewer for top-tier conferences and journals such as TPAMI, TIP, IJCV, CVPR, ICCV, etc. I am honored to be ranked among the list of Stanford/Elsevier world's top2 scientists in 2024 ([link](https://topresearcherslist.com/Home/Profile/924272)).
+In the autumn of 2022, I embarked on my Ph.D. journey at the Australian National University's School of Computing. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also benefit from the academic mentorship of [Prof. Deng-Ping Fan](https://dengpingfan.github.io/). Before this, I obtained my Master's degree in 2021 from the School of Computer Science at Wuhan University. My main research focus is on addressing complex perception problems using computer vision and machine learning techniques, particularly by crafting effective and scalable algorithms for real-world applications. I frequently serve as a reviewer for top-tier conferences and journals such as TPAMI, TIP, IJCV, CVPR, ICCV, etc. I am honored to be ranked among the list of Stanford/Elsevier world's top2 scientists in 2024 ([link](https://topresearcherslist.com/Home/Profile/924272)).
 
 <p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
@@ -45,13 +45,14 @@ My research areas include but are not limited to:
 
 - **Complex Scene Understanding:** Camouflaged/Salient Object Discovery on different data modalities (e.g., RGB, RGB-Depth, RGB-Thermal, Light-Field)
 - **Open-World Scene Understanding:** Out-of-distribution Detection, Open-vocabulary, Large Multimodal Models (LMMs)
-- **Medical Image Segmentation:** Colorectal Polyp Segmentation, Lung Infection Segmentation
+- **Medical Image Analysis:** Multimodal Medical AI, Colorectal Polyp Segmentation, Lung Infection Segmentation
 - **Video Analysis:** Video Object Segmentation, Video Camouflaged/Salient Object Detection, Motion Segmentation
 
 
 Recent Updates
 ======
 
+- [Oct 16, 2024] We launch [IntelliScope project](https://github.com/ai4colonoscopy/IntelliScope) to explore the frontiers of intelligent colonoscopy techniques and their potential impact on multimodal medical applications. (ColonSurvey | ColonINST | ColonGPT)
 - [Sep 28, 2023] We conduct empirical studies on the Segment Anything Model (SAM) by investigating its abilty on three concealed scenarios. ([arXiv](https://arxiv.org/abs/2304.06022v3) & [公众号解读](https://mp.weixin.qq.com/s/qYJGdNW3BziShfJalSx1RA)), which was accepted by SCIS journal.
 - [Apr 25, 2023] We release a comprehensive survey paper about 'Deep Concealed Scene Understanding'. ([arXiv](https://arxiv.org/abs/2304.11234) & [Project](https://github.com/DengPingFan/CSU) & [公众号解读](https://mp.weixin.qq.com/s/9_v-A-AoHLY_C-Uze1I6PA))
 - [Feb 14, 2023] Call for paper: [Multi-Modal Representation Learning](https://mp.weixin.qq.com/s/G8LjgU3GdEehOyaSIlrUbw), Special Issue in Machine Intelligence Research (MIR) journal, 2023 (Submission Deadline: July 1, 2023)
