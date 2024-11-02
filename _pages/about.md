@@ -52,7 +52,7 @@ My research areas include but are not limited to:
 Recent Updates
 ======
 
-- [Oct 16, 2024] We launch [IntelliScope project](https://github.com/ai4colonoscopy/IntelliScope) to explore the frontiers of intelligent colonoscopy techniques and their potential impact on multimodal medical applications. (ColonSurvey | ColonINST | ColonGPT)
+- [Oct 16, 2024] We launch [IntelliScope project](https://github.com/ai4colonoscopy/IntelliScope) to explore the frontiers of intelligent colonoscopy techniques and their potential impact on multimodal medical applications. (ColonSurvey & ColonINST & ColonGPT)
 - [Sep 28, 2023] We conduct empirical studies on the Segment Anything Model (SAM) by investigating its abilty on three concealed scenarios. ([arXiv](https://arxiv.org/abs/2304.06022v3) & [公众号解读](https://mp.weixin.qq.com/s/qYJGdNW3BziShfJalSx1RA)), which was accepted by SCIS journal.
 - [Apr 25, 2023] We release a comprehensive survey paper about 'Deep Concealed Scene Understanding'. ([arXiv](https://arxiv.org/abs/2304.11234) & [Project](https://github.com/DengPingFan/CSU) & [公众号解读](https://mp.weixin.qq.com/s/9_v-A-AoHLY_C-Uze1I6PA))
 - [Feb 14, 2023] Call for paper: [Multi-Modal Representation Learning](https://mp.weixin.qq.com/s/G8LjgU3GdEehOyaSIlrUbw), Special Issue in Machine Intelligence Research (MIR) journal, 2023 (Submission Deadline: July 1, 2023)
