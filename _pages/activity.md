@@ -71,8 +71,9 @@ Academic Services
 
 Awards
 ======
+- [2025] CVPR 2025 Outstanding Reviewer Award ([Link](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - [2024] MICCAI2024 Young Scientist Publication Impact Award Shortlist
-- [2024] Stanford/Elsevier Top 2% Scientists List 2024 ([Link](https://topresearcherslist.com/Home/Profile/924272)))
+- [2024] Stanford/Elsevier Top 2% Scientists List 2024 ([Link](https://topresearcherslist.com/Home/Profile/924272))
 - [2024] CVM Honorable Paper Mention Award in 2023 ([Journal Updates](https://link.springer.com/journal/41095/updates/26965690))
 - [2024] MIR Outstanding Reviewer Award in 2023 ([MIR Journal News](https://link.springer.com/journal/11633/updates/26630820))
 - [2023] IEEE Transactions on Medical Imaging Distinguished Reviewer (Bronze Level 2022 – 2023)
