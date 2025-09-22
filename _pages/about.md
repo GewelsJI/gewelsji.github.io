@@ -13,7 +13,8 @@ redirect_from:
 About Me
 ======
 
-In the autumn of 2022, I embarked on my Ph.D. journey at the Australian National University's School of Computing. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), and I also benefit from the academic mentorship of [Prof. Deng-Ping Fan](https://dengpingfan.github.io/). Before this, I obtained my Master's degree in 2021 from the School of Computer Science at Wuhan University. My main research focus is on addressing complex perception problems using computer vision and machine learning techniques, particularly by crafting effective and scalable algorithms for real-world applications. I frequently serve as a reviewer for top-tier conferences and journals such as TPAMI, TIP, IJCV, CVPR, ICCV, etc. I am honored to be ranked among the list of Stanford/Elsevier world's top2% scientists in 2024 ([link](https://topresearcherslist.com/Home/Profile/924272)).
+In the autumn of 2022, I began my Ph.D. journey at the School of Computing, Australian National University. My supervisor is [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en), with additional academic guidance from [Prof. Deng-Ping Fan](https://dengpingfan.github.io/). Before this, I obtained my Master's degree in 2021 from the School of Computer Science, Wuhan University.
+My research centers on tackling challenging perception problems through computer vision and machine learning, with a particular focus on designing effective and scalable algorithms for real-world multimodal applications. I regularly serve as a reviewer for leading journals and conferences, including TPAMI, TIP, IJCV, CVPR, and ICCV. I am honored to have been named among Stanford/Elsevier’s list of the world’s top 2% scientists for two consecutive years (2024 & 2025).
 
 <p align="center" width="100%">
   <img src="../images/ANU_College_name_2.jpg" />
