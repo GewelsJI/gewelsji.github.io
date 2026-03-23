@@ -13,16 +13,16 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-representative-publications "
+    url: "/#-representative-publications"
 
   - title: "Working Experience"
     url: "/#-working-experience"
 
   - title: "Invited Talks"
-    url: "/#-internships"
+    url: "/#-invited-talks"
 
-  - title: "Honors & Awards"
-    url: "/#-honors-&-awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Academic Services"
     url: "/#-academic-services"

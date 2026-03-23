@@ -79,7 +79,7 @@ test
 * `2021.05.15` Alibaba Group ICBU Talking 2021: "Camouflaged Object Detection in the Deep Learning Era"
 
 
-# 🏆 Honors & Awards
+# 🏆 Honors and Awards
 - `2025` MICCAI Young Scientist Publication Impact Award (Top~0.2% from 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
 - `2025` CVPR 2025 Outstanding Reviewer Award (Top 5.6%=711/12000+, [Link](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - `2025` Stanford/Elsevier Top 2% Scientists List 2025 ([Link](https://topscinet.com/scientist_profile/Ji,%20Gepeng/2020/?stype=single_year#google_vignette))
