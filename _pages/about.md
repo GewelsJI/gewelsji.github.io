@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I am a final-year Ph.D. candidate at the School of Computing, Australian National University, advised by [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I obtained my Master's degree in 2021 from the School of Computer Science, Wuhan University. I regularly serve as a reviewer for top-leading AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, NeurIPS. I was named to Stanford/Elsevier's list of the world's top 2% scientists for two consecutive years (2024 & 2025).
+I am a final-year Ph.D. candidate at the School of Computing, Australian National University, advised by [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I obtained my Master's degree in 2021 from the School of Computer Science, Wuhan University. I regularly serve as a reviewer for top-leading AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, and NeurIPS. I was named to Stanford/Elsevier's list of the world's top 2% scientists for two consecutive years (2024 & 2025).
 
 > 🚨 I am currently on the academic job market and open to postdoctoral and research scientist positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds.
 
 # 👨‍💻 Research Interests
-My research centers on subtle visual perception (微视觉感知), aiming to discover hard-to-detect yet semantically-meaningful patterns in the complex physical world using advanced AI techniques, such as multimodal learning, AI agents, and reinforcement learning. Developing such perceptual abilities in intelligent systems has broad implications across various real-world tasks, including 1️⃣ **camouflaged environments**, where objects are difficult to distinguish from their surroundings due to low contrast and unclear boundaries; 2️⃣ **healthcare applications**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; and 3️⃣ **ultra-precision scenarios**, where detecting/segmenting ultra-tiny objects or subtle structures requires high spatial precision and detailed representation.
+My research centers on subtle visual perception (微视觉感知), aiming to discover subtle patterns - often imperceptible to the human cognition yet semantically meaningful - in complex environments using advanced AI techniques. Empowering such perceptual abilities in intelligent systems has broad implications across various real-world tasks, including 1️⃣ **camouflaged environments**, where objects are difficult to distinguish from their surroundings due to low contrast and unclear boundaries; 2️⃣ **healthcare applications**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; and 3️⃣ **ultra-precision scenarios**, where detecting/segmenting ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
 
 # 🔥 News
 - `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing colonoscopy toward clinical reasoning.
@@ -32,11 +32,11 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 # 📝 Representative Publications ([Full List](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en))
 (\* stands for equal contribution and † means corresponding author)
 
-### 🚩 [Topic #1] Camouflaged Scene Understanding
+### 🚩 [Topic1️⃣] Camouflaged Scene Understanding
 
-### 🚩 [Topic #2] Healthcare AI
+### 🚩 [Topic2️⃣] Healthcare AI
 
-### 🚩 [Topic #3] Ultra-Precision Object Segmentation
+### 🚩 [Topic3️⃣] Ultra-Precision Object Segmentation
 
 # 📖 Educations
 - `2022.09 - present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
