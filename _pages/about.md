@@ -22,6 +22,10 @@ I am a final-year Ph.D. candidate at the School of Computing, Australian Nationa
 
 > 🚨 I am currently on the academic job market and open to postdoctoral and research scientist positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds.
 
+<p align="center" width="100%">
+  <img src="../images/ANU-COMP.png" />
+</p>
+
 # 👨‍💻 Research Interests
 My research centers on subtle visual perception (微视觉感知), aiming to discover subtle patterns - often imperceptible to the human cognition yet semantically meaningful - in complex environments using advanced AI techniques, including multimodal learning, AI agents, and reinforcement learning. Empowering such perceptual abilities in intelligent systems has broad implications across various real-world tasks, including 1️⃣ **healthcare applications**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged environments**, where objects are difficult to distinguish from their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision scenarios**, where detecting/segmenting ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
 
@@ -29,12 +33,16 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 - `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing colonoscopy toward clinical reasoning.
 - `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
-# 📝 Representative Publications ([Full List](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en))
+# 📝 Representative Publications 
+
+([Full List](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en))
 (\* stands for equal contribution and † means corresponding author)
 
 ### 🚩 [Topic 1️⃣] Healthcare AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+test
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
@@ -46,7 +54,7 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 </div>
-</div>
+</div> -->
 
 ### 🚩 [Topic 2️⃣] Camouflaged Scene Understanding
 
