@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhicheng Du"
-description              : "Long and difficult as the journey may be, sustained actions will take us to the destination.<br>（道阻且长，行则将至）"
-repository               : "dodoxxb.github.io"
+title                    : "Ge-Peng Ji"
+description              : "Focusing on subtle visual perception through advanced AI techniques."
+repository               : "gewelsji.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhicheng Du<br>杜知城"
-  avatar           : "images/duzc1.png"
-  bio              : "Tsinghua Shenzhen International Graduate School (SIGS)"
-  location         : "Shenzhen, China"
+  name             : "Ge-Peng Ji (季 葛鹏)"
+  avatar           : "images/gp_profile.jpg"
+  bio              : "School of Computing, Australian National University"
+  location         : "Canberra, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7UnZIo0AAAAJ"
-  email            : "duzc21@mails.tsinghua.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en"
+  email            : "gepengai.ji@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Zhicheng-Du-2" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
