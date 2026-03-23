@@ -20,23 +20,23 @@ redirect_from:
 # 🧍‍♂️ Biography
 I am a final-year Ph.D. candidate at the School of Computing, Australian National University, advised by [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I obtained my Master's degree in 2021 from the School of Computer Science, Wuhan University. I regularly serve as a reviewer for top-leading AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, NeurIPS. I was named to Stanford/Elsevier's list of the world's top 2% scientists for two consecutive years (2024 & 2025).
 
-🚨 I am on the academic job market and open to postdoctoral and research scientist positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds.
+> 🚨 I am currently on the academic job market and open to postdoctoral and research scientist positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds.
 
 # 👨‍💻 Research Interests
-My research centers on subtle visual perception (微视觉感知), aiming to discover hard-to-detect visual patterns in the complex physical world using advanced AI techniques, such as multimodal learning, AI agents, and reinforcement learning. Building such perceptual abilities in intelligent systems has broad implications across various tasks, including 1️⃣ **camouflaged environments**, where objects are difficult to distinguish from their surroundings due to low contrast and unclear boundaries; 2️⃣ **healthcare applications**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; and 3️⃣ **high-precision scenarios**, where detecting/segmenting ultra-tiny objects or subtle structures requires high spatial precision and detailed representation.
+My research centers on subtle visual perception (微视觉感知), aiming to discover hard-to-detect yet semantically-meaningful patterns in the complex physical world using advanced AI techniques, such as multimodal learning, AI agents, and reinforcement learning. Developing such perceptual abilities in intelligent systems has broad implications across various real-world tasks, including 1️⃣ **camouflaged environments**, where objects are difficult to distinguish from their surroundings due to low contrast and unclear boundaries; 2️⃣ **healthcare applications**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; and 3️⃣ **ultra-precision scenarios**, where detecting/segmenting ultra-tiny objects or subtle structures requires high spatial precision and detailed representation.
 
 # 🔥 News
-- `2026.03`: 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing colonoscopy toward clinical reasoning.
-- `2026.01`: Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
+- `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing colonoscopy toward clinical reasoning.
+- `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
-# 📝 Representative Publications ([Full list](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en))
+# 📝 Representative Publications ([Full List](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en))
 (\* stands for equal contribution and † means corresponding author)
 
 ### 🚩 [Topic #1] Camouflaged Scene Understanding
 
 ### 🚩 [Topic #2] Healthcare AI
 
-## 🚩 [Topic #3] Ultra-Precision Object Segmentation
+### 🚩 [Topic #3] Ultra-Precision Object Segmentation
 
 # 📖 Educations
 - `2022.09 - present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
@@ -44,21 +44,20 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 
 # 💻 Working Experience
 - `2022.04 - 2022.07` Research Assistant, Sensing Intelligence and Machine Learning Laboratory (SIGMA Lab), Wuhan University, Wuhan, China.
-- `2021.06 - 2022.04` Research Intern, Alibaba Group (ICBU Technology Department), Hangzhou, China.
+- `2021.06 - 2022.04` Research Intern (Talent Program), Alibaba Group (ICBU Technology Department), Hangzhou, China.
 - `2020.11 - 2021.04` Research Intern, Inception Institute of Artificial Intelligence (IIAI-CV&Med Team), Abu Dhabi, UAE.
 
 # 💬 Invited Talks
 
-* `2023.09.23` 国际图象图形学学术会议(ICIG 2023) - 多模态数据感知与学习Workshop大会报告：'Towards AI-Powered Colonoscopy' ([Page1](http://icig2023.csig.org.cn/workshops/)/[Page2](https://mp.weixin.qq.com/s/GzdW9xxDqh_ldmJnLcu65w))
-* `2023.07.06` | 机器智能前沿论坛·第2期 -- 伪装场景感知及多模态应用: '一种基于梯度先验信息学习的高效伪装目标分割方法
-' ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA) & [Recorded Video](https://www.bilibili.com/video/BV1ku411b7pR?t=602.3))
-* `2023.03.31` | 中国图象图形学学会第三期学生会员分享论坛会议: 'Towards AI-Powered Colonoscopy'. ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) <br>
-* `2023.01.06` | Shenzhen Univeristy Talking 2023: 'Towards AI-Powered Colonoscopy'. <br>
-* `2022.12.07` | Anhui Univeristy Talking 2022: 'Colonoscopy in the AI Era'. <br>
-* `2022.10.10` | VALSE 2021 Workshop 6 -- Spotlight Talking: 'Camouflaged Object Detection and its Applications' ([Poster](http://valser.org/2021/#/poster))<br>
-* `2021.11.15` | Synced-ICCV 2021: 'Full-Duplex Strategy for Video Object Segmentation' <br>
-* `2021.08.28` | CSIG-ICCV 2021: 'Full-Duplex Strategy for Video Object Segmentation' ([Page](https://event.baai.ac.cn/event/162#section-one)) <br>
-* `2021.05.15` | Alibaba Group ICBU Talking 2021: 'Camouflaged Object Detection in the Deep Learning Era'
+* `2023.09.23` 国际图象图形学学术会议(ICIG 2023) - 多模态数据感知与学习Workshop大会报告 "Towards AI-Powered Colonoscopy" ([Page1](http://icig2023.csig.org.cn/workshops/)/[Page2](https://mp.weixin.qq.com/s/GzdW9xxDqh_ldmJnLcu65w))
+* `2023.07.06` 机器智能前沿论坛·第2期 -- 伪装场景感知及多模态应用: 一种基于梯度先验信息学习的高效伪装目标分割方法 ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA) & [Recorded Video](https://www.bilibili.com/video/BV1ku411b7pR?t=602.3))
+* `2023.03.31` 中国图象图形学学会第三期学生会员分享论坛会议 "Towards AI-Powered Colonoscopy" ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) 
+* `2023.01.06` Shenzhen Univeristy Talking 2023: "Towards AI-Powered Colonoscopy" 
+* `2022.12.07` Anhui Univeristy Talking 2022: "Colonoscopy in the AI Era" 
+* `2022.10.10` VALSE 2021 Workshop 6 -- Spotlight Talking: "Camouflaged Object Detection and its Applications" ([Poster](http://valser.org/2021/#/poster)) 
+* `2021.11.15` Synced-ICCV 2021 "Full-Duplex Strategy for Video Object Segmentation"
+* `2021.08.28` CSIG-ICCV 2021 "Full-Duplex Strategy for Video Object Segmentation" ([Page](https://event.baai.ac.cn/event/162#section-one)) 
+* `2021.05.15` Alibaba Group ICBU Talking 2021: "Camouflaged Object Detection in the Deep Learning Era"
 
 
 # 🏆 Honors & Awards
@@ -75,6 +74,10 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 - `2020` Multimedia Evaluation Benchmark Workshop (Ranking top-1 in terms of accuracy metric)
 - `2019` Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top6%).
 
+# 📃 Academic Services
+
+# Useful Links
+- [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
 
 <!-- # Collaborators
 ======
