@@ -1,25 +1,31 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Biography"
+    url: "/#biography"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Research Interests"
+    url: "/#-research-interests"
+
+  - title: "News"
+    url: "/#-news"
 
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-representative-publications "
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Working Experience"
+    url: "/#-working-experience"
 
-  - title: "Internships"
+  - title: "Invited Talks"
     url: "/#-internships"
+
+  - title: "Honors & Awards"
+    url: "/#-honors-&-awards"
 
   - title: "Academic Services"
     url: "/#-academic-services"
 
-  - title: "Brilliant Insight"
-    url: "/#-brilliant-insight"
+  - title: "Useful Links"
+      url: "/#-useful-links"
