@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ge-Peng Ji"
-description              : "Focusing on subtle visual perception through advanced AI techniques."
+description              :
 repository               : "gewelsji.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ge-Peng Ji (季 葛鹏)"
+  name             : "Ge-Peng Ji<br>(季葛鹏)"
   avatar           : "images/gp_profile.jpg"
   bio              : "School of Computing, Australian National University"
   location         : "Canberra, Australia"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en"
   email            : "gepengai.ji@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Zhicheng-Du-2" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dodoxxb"
+  github           : "gewelsji"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0002-5318-6809"
+  linkedin         :
+  dblp             :
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
