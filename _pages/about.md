@@ -50,7 +50,11 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 
 ### 🚩 [Topic 2️⃣] Camouflaged Scene Understanding
 
+test
+
 ### 🚩 [Topic 3️⃣] Ultra-Precision Object Segmentation
+
+test
 
 # 📖 Educations
 - `2022.09 - Present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
@@ -96,7 +100,7 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 * International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022), [ICLR@2023](https://iclr.cc/Conferences/2023))<br>
 * International Conference on Machine Learning ([ICML@2022](https://icml.cc/Conferences/2022), [ICML@2023](https://icml.cc/Conferences/2023))<br>
 * Conference on Neural Information Processing Systems ([NeurIPS@2022](https://nips.cc/Conferences/2022), [NeurIPS@2023](https://neurips.cc/Conferences/2023))<br>
-* IEEE/CVF Computer Vision and Pattern Recognition Conference ([CVPR@2022](https://cvpr2022.thecvf.com/), [CVPR@2023](https://cvpr2023.thecvf.com/))<br>
+* IEEE/CVF Computer Vision and Pattern Recognition Conference ([CVPR@2022](https://cvpr2022.thecvf.com/), [CVPR@2023](https://cvpr2023.thecvf.com/), [CVPR@2024](https://cvpr2024.thecvf.com/), [CVPR@2025](https://cvpr2025.thecvf.com/))<br>
 * International Conference on Computer Vision ([ICCV@2023](https://iccv2023.thecvf.com))<br>
 * European Conference on Computer Vision ([ECCV@2022](https://eccv2022.ecva.net/))<br>
 * International Joint Conference on Artificial Intelligence ([IJCAI@2021](https://ijcai-21.org/), [IJCAI@2022](https://ijcai-22.org/), [IJCAI@2023](https://ijcai-23.org))<br>
