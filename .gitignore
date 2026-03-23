@@ -1,5 +1,6 @@
 _site/
 push.sh
 .DS_Store
-/github_myprofile_updater/README.md
-.my_backup/
+
+.my_backup/*
+pdf/*

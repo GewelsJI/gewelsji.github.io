@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Educations"
+    url: "/#-educations"
+
   - title: "News"
     url: "/#-news"
 
@@ -12,11 +15,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Internships"
+    url: "/#-internships"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Academic Services"
+    url: "/#-academic-services"
 
-  - title: "Work Experience"
-    url: "/#-work-experience"
+  - title: "Brilliant Insight"
+    url: "/#-brilliant-insight"

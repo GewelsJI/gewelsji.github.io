@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ge-Peng Ji (季 葛鹏)"
-description              : "Focusing on subtle visual perception through advanced AI techniques."
-repository               : "gewelsji/gewelsji.github.io"
+title                    : "Zhicheng Du"
+description              : "Long and difficult as the journey may be, sustained actions will take us to the destination.<br>（道阻且长，行则将至）"
+repository               : "dodoxxb.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-baidu_site_verification  :
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Ge-Peng Ji (季 葛鹏)"
-  avatar           : "images/gp_profile.jpg"
-  bio              : "School of Computing, Australian National University"
-  location         : "Canberra, Australia"
-  employer         : 
+  name             : "Zhicheng Du<br>杜知城"
+  avatar           : "images/duzc1.png"
+  bio              : "Tsinghua Shenzhen International Graduate School (SIGS)"
+  location         : "Shenzhen, China"
+  employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en"
-  email            : "gepengai.ji@gmail.com"
-  researchgate     : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7UnZIo0AAAAJ"
+  email            : "duzc21@mails.tsinghua.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Zhicheng-Du-2" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gewelsji"
+  github           : "dodoxxb"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gepeng-ji/"
-  dblp             : 
-  orcid            : 
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0009-0002-5318-6809"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
@@ -65,12 +65,15 @@ include:
   - _pages
   - files
 exclude:
+  - docs
+  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -88,8 +91,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - google_scholar_crawler
-  - github_myprofile_updater
 keep_files:
   - .git
   - .svn
@@ -135,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Australia/Canberra # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
