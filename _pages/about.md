@@ -62,8 +62,8 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 
 
 # 🏆 Honors & Awards
-- `2025` MICCAI Young Scientist Publication Impact Award (~0.2% from 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
-- `2025` CVPR 2025 Outstanding Reviewer Award (711/12000+, [Link](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
+- `2025` MICCAI Young Scientist Publication Impact Award (Top~0.2% from 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
+- `2025` CVPR 2025 Outstanding Reviewer Award (Top5.6% 711/12000+, [Link](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - `2025` Stanford/Elsevier Top 2% Scientists List 2025 ([Link](https://topscinet.com/scientist_profile/Ji,%20Gepeng/2020/?stype=single_year#google_vignette))
 - `2024` MICCAI2024 Young Scientist Publication Impact Award Shortlist
 - `2024` Stanford/Elsevier Top 2% Scientists List 2024 ([Link](https://topresearcherslist.com/Home/Profile/924272))
@@ -73,4 +73,12 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 - `2021` Jittor Developer Conference Distinguish Paper & Most Influential (Application) Paper
 - `2021` MICCAI Student Travel Award ([MICCAI link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
 - `2020` Multimedia Evaluation Benchmark Workshop (Ranking top-1 in terms of accuracy metric)
-- `2019` Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top-6\%).
+- `2019` Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top6%).
+
+
+# Collaborators
+======
+- Jingyi Liu (Now PhD@KAUST)
+- Qi Ma (Now PhD@NKU, Media Computing Lab)
+- [Mingchen Zhuge](https://scholar.google.com.tw/citations?user=Qnj6XlMAAAAJ&hl=en) (Now PhD@KAUST, AI Initiative)
+- [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (Now PhD@JHU, CCVL)
