@@ -43,6 +43,7 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 - `2018.09 - 2021.06` M.S., School of Computer Science, Wuhan University, Wuhan, China.
 
 # 💻 Working Experience
+- `2023.03 - 2023.09` Research Assistant, Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE.
 - `2022.04 - 2022.07` Research Assistant, Sensing Intelligence and Machine Learning Laboratory (SIGMA Lab), Wuhan University, Wuhan, China.
 - `2021.06 - 2022.04` Research Intern (Talent Program), Alibaba Group (ICBU Technology Department), Hangzhou, China.
 - `2020.11 - 2021.04` Research Intern, Inception Institute of Artificial Intelligence (IIAI-CV&Med Team), Abu Dhabi, UAE.
@@ -50,7 +51,7 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 # 💬 Invited Talks
 
 * `2023.09.23` 国际图象图形学学术会议(ICIG 2023) - 多模态数据感知与学习Workshop大会报告 "Towards AI-Powered Colonoscopy" ([Page1](http://icig2023.csig.org.cn/workshops/)/[Page2](https://mp.weixin.qq.com/s/GzdW9xxDqh_ldmJnLcu65w))
-* `2023.07.06` 机器智能前沿论坛·第2期 -- 伪装场景感知及多模态应用: 一种基于梯度先验信息学习的高效伪装目标分割方法 ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA) & [Recorded Video](https://www.bilibili.com/video/BV1ku411b7pR?t=602.3))
+* `2023.07.06` 机器智能前沿论坛·第2期 "伪装场景感知及多模态应用: 一种基于梯度先验信息学习的高效伪装目标分割方法" ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA) & [Recorded Video](https://www.bilibili.com/video/BV1ku411b7pR?t=602.3))
 * `2023.03.31` 中国图象图形学学会第三期学生会员分享论坛会议 "Towards AI-Powered Colonoscopy" ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) 
 * `2023.01.06` Shenzhen Univeristy Talking 2023: "Towards AI-Powered Colonoscopy" 
 * `2022.12.07` Anhui Univeristy Talking 2022: "Colonoscopy in the AI Era" 
@@ -76,12 +77,49 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 
 # 📃 Academic Services
 
-# Useful Links
-- [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
+#### Program Committee Member & Conference Reviewer
 
-<!-- # Collaborators
-======
-- Jingyi Liu (Now PhD@KAUST)
-- Qi Ma (Now PhD@NKU, Media Computing Lab)
-- [Mingchen Zhuge](https://scholar.google.com.tw/citations?user=Qnj6XlMAAAAJ&hl=en) (Now PhD@KAUST, AI Initiative)
-- [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (Now PhD@JHU, CCVL) -->
+* International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022), [ICLR@2023](https://iclr.cc/Conferences/2023))<br>
+* International Conference on Machine Learning ([ICML@2022](https://icml.cc/Conferences/2022), [ICML@2023](https://icml.cc/Conferences/2023))<br>
+* Conference on Neural Information Processing Systems ([NeurIPS@2022](https://nips.cc/Conferences/2022), [NeurIPS@2023](https://neurips.cc/Conferences/2023))<br>
+* IEEE/CVF Computer Vision and Pattern Recognition Conference ([CVPR@2022](https://cvpr2022.thecvf.com/), [CVPR@2023](https://cvpr2023.thecvf.com/))<br>
+* International Conference on Computer Vision ([ICCV@2023](https://iccv2023.thecvf.com))<br>
+* European Conference on Computer Vision ([ECCV@2022](https://eccv2022.ecva.net/))<br>
+* International Joint Conference on Artificial Intelligence ([IJCAI@2021](https://ijcai-21.org/), [IJCAI@2022](https://ijcai-22.org/), [IJCAI@2023](https://ijcai-23.org))<br>
+* International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI@2020](https://miccai2020.org/en/), [MICCAI@2022](https://miccai2022.org/), [MICCAI@2023](https://conferences.miccai.org/2023/en/))<br>
+* IEEE International Conference on Acoustics, Speech, & Signal Processing ([ICASSP@2023](https://2023.ieeeicassp.org/))
+* IEEE International Conference on Image Processing ([ICIP@2022](https://2022.ieeeicip.org/), [ICIP@2023](https://2023.ieeeicip.org))<br>
+* IEEE International Symposium on Mixed and Augmented Reality ([ISMAR@2021](https://ismar21.org/))<br>
+* Chinese Conference on Pattern Recognition and Computer Vision ([PRCV@2021](http://2021.prcv.cn/), PRCV2023)<br>
+* Australasian Joint Conference on Artificial Intelligence ([AJCAI@2023](https://ajcai2023.org))<br>
+
+#### Journal Reviewer
+
+* IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34))
+* International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263/))<br>
+* IEEE Transactions on Image Processing ([TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))<br>
+* IEEE Journal of Biomedical and Health Informatics ([JBHI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020))<br>
+* IEEE Transactions on Medical Imaging ([TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))<br>
+* IEEE Transactions on Visualization and Computer Graphics ([TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945))<br>
+* IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))<br>
+* IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046))<br>
+* Computational Visual Media ([CVM](https://www.springer.com/journal/41095))<br>
+* Machine Intelligence Research ([MIR](https://www.springer.com/journal/11633))<br>
+* Information Fusion ([IF](https://www.sciencedirect.com/journal/information-fusion))
+* Neurocomputing ([NC](https://www.elsevier.com/journals/neurocomputing/0925-2312))<br>
+* Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding))<br>
+* Scientific Reports ([Link](https://www.nature.com/srep/))<br>
+* Expert Systems with Applications ([ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications))<br>
+* Digital Signal Processing ([DSP](https://www.sciencedirect.com/journal/digital-signal-processing))<br>
+* Sensors ([Link](https://www.mdpi.com/journal/sensors))<br>
+* Signal Processing: Image Communication ([SPIC](https://www.sciencedirect.com/journal/signal-processing-image-communication))<br>
+* The Visual Computer ([TVC](https://www.springer.com/journal/371/?utm_source=letpub&utm_medium=display&utm_content=mpu&utm_campaign=SRCN_3_ll01_cn_letpuborganic_cs_371))<br>
+* International Journal of Imaging Systems and Technology ([IJIST](https://onlinelibrary.wiley.com/journal/10981098))
+* Diagnostics ([Link](https://www.mdpi.com/journal/diagnostics))<br>
+* Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br>
+
+# 🔗 Useful Links
+- [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
+- [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
+- [剑桥大学:语言和写作决定人生发展的潜力](https://www.isee-ai.cn/~zhwshi/writing.pdf)
