@@ -1,0 +1,3 @@
+# 🔥 News
+- *2026.03*: 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing colonoscopy toward clinical reasoning.
+- *2026.01* Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
