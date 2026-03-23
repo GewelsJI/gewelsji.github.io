@@ -56,9 +56,9 @@ test
 
 test
 
-# 📖 Educations
+<!-- # 📖 Educations
 - `2022.09 - Present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
-- `2018.09 - 2021.06` M.S., School of Computer Science, Wuhan University, Wuhan, China.
+- `2018.09 - 2021.06` M.S., School of Computer Science, Wuhan University, Wuhan, China. -->
 
 # 💻 Working Experience
 - `2023.03 - 2023.09` Research Assistant, Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE.

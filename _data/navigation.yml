@@ -9,9 +9,6 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
     url: "/#-representative-publications"
 
@@ -21,11 +18,11 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Honors and Awards"
+  - title: "Honors & Awards"
     url: "/#-honors-and-awards"
 
   - title: "Academic Services"
     url: "/#-academic-services"
 
   - title: "Useful Links"
-      url: "/#-useful-links"
+    url: "/#-useful-links"
