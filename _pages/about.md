@@ -23,7 +23,7 @@ I am a final-year Ph.D. candidate at the School of Computing, Australian Nationa
 > 🚨 I am currently on the academic job market and open to postdoctoral and research scientist positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds.
 
 # 👨‍💻 Research Interests
-My research centers on subtle visual perception (微视觉感知), aiming to discover subtle patterns - often imperceptible to the human cognition yet semantically meaningful - in complex environments using advanced AI techniques, including multimodal learning, AI agents, and reinforcement learning. Empowering such perceptual abilities in intelligent systems has broad implications across various real-world tasks, including 1️⃣ **camouflaged environments**, where objects are difficult to distinguish from their surroundings due to low contrast and unclear boundaries; 2️⃣ **healthcare applications**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; and 3️⃣ **ultra-precision scenarios**, where detecting/segmenting ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
+My research centers on subtle visual perception (微视觉感知), aiming to discover subtle patterns - often imperceptible to the human cognition yet semantically meaningful - in complex environments using advanced AI techniques, including multimodal learning, AI agents, and reinforcement learning. Empowering such perceptual abilities in intelligent systems has broad implications across various real-world tasks, including 1️⃣ **healthcare applications**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged environments**, where objects are difficult to distinguish from their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision scenarios**, where detecting/segmenting ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
 
 # 🔥 News
 - `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing colonoscopy toward clinical reasoning.
@@ -32,11 +32,11 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 # 📝 Representative Publications ([Full List](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en))
 (\* stands for equal contribution and † means corresponding author)
 
-### 🚩 [Topic1️⃣] Camouflaged Scene Understanding
+### 🚩 [Topic 1️⃣] Healthcare AI
 
-### 🚩 [Topic2️⃣] Healthcare AI
+### 🚩 [Topic 2️⃣] Camouflaged Scene Understanding
 
-### 🚩 [Topic3️⃣] Ultra-Precision Object Segmentation
+### 🚩 [Topic 3️⃣] Ultra-Precision Object Segmentation
 
 # 📖 Educations
 - `2022.09 - present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
