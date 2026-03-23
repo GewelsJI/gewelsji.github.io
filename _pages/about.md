@@ -34,12 +34,26 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 
 ### 🚩 [Topic 1️⃣] Healthcare AI
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+
+[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+</div>
+</div>
+
 ### 🚩 [Topic 2️⃣] Camouflaged Scene Understanding
 
 ### 🚩 [Topic 3️⃣] Ultra-Precision Object Segmentation
 
 # 📖 Educations
-- `2022.09 - present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
+- `2022.09 - Present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
 - `2018.09 - 2021.06` M.S., School of Computer Science, Wuhan University, Wuhan, China.
 
 # 💻 Working Experience
@@ -119,7 +133,7 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 * Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br>
 
 # 🔗 Useful Links
-- [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
 - [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
 - [剑桥大学:语言和写作决定人生发展的潜力](https://www.isee-ai.cn/~zhwshi/writing.pdf)
