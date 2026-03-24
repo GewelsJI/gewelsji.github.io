@@ -68,11 +68,6 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao, and Ali Borji
   </p>
 
-  <!-- 关键词 -->
-  <p style="color:#54b937;">
-    #reverse-attention, #polyp-segmentation, #intelligent-colonoscopy
-  </p>
-
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
 
@@ -90,6 +85,11 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
     <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a> 
   </p>
+
+  <!-- 关键词 -->
+  <p style="color:#54b937;">
+    #reverse-attention, #polyp-segmentation, #intelligent-colonoscopy
+  </p>
   
   <!-- 亮点 -->
   <p>
@@ -103,7 +103,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 </div></div></div>
 
 
-<!-- PNS-Net -->
+<!---------------------------- PNS-Net ---------------------------->
 <div style="
   border:2px solid #e5e7eb;
   border-radius:10px;
@@ -119,11 +119,6 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan*, Geng Chen, Huazhu Fu*, Debesh Jha, Ling Shao
-  </p>
-
-  <!-- 关键词 -->
-  <p style="color:#54b937;">
-    #self-attention, #video-polyp-segmentation, #intelligent-colonoscopy
   </p>
 
   <!-- 左图右文 -->
@@ -143,6 +138,12 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     <a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a> |
     <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a> 
   </p>
+
+
+  <!-- 关键词 -->
+  <p style="color:#54b937;">
+    #self-attention, #video-polyp-segmentation, #intelligent-colonoscopy
+  </p>
   
   <!-- 亮点 -->
   <p>
@@ -155,9 +156,53 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   </p>
 </div></div></div>
 
-pns-net
 
-sun-seg
+<!-- sun-seg -->
+<div style="
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  padding:8px 16px;
+  background:#fafafa;
+  margin-bottom:8px;
+">
+  <!-- 标题 -->
+  <h3 style="color:#1d4ed8;">
+    [MIR 2022] Video Polyp Segmentation: A Deep Learning Perspective
+  </h3>
+
+  <!-- 作者 -->
+  <p>
+    <strong>Ge-Peng Ji^</strong>, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan*, Kai Zhao, Geng Chen, and Luc Van Gool
+  </p>
+
+  <!-- 关键词 -->
+  <p style="color:#54b937;">
+    #video-benchmark, #self-attention, #video-polyp-segmentation, #intelligent-colonoscopy
+  </p>
+
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px;">
+
+  <!-- 左图 -->
+  <img src="images/mir2022-vps.png" style="width:30%;">
+
+  <!-- 右侧 -->
+  <div>
+
+  <!-- 链接 -->
+  <p>
+    <strong>Links:</strong>
+    Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a> & <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>) |
+    <a href="https://github.com/GewelsJI/VPS">Project</a> |
+    <a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a> |
+    <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a> 
+  </p>
+  
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> xxxx
+  </p>
+</div></div></div>
 
 colongpt
 
@@ -166,6 +211,8 @@ colon-x
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
 sinet sinet-v2 dgnet
+
+sam-eval
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Applications</span>
 
