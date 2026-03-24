@@ -72,7 +72,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   <div style="display:flex; gap:20px;">
 
   <!-- 左图 -->
-  <img src="images/miccai2020-pranet.png" width="200">
+  <img src="images/miccai2020-pranet.png" style="width:300px; min-width:300px; max-width:none; flex-shrink:0;">
 
   <!-- 右侧 -->
   <div>
@@ -98,7 +98,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 影响力 -->
   <p>
-    <strong>Impact:</strong> Early acceptance & Oral Presentation (Accept rate = 13%) | <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |  <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a> ( (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) | Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) | Most Influential <a href="https://dengpingfan.github.io/papers/PraNet-Award.pdf">Application Paper Award</a> at the Jittor Developer Conference 2021 | Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
+    <strong>Impact:</strong> Early acceptance & Oral Presentation (Accept rate = 13%) | <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |  <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a> (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) | Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) | Most Influential <a href="https://dengpingfan.github.io/papers/PraNet-Award.pdf">Application Paper Award</a> at the Jittor Developer Conference 2021 | Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
   </p>
 </div></div></div>
 
@@ -152,7 +152,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 影响力 -->
   <p>
-    <strong>Impact:</strong> Provisional acceptance (Top 13%) | <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 TRAVEL AWARDS</a> (Top 5.8% = 95/1630)
+    <strong>Impact:</strong> Provisional acceptance (Top 13%) | <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 Travel Award</a> (Top 5.8% = 95/1630)
   </p>
 </div></div></div>
 
@@ -184,7 +184,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   <div style="display:flex; gap:20px;">
 
   <!-- 左图 -->
-  <img src="images/mir2022-vps.png" style="width:30%;">
+  <img src="images/mir2022-sunseg.png" style="width:30%;">
 
   <!-- 右侧 -->
   <div>
@@ -194,7 +194,6 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     <strong>Links:</strong>
     Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a> & <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>) |
     <a href="https://github.com/GewelsJI/VPS">Project</a> |
-    <a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a> |
     <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a> 
   </p>
   
