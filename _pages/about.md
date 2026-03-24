@@ -400,14 +400,14 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (å
   <p>
     <strong>Keywords:</strong>
     <span style="color:#54b937;">
-      #image-benchmark, #camouflaged-object-detection
+      #image-benchmark, #camouflaged-object-detection, #concealed-object-detection
     </span>
   </p>
 
   <!-- é“¾æŽ¥ -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a> & <a href="https://ieeexplore.ieee.org/document/9156837">Official</a>) |
+    Conference Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a> & <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf">Official</a>) |
     <a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
     <a href="https://github.com/DengPingFan/SINet/">Github</a> |
     <a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K</a> |
@@ -421,14 +421,14 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (å
   </p>
 
   <p>
-    <strong>Impact:</strong> Oral, Accept rate = 335/5865 = 5.7% | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a>
+    <strong>Impact:</strong> Oral, Accept rate = 335/5865 = 5.7% | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> (<a href="images/new-scientist.png">media snapshot</a>)
   </p>  
 </div>
 </div>
 </div>
 <!---------------------------- cod10k ---------------------------->
 
- sinet-v2 dgnet
+dgnet
 
 sam-eval
 
