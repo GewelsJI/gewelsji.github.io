@@ -22,10 +22,7 @@ I am a final-year PhD candidate at the School of Computing, Australian National 
 
 
 # 👨‍💻 Research Interests
-My research centers on subtle visual perception (微视觉感知), aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
-
-> [!NOTE]
-> 🚨 I am currently on the academic job market and open to postdoctoral and research positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds, especially in medical applications.
+My research centers on <span style="color: #3b82f6;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
 
 <div style="
   display: flex;
@@ -36,10 +33,10 @@ My research centers on subtle visual perception (微视觉感知), aiming to mod
   border-radius: 6px;
   align-items: flex-start;
 ">
-  <div>💡</div>
+  <div>🚨</div>
   <div>
-    <strong>Note</strong><br>
-    Subtle patterns are often imperceptible to human vision but critical for decision-making.
+    <strong>NOTE</strong><br>
+    I am currently on the academic job market and open to postdoctoral and research positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds, especially in medical applications.
   </div>
 </div>
 
