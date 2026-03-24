@@ -22,7 +22,7 @@ I am a final-year PhD candidate at the School of Computing, Australian National 
 
 
 # 👨‍💻 Research Interests
-My research centers on <span style="color: #3b82f6;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
+My research centers on <span style="color: #fe3535;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
 
 <div style="
   display: flex;
@@ -46,25 +46,81 @@ My research centers on <span style="color: #3b82f6;">subtle visual perception (�
 
 # 📝 Representative Publications 
 
-> Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author
+<div style="
+  display: flex;
+  gap: 10px;
+  border-left: 4px solid #3b82f6;
+  background: #f0f7ff;
+  padding: 12px 16px;
+  border-radius: 6px;
+  align-items: flex-start;
+">
+  <div>🚨</div>
+  <div>
+    <strong>NOTE</strong><br>
+    See full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author.
+  </div>
+</div>
 
 ### 🚩 [Topic 1️⃣] Healthcare AI
 
-test
+<div style="
+  display:flex;
+  gap:20px;
+  border:1px solid #e5e7eb;
+  border-radius:12px;
+  padding:20px;
+  background:#fff;
+  box-shadow:0 4px 12px rgba(0,0,0,0.06);
+">
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <!-- 左图 -->
+  <div style="flex:1; position:relative;">
+    
+    <!-- badge -->
+    <div style="
+      position:absolute;
+      top:10px;
+      left:10px;
+      background:#1d4ed8;
+      color:white;
+      font-size:12px;
+      padding:4px 8px;
+      border-radius:4px;
+    ">
+      MICCAI 2020
+    </div>
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+    <img src="images/miccai2020-pranet.png" style="width:100%; border-radius:8px;">
+  </div>
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+  <!-- 右侧 -->
+  <div style="flex:1.6;">
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+    <div style="font-size:20px; font-weight:600; color:#1d4ed8;">
+      FastSpeech: Fast, Robust and Controllable Text-to-Speech
+    </div>
+
+    <div style="margin:6px 0 12px; color:#374151;">
+      <strong>Yi Ren</strong>, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+    </div>
+
+    <div style="margin-bottom:12px;">
+      <a href="#" style="color:#1d4ed8; font-weight:500;">Project</a>
+      &nbsp;|&nbsp;
+      <a href="#" style="color:#1d4ed8;">Paper</a>
+      &nbsp;|&nbsp;
+      <span style="color:#6b7280;">⭐ 1656 citations</span>
+    </div>
+
+    <div style="line-height:1.6; color:#374151;">
+      <p>• First fully parallel end-to-end speech synthesis model.</p>
+      <p>• <strong>Academic Impact:</strong> Widely adopted in open-source ecosystems (e.g., ESPNet).</p>
+      <p>• <strong>Industry Impact:</strong> Deployed in Microsoft Azure TTS and demonstrated in NVIDIA GTC.</p>
+    </div>
+
+  </div>
 </div>
-</div> -->
 
 ### 🚩 [Topic 2️⃣] Camouflaged Scene Understanding
 
