@@ -46,21 +46,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 # 📝 Representative Publications 
 
-<div style="
-  display: flex;
-  gap: 10px;
-  border-left: 4px solid #3b82f6;
-  background: #f0f7ff;
-  padding: 12px 16px;
-  border-radius: 6px;
-  align-items: flex-start;
-">
-  <div>🚨</div>
-  <div>
-    <strong>NOTE</strong><br>
-    See full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author.
-  </div>
-</div>
+> Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author.
 
 ### 🚩 [Topic 1️⃣] Healthcare AI
 
@@ -98,11 +84,11 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   <div style="flex:1.6;">
 
     <div style="font-size:20px; font-weight:600; color:#1d4ed8;">
-      FastSpeech: Fast, Robust and Controllable Text-to-Speech
+      PraNet: Parallel Reverse Attention Network for Polyp Segmentation
     </div>
 
     <div style="margin:6px 0 12px; color:#374151;">
-      <strong>Yi Ren</strong>, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+      Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji.
     </div>
 
     <div style="margin-bottom:12px;">
@@ -114,9 +100,9 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     </div>
 
     <div style="line-height:1.6; color:#374151;">
-      <p>• First fully parallel end-to-end speech synthesis model.</p>
-      <p>• <strong>Academic Impact:</strong> Widely adopted in open-source ecosystems (e.g., ESPNet).</p>
-      <p>• <strong>Industry Impact:</strong> Deployed in Microsoft Azure TTS and demonstrated in NVIDIA GTC.</p>
+      <p>• Reverse attention</p>
+      <p>• <strong>Academic Impact:</strong> xxxx.</p>
+      <p>• <strong>Industry Impact:</strong> xxxx.</p>
     </div>
 
   </div>
