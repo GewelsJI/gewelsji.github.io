@@ -80,6 +80,13 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     <span>#polyp-segmentation</span>
     <span>#colonoscopy</span>
   </div>
+  <style>
+  div span {
+    background:#e0ecff;
+    padding:3px 8px;
+    border-radius:999px;
+  }
+  </style>
 
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
@@ -98,11 +105,6 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
         <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中文译文</a> 
       </p>
 
-      <!-- 标签 -->
-      <p style="color:#1d4ed8;">
-        #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy,
-      </p>
-
       <!-- 亮点 -->
       <p>Highlight 1</p>
       <p>Highlight 2</p>
@@ -113,6 +115,14 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   </div>
 
 </div>
+
+pns-net
+
+sun-seg
+
+colongpt
+
+colon-x
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
