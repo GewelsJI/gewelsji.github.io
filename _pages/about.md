@@ -48,10 +48,15 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 > Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author.
 
-### 🚩 <span style="color: #aa0404;">[Topic 1️⃣] Healthcare AI</span>
+### 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
 
-<div>
+<div style="
+  border:1px solid #e5e7eb;
+  border-radius:10px;
+  padding:16px;
+  background:#fafafa;
+">
 
   <!-- 标题 -->
   <h2 style="color:#1d4ed8;">
@@ -74,13 +79,15 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
       <!-- 链接 -->
       <p>
-        <a href="paper_link">Paper</a> |
-        <a href="project_link">Project</a>
+        <a href="https://arxiv.org/abs/2006.11392">Paper</a> |
+        <a href="https://github.com/DengPingFan/PraNet">Project</a> |
+        <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Official Version</a> |
+        <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中文译文</a> 
       </p>
 
       <!-- 标签 -->
       <p style="color:#1d4ed8;">
-        #CNN #MedicalSegmentation #ReverseAttention
+        #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy,
       </p>
 
       <!-- 亮点 -->
@@ -94,11 +101,11 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 </div>
 
-### 🚩 [Topic 2️⃣] Camouflaged Scene Understanding
+### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
 sinet sinet-v2 dgnet
 
-### 🚩 [Topic 3️⃣] Ultra-Precision Applications
+### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Applications</span>
 
 lawdis
 
