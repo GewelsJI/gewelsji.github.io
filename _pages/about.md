@@ -54,8 +54,9 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (å
 <div style="
   border:2px solid #e5e7eb;
   border-radius:10px;
-  padding:8px;
+  padding:5px;
   background:#fafafa;
+  margin-bottom:5px;
 ">
   <!-- æ ‡é¢˜ -->
   <h3 style="color:#1d4ed8;">
@@ -101,7 +102,6 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (å
   </p>
 </div></div></div>
 
-<br>
 
 <!-- PNS-Net -->
 <div style="
