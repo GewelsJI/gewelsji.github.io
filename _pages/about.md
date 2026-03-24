@@ -52,7 +52,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 
 <div style="
-  border:1px solid #e5e7eb;
+  border:2px solid #e5e7eb;
   border-radius:10px;
   padding:16px;
   background:#fafafa;
@@ -66,7 +66,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   <!-- 作者 -->
   <p>
     Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji<br>
-    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> | Early accept & Oral (Accept rate = 13%) |  Most Cited Paper in MICCAI over the recent 5 years | Top#1 accuracy of MediaEval 2020 Workshop at Medico Track
+    Early acceptance & Oral (Accept rate = 13%) | <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |  <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a> ( (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) | Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) | Most Influential Application Paper Award at the Jittor Developer Conference 2021 | Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
   </p>
 
   <!-- 左图右文 -->
@@ -79,8 +79,8 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     <div>
 
       <!-- 关键词 -->
-      <p>
-        `#medical-image-segmentation` `#reverse-attention` `#polyp-segmentation` `#colonoscopy`
+      <p style="color:#54b937;">
+        #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy
       </p>
 
       <!-- 链接 -->
@@ -93,8 +93,6 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
       <!-- 亮点 -->
       <p>First work to propose a parallel reverse attention mechanism for polyp segmentation.</p>
-      <p>Featured in the Stanford 2022 Al Index Report as a landmark application-level advance.</p>
-      <p>Received the Most Influential Application Paper Award at the Jittor Developer Conference 2021</p>
 
     </div>
 
