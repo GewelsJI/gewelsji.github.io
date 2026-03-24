@@ -24,6 +24,10 @@ I am a final-year PhD candidate at the School of Computing, Australian National 
 # 👨‍💻 Research Interests
 My research centers on <span style="color: #fe3535;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
 
+# 🔥 News
+- `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
+- `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
+
 <div style="
   display: flex;
   gap: 10px;
@@ -40,17 +44,13 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   </div>
 </div>
 
-# 🔥 News
-- `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
-- `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
-
 # 📝 Representative Publications 
 
 ^ stands for equal contribution and \* means corresponding author. Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). 
 
 ## 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
-<!-- PraNet -->
+<!---------------------------- PraNet ---------------------------->
 <div style="
   border:2px solid #e5e7eb;
   border-radius:10px;
@@ -68,51 +68,53 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
-    <div style="flex:0 0 300px;">
-      <img
-        src="images/miccai2020-pranet.png"
-        width="300"
-        style="display:block; width:300px; height:auto;"
-      />
-    </div>
+  <div style="flex:0 0 300px;">
+    <img
+      src="images/miccai2020-pranet.png"
+      width="300"
+      style="display:block; width:300px; height:auto;"
+    />
+  </div>
 
-    <div style="flex:1; min-width:0;">
+  <div style="flex:1; min-width:0;">
 
-      <p>
-        <strong>Links:</strong>
-        Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>) |
-        <a href="https://github.com/DengPingFan/PraNet">Project</a> |
-        <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
-        <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>
-      </p>
+  <p>
+    <strong>Links:</strong>
+    Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>) |
+    <a href="https://github.com/DengPingFan/PraNet">Project</a> |
+    <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
+    <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>
+  </p>
 
-      <p>
-        <strong>Keywords:</strong>
-        <span style="color:#54b937;">
-          #reverse-attention, #polyp-segmentation, #intelligent-colonoscopy
-        </span>
-      </p>
+  <p>
+    <strong>Keywords:</strong>
+    <span style="color:#54b937;">
+      #reverse-attention, #polyp-segmentation, #intelligent-colonoscopy
+    </span>
+  </p>
 
-      <p>
-        <strong>TL;DR:</strong> First work to propose a "parallel reverse attention" mechanism for medical image segmentation.
-      </p>
+  <p>
+    <strong>TL;DR:</strong> First work to propose a "parallel reverse attention" mechanism for medical image segmentation.
+  </p>
 
-      <p>
-        <strong>Impact:</strong>
-        Early acceptance & Oral Presentation (Accept rate = 13%) |
-        <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |
-        <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a>
-        (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) |
-        Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) |
-        Most Influential <a href="https://dengpingfan.github.io/papers/PraNet-Award.pdf">Application Paper Award</a> at the Jittor Developer Conference 2021 |
-        Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
-      </p>
+  <p>
+    <strong>Impact:</strong>
+    Early acceptance & Oral Presentation (Accept rate = 13%) |
+    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |
+    <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a>
+    (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) |
+    Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) |
+    Most Influential <a href="https://dengpingfan.github.io/papers/PraNet-Award.pdf">Application Paper Award</a> at the Jittor Developer Conference 2021 |
+    Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
+  </p>
 
-    </div>
+  </div>
   </div>
 </div>
+<!---------------------------- PraNet ---------------------------->
 
-<!-- PraNet -->
+
+<!---------------------------- PNS-Net ---------------------------->
 <div style="
   border:2px solid #e5e7eb;
   border-radius:10px;
@@ -122,50 +124,59 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation
+    [MICCAI 2021] Progressively Normalized Self-Attention Network for Video Polyp Segmentation
   </h3>
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao, and Ali Borji
+    <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan*, Geng Chen, Huazhu Fu*, Debesh Jha, Ling Shao
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px;">
+  <div style="display:flex; gap:20px; align-items:flex-start;">
 
-  <!-- 左图 -->
-  <img src="images/miccai2020-pranet.png" style="width:300px; min-width:300px; max-width:none; flex-shrink:0;">
+    <!-- 左图 -->
+    <div style="flex:0 0 300px;">
+      <img
+        src="images/miccai2021-pnsnet.png"
+        width="300"
+        style="display:block; width:300px; height:auto;"
+      />
+    </div>
 
-  <!-- 右侧 -->
-  <div>
+    <!-- 右侧 -->
+    <div style="flex:1; min-width:0;">
 
-  <!-- 链接 -->
-  <p>
-    <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>) |
-    <a href="https://github.com/DengPingFan/PraNet">Project</a> |
-    <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
-    <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a> 
-  </p>
+      <!-- 链接 -->
+      <p>
+        <strong>Links:</strong>
+        Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>) |
+        <a href="https://github.com/GewelsJI/PNS-Net">Project</a> |
+        <a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a> |
+        <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a>
+      </p>
 
-  <!-- 关键词 -->
-  <p>
-    <strong>Keywords:</strong> <span style="color: #54b937;">
-    #reverse-attention, #polyp-segmentation, #intelligent-colonoscopy
-    </span>
-  </p>
-  
-  <!-- 亮点 -->
-  <p>
-    <strong>TL;DR:</strong> First work to propose a "parallel reverse attention" mechanism for medical image segmentation.
-  </p>
+      <!-- 关键词 -->
+      <p>
+        <strong>Keywords:</strong>
+        <span style="color:#54b937;">#self-attention, #video-polyp-segmentation, #intelligent-colonoscopy</span>
+      </p>
 
-  <!-- 影响力 -->
-  <p>
-    <strong>Impact:</strong> Early acceptance & Oral Presentation (Accept rate = 13%) | <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |  <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a> (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) | Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) | Most Influential <a href="https://dengpingfan.github.io/papers/PraNet-Award.pdf">Application Paper Award</a> at the Jittor Developer Conference 2021 | Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
-  </p>
-</div></div></div>
+      <!-- 亮点 -->
+      <p>
+        <strong>TL;DR:</strong> Propose a normalized self-attention mechanism for video polyp segmentation, featuring super-fast inference speed (170+ FPS on a single RTX 2080).
+      </p>
 
+      <!-- 影响力 -->
+      <p>
+        <strong>Impact:</strong> Provisional acceptance (Top 13%) |
+        <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 Travel Award</a> (Top 5.8% = 95/1630)
+      </p>
+
+    </div>
+  </div>
+</div>
+<!---------------------------- PNS-Net ---------------------------->
 
 <!---------------------------- PNS-Net ---------------------------->
 <div style="
