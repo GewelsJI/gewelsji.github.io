@@ -18,16 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I am a final-year Ph.D. candidate at the School of Computing, Australian National University, advised by [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I obtained my Master's degree in 2021 from the School of Computer Science, Wuhan University. I regularly serve as a reviewer for top-leading AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, and NeurIPS. I was named to Stanford/Elsevier's list of the world's top 2% scientists for two consecutive years (2024 & 2025).
+I am a final-year Ph.D. candidate at the School of Computing, Australian National University, advised by [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I obtained my Master's degree in 2021 from the School of Computer Science, Wuhan University. I have (co-)authored over 30+ academic papers (10,000+ citations, h-index: 24) and filed 6 technical patent applications (CN), demonstrating strong research impact in the community. I regularly serve as a reviewer for top-leading AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, and NeurIPS. I was named to Stanford/Elsevier's list of the world's top 2% scientists for two consecutive years (2024 & 2025).
 
 > 🚨 I am currently on the academic job market and open to postdoctoral and research scientist positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds.
-
+<!-- 
 <p align="center" width="100%">
   <img src="../images/ANU-COMP.png" />
-</p>
+</p> -->
 
 # 👨‍💻 Research Interests
-My research centers on subtle visual perception (微视觉感知), aiming to discover subtle patterns - often imperceptible to the human cognition yet semantically meaningful - in complex environments using advanced AI techniques, including multimodal learning, AI agents, and reinforcement learning. Empowering such perceptual abilities in intelligent systems has broad implications across various real-world tasks, including 1️⃣ **healthcare applications**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged environments**, where objects are difficult to distinguish from their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision scenarios**, where detecting/segmenting ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
+My research centers on subtle visual perception (微视觉感知), aiming to model hard-to-detect patterns - often imperceptible to human vision yet semantically meaningful - in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
 
 # 🔥 News
 - `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing colonoscopy toward clinical reasoning.
@@ -35,8 +35,7 @@ My research centers on subtle visual perception (微视觉感知), aiming to dis
 
 # 📝 Representative Publications 
 
-([Full List](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en))
-(\* stands for equal contribution and † means corresponding author)
+> Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author
 
 ### 🚩 [Topic 1️⃣] Healthcare AI
 
