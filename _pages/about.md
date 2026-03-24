@@ -54,9 +54,9 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 <div style="
   border:2px solid #e5e7eb;
   border-radius:10px;
-  padding:5px;
+  padding:8px 16px;
   background:#fafafa;
-  margin-bottom:5px;
+  margin-bottom:8px;
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
@@ -65,19 +65,19 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu\*, Jianbing Shen\*, Ling Shao, and Ali Borji
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao, and Ali Borji
   </p>
 
   <!-- 关键词 -->
   <p style="color:#54b937;">
-    <strong>Keywords:</strong> #reverse-attention, #polyp-segmentation, #colonoscopy
+    #reverse-attention, #polyp-segmentation, #colonoscopy
   </p>
 
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
 
   <!-- 左图 -->
-  <img src="images/miccai2020-pranet.png" style="width:40%;">
+  <img src="images/miccai2020-pranet.png" style="width:30%;">
 
   <!-- 右侧 -->
   <div>
@@ -117,19 +117,19 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 作者 -->
   <p>
-    <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan\*, Geng Chen, Huazhu Fu\*, Debesh Jha, Ling Shao
+    <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan*, Geng Chen, Huazhu Fu*, Debesh Jha, Ling Shao
   </p>
 
   <!-- 关键词 -->
   <p style="color:#54b937;">
-    <strong>Keywords:</strong> #self-attention, #video-polyp-segmentation, #colonoscopy
+    #self-attention, #video-polyp-segmentation, #colonoscopy
   </p>
 
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
 
   <!-- 左图 -->
-  <img src="images/miccai2021-pnsnet.png" style="width:40%;">
+  <img src="images/miccai2021-pnsnet.png" style="width:30%;">
 
   <!-- 右侧 -->
   <div>
