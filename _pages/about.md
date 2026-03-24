@@ -178,6 +178,69 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 </div>
 <!---------------------------- PNS-Net ---------------------------->
 
+
+<!---------------------------- SUN-SEG ---------------------------->
+<div style="
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  padding:8px 16px;
+  background:#fafafa;
+  margin-bottom:8px;
+">
+  <!-- 标题 -->
+  <h3 style="color:#1d4ed8;">
+    [MIR 2022] Video Polyp Segmentation: A Deep Learning Perspective
+  </h3>
+
+  <!-- 作者 -->
+  <p>
+    <strong>Ge-Peng Ji^</strong>, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan*, Kai Zhao, Geng Chen, and Luc Van Gool
+  </p>
+
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px; align-items:flex-start;">
+
+    <!-- 左图 -->
+    <div style="flex:0 0 300px;">
+      <img
+        src="images/mir2022-sunseg.png"
+        width="300"
+        style="display:block; width:300px; height:auto;"
+      />
+    </div>
+
+    <!-- 右侧 -->
+    <div style="flex:1; min-width:0;">
+
+      <!-- 关键词 -->
+      <p>
+        <strong>Keywords:</strong>
+        <span style="color:#54b937;">
+          #video-benchmark, #self-attention, #video-polyp-segmentation, #intelligent-colonoscopy
+        </span>
+      </p>
+
+      <!-- 链接 -->
+      <p>
+        <strong>Links:</strong>
+        Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a> & 
+        <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>) |
+        <a href="https://github.com/GewelsJI/VPS">Project</a> |
+        <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a>
+      </p>
+
+      <!-- 亮点 -->
+      <p>
+        <strong>TL;DR:</strong> A comprehensive benchmark and systematic study for video polyp segmentation, providing standardized evaluation and insights for future research.
+      </p>
+
+    </div>
+  </div>
+</div>
+<!---------------------------- SUN-SEG ---------------------------->
+
+
+
 <!---------------------------- PNS-Net ---------------------------->
 <div style="
   border:2px solid #e5e7eb;
