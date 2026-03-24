@@ -25,8 +25,6 @@ I am a final-year PhD candidate at the School of Computing, Australian National 
 My research centers on <span style="color: #fe3535;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
 
 # 🔥 News
-- `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
-- `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
 <div style="
   display: flex;
@@ -43,6 +41,9 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     I am currently on the academic job market and open to postdoctoral and research positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds, especially in medical applications.
   </div>
 </div>
+
+- `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
+- `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
 # 📝 Representative Publications 
 
@@ -238,108 +239,6 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   </div>
 </div>
 <!---------------------------- SUN-SEG ---------------------------->
-
-
-
-<!---------------------------- PNS-Net ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
-  <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
-    [MICCAI 2021] Progressively Normalized Self-Attention Network for Video Polyp Segmentation
-  </h3>
-
-  <!-- 作者 -->
-  <p>
-    <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan*, Geng Chen, Huazhu Fu*, Debesh Jha, Ling Shao
-  </p>
-
-  <!-- 左图右文 -->
-  <div style="display:flex; gap:20px;">
-
-  <!-- 左图 -->
-  <img src="images/miccai2021-pnsnet.png" style="width:30%;">
-
-  <!-- 右侧 -->
-  <div>
-
-  <!-- 链接 -->
-  <p>
-    <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>) |
-    <a href="https://github.com/GewelsJI/PNS-Net">Project</a> |
-    <a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a> |
-    <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a> 
-  </p>
-
-
-  <!-- 关键词 -->
-  <p>
-    <strong>Keywords:</strong> <span style="color: #54b937;">#self-attention, #video-polyp-segmentation, #intelligent-colonoscopy</span>
-  </p>
-  
-  <!-- 亮点 -->
-  <p>
-    <strong>TL;DR:</strong> Propose a normalised self-attention mechanism for video polyp segmentation, featuring super-fast inference speed (170+ FPS on a single RTX 2080).
-  </p>
-
-  <!-- 影响力 -->
-  <p>
-    <strong>Impact:</strong> Provisional acceptance (Top 13%) | <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 Travel Award</a> (Top 5.8% = 95/1630)
-  </p>
-</div></div></div>
-
-
-<!-- sun-seg -->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
-  <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
-    [MIR 2022] Video Polyp Segmentation: A Deep Learning Perspective
-  </h3>
-
-  <!-- 作者 -->
-  <p>
-    <strong>Ge-Peng Ji^</strong>, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan*, Kai Zhao, Geng Chen, and Luc Van Gool
-  </p>
-
-  <!-- 关键词 -->
-  <p style="color:#54b937;">
-    #video-benchmark, #self-attention, #video-polyp-segmentation, #intelligent-colonoscopy
-  </p>
-
-  <!-- 左图右文 -->
-  <div style="display:flex; gap:20px;">
-
-  <!-- 左图 -->
-  <img src="images/mir2022-sunseg.png" style="width:30%;">
-
-  <!-- 右侧 -->
-  <div>
-
-  <!-- 链接 -->
-  <p>
-    <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a> & <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>) |
-    <a href="https://github.com/GewelsJI/VPS">Project</a> |
-    <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a> 
-  </p>
-  
-  <!-- 亮点 -->
-  <p>
-    <strong>TL;DR:</strong> xxxx
-  </p>
-</div></div></div>
 
 colongpt
 
