@@ -48,7 +48,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 > Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author.
 
-### 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
+#### 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
 
 <div style="
@@ -59,20 +59,33 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 ">
 
   <!-- 标题 -->
-  <h2 style="color:#1d4ed8;">
+  <h4 style="color:#1d4ed8;">
     [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation
-  </h2>
+  </h4>
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, Ling Shao, and Ali Borji
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji
   </p>
+  <!-- 标签 -->
+  <div style="
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  color:#1d4ed8;
+  font-size:13px;
+  ">
+    <span>#medical-image-segmentation</span>
+    <span>#reverse-attention</span>
+    <span>#polyp-segmentation</span>
+    <span>#colonoscopy</span>
+  </div>
 
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
 
     <!-- 左图 -->
-    <img src="images/miccai2020-pranet.png" style="width:55%;">
+    <img src="images/miccai2020-pranet.png" style="width:45%;">
 
     <!-- 右侧 -->
     <div>
@@ -101,11 +114,11 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 </div>
 
-### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
+#### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
 sinet sinet-v2 dgnet
 
-### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Applications</span>
+#### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Applications</span>
 
 lawdis
 
