@@ -373,12 +373,12 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [CVPR 2026] Camouflaged object detection
+    [TPAMI 2022] Concealed Object Detection (extended version of CVPR 2020 paper)
   </h3>
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Guolei Sun, Ming-Ming Cheng, Jianbing Shen*, Ling Shao
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Ming-Ming Cheng, and Ling Shao
   </p>
 
   <!-- 左图右文 -->
@@ -387,7 +387,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/cvpr2020-cod10k.png"
+      src="images/cvpr2020-cod10k-v1.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
