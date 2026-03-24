@@ -263,7 +263,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/mir2026-colongpt.png"
+      src="images/mir2026-colongpt.gif"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -303,7 +303,63 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 <!---------------------------- colongpt ---------------------------->
 
 
-colon-x
+<!---------------------------- colon-x ---------------------------->
+<div style="
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  padding:8px 16px;
+  background:#fafafa;
+  margin-bottom:8px;
+">
+  <!-- 标题 -->
+  <h3 style="color:#1d4ed8;">
+    [arXiv 2026] COLON-X: Advancing Intelligent Colonoscopy toward Clinical Reasoning
+  </h3>
+
+  <!-- 作者 -->
+  <p>
+    <strong>Ge-Peng Ji</strong>, Jingyi Liu, Deng-Ping Fan*, Huazhu Fu, Nick Barnes
+  </p>
+
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px; align-items:flex-start;">
+
+  <!-- 左图 -->
+  <div style="flex:0 0 300px;">
+    <img
+      src="images/arxiv2026-colonx.png"
+      width="300"
+      style="display:block; width:300px; height:auto;"
+    />
+  </div>
+
+  <!-- 右侧 -->
+  <div style="flex:1; min-width:0;">
+
+  <!-- 关键词 -->
+  <p>
+    <strong>Keywords:</strong>
+    <span style="color:#54b937;">
+      #multimodal-benchmark, #multimodal-large-language-model, #multimodal-reasoning, #intelligent-colonoscopy
+    </span>
+  </p>
+
+  <!-- 链接 -->
+  <p>
+    <strong>Links:</strong>
+    Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a>) |
+    <a href="https://github.com/ai4colonoscopy/Colon-X">Project Page</a> 
+  </p>
+
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> Introducing COLON-X, a multimodal benchmark designed to advance intelligent colonoscopy toward clinical reasoning, featuring comprehensive datasets and evaluation protocols for multimodal learning and reasoning in colonoscopy.
+  </p>
+
+</div>
+</div>
+</div>
+<!---------------------------- colon-x ---------------------------->
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
