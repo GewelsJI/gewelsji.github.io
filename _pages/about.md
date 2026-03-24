@@ -57,7 +57,6 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   padding:16px;
   background:#fafafa;
 ">
-
   <!-- 标题 -->
   <h4 style="color:#1d4ed8;">
     [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation
@@ -65,39 +64,41 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji<br>
-    Early acceptance & Oral (Accept rate = 13%) | <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |  <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a> ( (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) | Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) | Most Influential Application Paper Award at the Jittor Developer Conference 2021 | Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji
+  </p>
+
+  <!-- 关键词 -->
+  <p style="color:#54b937;">
+    #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy
   </p>
 
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
 
-    <!-- 左图 -->
-    <img src="images/miccai2020-pranet.png" style="width:40%;">
+  <!-- 左图 -->
+  <img src="images/miccai2020-pranet.png" style="width:40%;">
 
-    <!-- 右侧 -->
-    <div>
+  <!-- 右侧 -->
+  <div>
 
-      <!-- 关键词 -->
-      <p style="color:#54b937;">
-        #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy
-      </p>
+  <!-- 链接 -->
+  <p>
+    <a href="https://arxiv.org/abs/2006.11392">Paper</a> |
+    <a href="https://github.com/DengPingFan/PraNet">Project</a> |
+    <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Official Version</a> |
+    <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中文译文</a> 
+  </p>
+  
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> First work to propose a "parallel reverse attention" mechanism for medical image segmentation.
+  </p>
 
-      <!-- 链接 -->
-      <p>
-        <a href="https://arxiv.org/abs/2006.11392">Paper</a> |
-        <a href="https://github.com/DengPingFan/PraNet">Project</a> |
-        <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Official Version</a> |
-        <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中文译文</a> 
-      </p>
-
-      <!-- 亮点 -->
-      <p>First work to propose a parallel reverse attention mechanism for polyp segmentation.</p>
-
-    </div>
-
-  </div>
-
+  <p>
+    <strong>Impact:</strong> Early acceptance & Oral Presentation (Accept rate = 13%) | <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |  <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a> ( (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) | Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) | Most Influential Application Paper Award at the Jittor Developer Conference 2021 | Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
+  </p>
+</div>
+</div>
 </div>
 
 pns-net
