@@ -88,7 +88,11 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 关键词 -->
   <p>
-    <strong>Keywords:</strong> <span style="color: #54b937;">#reverse-attention, #polyp-segmentation, #intelligent-colonoscopy</span>
+    <strong>Keywords:</strong> <span style="color: #54b937;">
+    <code>#reverse-attention</code>, 
+    <code>#polyp-segmentation</code>, 
+    <code>#intelligent-colonoscopy</code>
+    </span>
   </p>
   
   <!-- 亮点 -->
@@ -141,8 +145,8 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 
   <!-- 关键词 -->
-  <p style="color:#54b937;">
-    #self-attention, #video-polyp-segmentation, #intelligent-colonoscopy
+  <p>
+    <strong>Keywords:</strong> <span style="color: #54b937;">#self-attention, #video-polyp-segmentation, #intelligent-colonoscopy</span>
   </p>
   
   <!-- 亮点 -->
