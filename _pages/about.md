@@ -18,16 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I am a final-year Ph.D. candidate at the School of Computing, Australian National University, advised by [Prof. Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I obtained my Master's degree in 2021 from the School of Computer Science, Wuhan University. I have (co-)authored over 30+ academic papers (10,000+ citations, h-index: 24) and filed 6 technical patent applications (CN), demonstrating strong research impact in the community. I regularly serve as a reviewer for top-leading AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, and NeurIPS. I was named to Stanford/Elsevier's list of the world's top 2% scientists for two consecutive years (2024 & 2025).
-
-> 🚨 I am currently on the academic job market and open to postdoctoral and research scientist positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds.
+I am a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I obtained my Master's degree from the School of Computer Science at Wuhan Universityin 2021. I have published over 30 academic papers, with more than 10,000+ citations and an h-index of 24, and hold six technical patents (CN). I regularly serve as a reviewer for top-tier AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, and NeurIPS. I was named to Stanford/Elsevier's list of the world's top 2% scientists for two consecutive years (2024 & 2025).
 
 
 # 👨‍💻 Research Interests
-My research centers on subtle visual perception (微视觉感知), aiming to model hard-to-detect patterns - often imperceptible to human vision yet semantically meaningful - in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
+My research centers on subtle visual perception (微视觉感知), aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
+
+> [!NOTE]
+> 🚨 I am currently on the academic job market and open to postdoctoral and research positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds, especially in medical applications.
 
 # 🔥 News
-- `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing colonoscopy toward clinical reasoning.
+- `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
 - `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
 # 📝 Representative Publications 
@@ -56,7 +57,7 @@ test
 
 test
 
-### 🚩 [Topic 3️⃣] Ultra-Precision Object Segmentation
+### 🚩 [Topic 3️⃣] Ultra-Precision Applications
 
 test
 
