@@ -46,7 +46,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 # 📝 Representative Publications 
 
-> Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author.
+> Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). ^ stands for equal contribution and \* means corresponding author.
 
 ## 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
@@ -64,12 +64,12 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu\*, Jianbing Shen\*, Ling Shao, and Ali Borji
   </p>
 
   <!-- 关键词 -->
   <p style="color:#54b937;">
-    <strong>Keywords:</strong> #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy
+    <strong>Keywords:</strong> #reverse-attention, #polyp-segmentation, #colonoscopy
   </p>
 
   <!-- 左图右文 -->
@@ -84,11 +84,10 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    <a href="https://arxiv.org/abs/2006.11392">Paper</a> |
+    Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>) |
     <a href="https://github.com/DengPingFan/PraNet">Project</a> |
     <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
-    <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Official Version</a> |
-    <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中文译文</a> 
+    <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a> 
   </p>
   
   <!-- 亮点 -->
@@ -113,24 +112,24 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation
+    [MICCAI 2021] Progressively Normalized Self-Attention Network for Video Polyp Segmentation
   </h3>
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji
+    <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan\*, Geng Chen, Huazhu Fu\*, Debesh Jha, Ling Shao
   </p>
 
   <!-- 关键词 -->
   <p style="color:#54b937;">
-    <strong>Keywords:</strong> #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy
+    <strong>Keywords:</strong> #self-attention, #video-polyp-segmentation, #colonoscopy
   </p>
 
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
 
   <!-- 左图 -->
-  <img src="images/miccai2020-pranet.png" style="width:40%;">
+  <img src="images/miccai2021-pnsnet.png" style="width:40%;">
 
   <!-- 右侧 -->
   <div>
@@ -138,11 +137,10 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    <a href="https://arxiv.org/abs/2006.11392">Paper</a> |
-    <a href="https://github.com/DengPingFan/PraNet">Project</a> ![Github stars](https://img.shields.io/github/stars/DengPingFan/PraNet.svg) |
+    Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>) |
+    <a href="https://github.com/GewelsJI/PNS-Net">Project</a> |
     <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
-    <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Official Version</a> |
-    <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中文译文</a> 
+    <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a> 
   </p>
   
   <!-- 亮点 -->
