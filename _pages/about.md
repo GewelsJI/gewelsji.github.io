@@ -202,7 +202,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/mir2022-sunseg.png"
+      src="images/mir2022-sunseg.gif"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
