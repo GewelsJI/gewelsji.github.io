@@ -65,41 +65,23 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji<br>
+    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> | Early accept & Oral (Accept rate = 13%) |  Most Cited Paper in MICCAI over the recent 5 years | Top#1 accuracy of MediaEval 2020 Workshop at Medico Track
   </p>
 
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
 
     <!-- 左图 -->
-    <img src="images/miccai2020-pranet.png" style="width:45%;">
-
-    <div class="paper-tags">
-      <span>#medical-image-segmentation</span>
-      <span>#reverse-attention</span>
-      <span>#polyp-segmentation</span>
-      <span>#colonoscopy</span>
-    </div>
-
-    <style>
-    .paper-tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      font-size: 13px;
-    }
-
-    .paper-tags span {
-      background: #eef4ff;
-      border: 1px solid #c7dbff;
-      color: #1d4ed8;
-      padding: 3px 8px;
-      border-radius: 999px;
-    }
-    </style>
+    <img src="images/miccai2020-pranet.png" style="width:40%;">
 
     <!-- 右侧 -->
     <div>
+
+      <!-- 关键词 -->
+      <p>
+        `#medical-image-segmentation` `#reverse-attention` `#polyp-segmentation` `#colonoscopy`
+      </p>
 
       <!-- 链接 -->
       <p>
@@ -110,9 +92,9 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
       </p>
 
       <!-- 亮点 -->
-      <p>Highlight 1</p>
-      <p>Highlight 2</p>
-      <p>Highlight 3</p>
+      <p>First work to propose a parallel reverse attention mechanism for polyp segmentation.</p>
+      <p>Featured in the Stanford 2022 Al Index Report as a landmark application-level advance.</p>
+      <p>Received the Most Influential Application Paper Award at the Jittor Developer Conference 2021</p>
 
     </div>
 
