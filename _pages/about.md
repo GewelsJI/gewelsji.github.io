@@ -313,7 +313,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [arXiv 2026] COLON-X: Advancing Intelligent Colonoscopy toward Clinical Reasoning
+    [arXiv 2026] Colon-X: Advancing Intelligent Colonoscopy toward Clinical Reasoning
   </h3>
 
   <!-- 作者 -->
@@ -363,7 +363,72 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
-sinet sinet-v2 dgnet
+<!---------------------------- cod10k ---------------------------->
+<div style="
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  padding:8px 16px;
+  background:#fafafa;
+  margin-bottom:8px;
+">
+  <!-- 标题 -->
+  <h3 style="color:#1d4ed8;">
+    [CVPR 2026] Camouflaged object detection
+  </h3>
+
+  <!-- 作者 -->
+  <p>
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Guolei Sun, Ming-Ming Cheng, Jianbing Shen*, Ling Shao
+  </p>
+
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px; align-items:flex-start;">
+
+  <!-- 左图 -->
+  <div style="flex:0 0 300px;">
+    <img
+      src="images/cvpr2020-cod10k.png"
+      width="300"
+      style="display:block; width:300px; height:auto;"
+    />
+  </div>
+
+  <!-- 右侧 -->
+  <div style="flex:1; min-width:0;">
+
+  <!-- 关键词 -->
+  <p>
+    <strong>Keywords:</strong>
+    <span style="color:#54b937;">
+      #image-benchmark, #camouflaged-object-detection
+    </span>
+  </p>
+
+  <!-- 链接 -->
+  <p>
+    <strong>Links:</strong>
+    Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a> & <a href="https://ieeexplore.ieee.org/document/9156837">Official</a>) |
+    <a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
+    <a href="https://github.com/DengPingFan/SINet/">Github</a> |
+    <a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K</a> |
+    <a href="https://mmcheng.net/cod/">Online Playground</a> |
+    <a href="https://dengpingfan.github.io/papers/[2026][CVPR]COD10K_Chinese.pdf">中译文</a>
+  </p>
+
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> Introducing COD10K, a large-scale benchmark for camouflaged object detection, featuring comprehensive datasets and evaluation protocols for advancing the field of camouflage-aware computer vision.
+  </p>
+
+  <p>
+    <strong>Impact:</strong> Oral, Accept rate = 335/5865 = 5.7% | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a>
+  </p>  
+</div>
+</div>
+</div>
+<!---------------------------- cod10k ---------------------------->
+
+ sinet-v2 dgnet
 
 sam-eval
 
