@@ -69,7 +69,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 关键词 -->
   <p style="color:#54b937;">
-    #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy
+    <strong>Keywords:</strong> #medical-image-segmentation, #reverse-attention, #polyp-segmentation, #colonoscopy
   </p>
 
   <!-- 左图右文 -->
@@ -83,8 +83,10 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
   <!-- 链接 -->
   <p>
+    <strong>Links:</strong>
     <a href="https://arxiv.org/abs/2006.11392">Paper</a> |
-    <a href="https://github.com/DengPingFan/PraNet">Project</a> |
+    <a href="https://github.com/DengPingFan/PraNet">Project</a> ![Github stars](https://img.shields.io/github/stars/DengPingFan/PraNet.svg) |
+    <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
     <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Official Version</a> |
     <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中文译文</a> 
   </p>
@@ -94,8 +96,9 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
     <strong>TL;DR:</strong> First work to propose a "parallel reverse attention" mechanism for medical image segmentation.
   </p>
 
+  <!-- 影响力 -->
   <p>
-    <strong>Impact:</strong> Early acceptance & Oral Presentation (Accept rate = 13%) | <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |  <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a> ( (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) | Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) | Most Influential Application Paper Award at the Jittor Developer Conference 2021 | Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
+    <strong>Impact:</strong> Early acceptance & Oral Presentation (Accept rate = 13%) | <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |  <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a> ( (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) | Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) | Most Influential <a href="https://dengpingfan.github.io/papers/PraNet-Award.pdf">Application Paper Award</a> at the Jittor Developer Conference 2021 | Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
   </p>
 </div>
 </div>
