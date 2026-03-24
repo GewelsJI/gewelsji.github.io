@@ -50,7 +50,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (å
 
 ## ðŸš© <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
-
+<!-- PraNet -->
 <div style="
   border:2px solid #e5e7eb;
   border-radius:10px;
@@ -85,7 +85,7 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (å
   <p>
     <strong>Links:</strong>
     <a href="https://arxiv.org/abs/2006.11392">Paper</a> |
-    <a href="https://github.com/DengPingFan/PraNet">Project</a> ![Github stars](https://img.shields.io/github/stars/DengPingFan/PraNet.svg) |
+    <a href="https://github.com/DengPingFan/PraNet">Project</a> |
     <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
     <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Official Version</a> |
     <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">ä¸­æ–‡è¯‘æ–‡</a> 
@@ -102,7 +102,9 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (å
   </p>
 </div></div></div>
 
+<br>
 
+<!-- PNS-Net -->
 <div style="
   border:2px solid #e5e7eb;
   border-radius:10px;
