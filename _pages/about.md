@@ -27,6 +27,22 @@ My research centers on subtle visual perception (微视觉感知), aiming to mod
 > [!NOTE]
 > 🚨 I am currently on the academic job market and open to postdoctoral and research positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds, especially in medical applications.
 
+<div style="
+  display: flex;
+  gap: 10px;
+  border-left: 4px solid #3b82f6;
+  background: #f0f7ff;
+  padding: 12px 16px;
+  border-radius: 6px;
+  align-items: flex-start;
+">
+  <div>💡</div>
+  <div>
+    <strong>Note</strong><br>
+    Subtle patterns are often imperceptible to human vision but critical for decision-making.
+  </div>
+</div>
+
 # 🔥 News
 - `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
 - `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
