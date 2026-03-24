@@ -48,73 +48,59 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
 
 > Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). \* stands for equal contribution and † means corresponding author.
 
-### 🚩 [Topic 1️⃣] Healthcare AI
+### 🚩 <span style="color: #aa0404;">[Topic 1️⃣] Healthcare AI</span>
 
-<div style="
-  display:flex;
-  gap:20px;
-  border:1px solid #e5e7eb;
-  border-radius:12px;
-  padding:20px;
-  background:#fff;
-  box-shadow:0 4px 12px rgba(0,0,0,0.06);
-">
 
-  <!-- 左图 -->
-  <div style="flex:1; position:relative;">
-    
-    <!-- badge -->
-    <div style="
-      position:absolute;
-      top:10px;
-      left:10px;
-      background:#1d4ed8;
-      color:white;
-      font-size:12px;
-      padding:4px 8px;
-      border-radius:4px;
-    ">
-      MICCAI 2020
-    </div>
+<div>
 
-    <img src="images/miccai2020-pranet.png" style="width:100%; border-radius:8px;">
-  </div>
+  <!-- 标题 -->
+  <h2 style="color:#1d4ed8;">
+    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation
+  </h2>
 
-  <!-- 右侧 -->
-  <div style="flex:1.6;">
+  <!-- 作者 -->
+  <p>
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, Ling Shao, and Ali Borji
+  </p>
 
-    <div style="font-size:20px; font-weight:600; color:#1d4ed8;">
-      PraNet: Parallel Reverse Attention Network for Polyp Segmentation
-    </div>
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px;">
 
-    <div style="margin:6px 0 12px; color:#374151;">
-      Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji.
-    </div>
+    <!-- 左图 -->
+    <img src="images/miccai2020-pranet.png" style="width:55%;">
 
-    <div style="margin-bottom:12px;">
-      <a href="#" style="color:#1d4ed8; font-weight:500;">Project</a>
-      &nbsp;|&nbsp;
-      <a href="#" style="color:#1d4ed8;">Paper</a>
-      &nbsp;|&nbsp;
-      <span style="color:#6b7280;">⭐ 1656 citations</span>
-    </div>
+    <!-- 右侧 -->
+    <div>
 
-    <div style="line-height:1.6; color:#374151;">
-      <p>• Reverse attention</p>
-      <p>• <strong>Academic Impact:</strong> xxxx.</p>
-      <p>• <strong>Industry Impact:</strong> xxxx.</p>
+      <!-- 链接 -->
+      <p>
+        <a href="paper_link">Paper</a> |
+        <a href="project_link">Project</a>
+      </p>
+
+      <!-- 标签 -->
+      <p style="color:#1d4ed8;">
+        #CNN #MedicalSegmentation #ReverseAttention
+      </p>
+
+      <!-- 亮点 -->
+      <p>Highlight 1</p>
+      <p>Highlight 2</p>
+      <p>Highlight 3</p>
+
     </div>
 
   </div>
+
 </div>
 
 ### 🚩 [Topic 2️⃣] Camouflaged Scene Understanding
 
-test
+sinet sinet-v2 dgnet
 
 ### 🚩 [Topic 3️⃣] Ultra-Precision Applications
 
-test
+lawdis
 
 <!-- # 📖 Educations
 - `2022.09 - Present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
