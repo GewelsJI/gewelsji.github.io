@@ -67,32 +67,36 @@ My research centers on <span style="color: #fe3535;">subtle visual perception (�
   <p>
     Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu†, Jianbing Shen†, Ling Shao, and Ali Borji
   </p>
-  <!-- 标签 -->
-  <div style="
-  display:flex;
-  flex-wrap:wrap;
-  gap:6px;
-  color:#1d4ed8;
-  font-size:13px;
-  ">
-    <span>#medical-image-segmentation</span>
-    <span>#reverse-attention</span>
-    <span>#polyp-segmentation</span>
-    <span>#colonoscopy</span>
-  </div>
-  <style>
-  div span {
-    background:#e0ecff;
-    padding:3px 8px;
-    border-radius:999px;
-  }
-  </style>
 
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px;">
 
     <!-- 左图 -->
     <img src="images/miccai2020-pranet.png" style="width:45%;">
+
+    <div class="paper-tags">
+      <span>#medical-image-segmentation</span>
+      <span>#reverse-attention</span>
+      <span>#polyp-segmentation</span>
+      <span>#colonoscopy</span>
+    </div>
+
+    <style>
+    .paper-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      font-size: 13px;
+    }
+
+    .paper-tags span {
+      background: #eef4ff;
+      border: 1px solid #c7dbff;
+      color: #1d4ed8;
+      padding: 3px 8px;
+      border-radius: 999px;
+    }
+    </style>
 
     <!-- 右侧 -->
     <div>
