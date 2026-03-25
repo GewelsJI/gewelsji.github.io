@@ -97,13 +97,13 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>TL;DR:</strong> First work to propose a "parallel reverse attention" mechanism for medical image segmentation.
+    <strong>TL;DR:</strong> A pioneering work that introduced a <u>reverse attention mechanism</u> for early lesion detection (particularly effective for weak boundaries), now widely recognized as a standard baseline in medical image segmentation.
   </p>
 
   <p>
     <strong>Impact:</strong>
     Early acceptance & Oral Presentation (Top 13%) |
-    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> (<a href="images/miccai2020-pranet-YSPIA-certificate.jpg">certificate</a>; <a href="images/miccai2020-pranet-YSPIA-photo.png">Award ceremony photo</a>) |
+    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> (see <a href="images/miccai2020-pranet-YSPIA-certificate.jpg">certificate</a> & <a href="images/miccai2020-pranet-YSPIA-photo.png">award ceremony photo</a>) |
     <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a>
     (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) |
     Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) |
@@ -131,7 +131,8 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
   <!-- 作者 -->
   <p>
-    <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan*, Geng Chen, Huazhu Fu*, Debesh Jha, Ling Shao
+    <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan*, Geng Chen, Huazhu Fu*, Debesh Jha, Ling Shao<br>
+    Medical Image Computing and Computer Assisted Intervention (MICCAI), Strasbourg, France, September 27-October 1, 2021
   </p>
 
   <!-- 左图右文 -->
@@ -153,7 +154,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a>) |
-    📦 <a href="https://github.com/GewelsJI/PNS-Net">Project Page</a> |
+    📦<a href="https://github.com/GewelsJI/PNS-Net">Project Page</a> |
     🎞️<a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a>
   </p>
 
@@ -165,7 +166,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> Propose a normalized self-attention mechanism for video polyp segmentation, featuring super-fast inference speed (170+ FPS on a single RTX 2080).
+    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation -- a highly flexible and extensible design that delivers ultra-fast inference (170+ FPS on a single RTX 2080 GPU).
   </p>
 
   <!-- 影响力 -->
@@ -226,7 +227,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a>) |
-    📦 <a href="https://github.com/GewelsJI/VPS">Project Page</a> |
+    📦<a href="https://github.com/GewelsJI/VPS">Project Page</a> |
     🎞️<a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a>
   </p>
 
@@ -288,7 +289,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2026][MIR]IntelliScope_Chinese.pdf">中译文</a>) |
-    📦 <a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a> |
+    📦<a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a> |
     🗂️<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a> |
     🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a> |
     🤗<a href="https://huggingface.co/ai4colonoscopy/ColonGPT">ColonGPT</a>
@@ -350,7 +351,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a>) |
-    📦 <a href="https://github.com/ai4colonoscopy/Colon-X">Project Page</a> 
+    📦<a href="https://github.com/ai4colonoscopy/Colon-X">Project Page</a> 
   </p>
 
   <!-- 亮点 -->
@@ -413,7 +414,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     TPAMI related (<a href="https://arxiv.org/abs/2102.10274">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9444794">IEEE Xplore</a>; <a href="https://github.com/GewelsJI/SINet-V2">GitHub</a>; <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">构建Jittor国产生态</a>; <a href="https://drive.google.com/file/d/1g0VDGPDPiN3mwV2TjNTQIo8FedGr_v8G/view?usp=share_link"> Supplementary material</a>; <a href="https://drive.google.com/file/d/1vfymY0GrzbvkxUNYEkWzHBdO1JmEOVQQ/view?usp=share_link">中译文</a>) |
     CVPR related (<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html">CVF Open Access</a>, <a href="https://github.com/DengPingFan/SINet/">Github</a>, <a href="https://drive.google.com/file/d/1fE9YVD0k6oNowxY1Ds4ZpYeBAmbJlAyk/view?usp=share_link">中译文</a>) |
     <a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K dataset</a> |
-    📦 <a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
+    📦<a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
     <a href="https://mmcheng.net/cod/">Online Playground</a>
   </p>
 
@@ -423,7 +424,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> magazine (see the <a href="images/ncvpr2020-cod10k-new-scientist.png">media snapshot</a>)
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> magazine (see the <a href="images/cvpr2020-cod10k-new-scientist.png">media snapshot</a>)
   </p>  
 </div>
 </div>
@@ -599,7 +600,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Links:</strong>
     📄ICCV 2021 Conference Paper (<a href="https://arxiv.org/pdf/2108.03151v2">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9711449">IEEE</a>; <a href="https://drive.google.com/file/d/1CcaFWNo23wCMusx95JY4Cuyl6v5T73in/view?usp=share_link">中译文</a>) | 📄CVM 2023 Journal Extension (IF: 18.3; 中国最具国际影响力学术期刊; <a href="https://arxiv.org/pdf/2108.03151v3">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/10897692">IEEE</a>) | 
-    📦 <a href="https://github.com/GewelsJI/FSNet">Project Page</a>
+    📦<a href="https://github.com/GewelsJI/FSNet">Project Page</a>
   </p>
 
   <!-- 亮点 -->
