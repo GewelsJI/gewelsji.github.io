@@ -49,7 +49,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 
 # 📝 Representative Publications 
 
-^ indicates equal contribution, and * denotes corresponding author. For a full list of publications, please visit my 🌐[Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). 
+^ indicates equal contribution, and * denotes corresponding author. For a full list of publications, please visit my 🎓[Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en) profile. 
 
 ## 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
@@ -197,7 +197,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji^</strong>, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan*, Kai Zhao, Geng Chen, and Luc Van Gool<br>
-    Machine Intelligence Research (MIR), 2022, 19 (6): 531-549. (IF: 8.7，中国最具国际影响力学术期刊)
+    Machine Intelligence Research, 2022, 19 (6): 531-549. (IF: 8.7; 中国最具国际影响力学术期刊)
   </p>
 
   <!-- 左图右文 -->
@@ -259,7 +259,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji</strong>, Jingyi Liu, Peng Xu, Nick Barnes, Fahad Shahbaz Khan, Salman Khan, Deng-Ping Fan*<br>
-    Machine Intelligence Research (MIR), 2026, 23 (1), 70-114. (IF: 8.7; 中国最具国际影响力学术期刊)
+    Machine Intelligence Research, 2026, 23 (1), 70-114. (IF: 8.7; 中国最具国际影响力学术期刊)
   </p>
 
   <!-- 左图右文 -->
@@ -617,6 +617,64 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 </div>
 </div>
 <!---------------------------- fsnet ---------------------------->
+
+<!---------------------------- fsnet ---------------------------->
+<div style="
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  padding:8px 16px;
+  background:#fafafa;
+  margin-bottom:8px;
+">
+  <!-- 标题 -->
+  <h3 style="color:#1d4ed8;">
+    [ICCV 2025] LawDIS: Language-Window-based Controllable Dichotomous Image Segmentation
+  </h3>
+
+  <!-- 作者 -->
+  <p>
+    Xinyu Yan, Meijun Sun, <strong>Ge-Peng Ji</strong>, Fahad Shahbaz Khan, Salman Khan, Deng-Ping Fan*<br>
+    International Conference on Computer Vision (ICCV), Honolulu, Hawaii, USA, October 19-23, 2025
+  </p>
+
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px; align-items:flex-start;">
+
+  <!-- 左图 -->
+  <div style="flex:0 0 300px;">
+    <img
+      src="images/iccv2025-lawdis.gif"
+      width="300"
+      style="display:block; width:300px; height:auto;"
+    />
+  </div>
+
+  <!-- 右侧 -->
+  <div style="flex:1; min-width:0;">
+
+  <!-- 关键词 -->
+  <p>
+    <strong>Keywords:</strong>
+    <span style="color:#54b937;">
+      #dischotomous-image-segmentation, #promptable-segmentation, #stable-diffusion
+    </span>
+  </p>
+
+  <!-- 链接 -->
+  <p>
+    <strong>Links:</strong>
+    📄Paper (<a href="https://arxiv.org/abs/2508.01152">arXiv</a>; <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yan_LawDIS_Language-Window-based_Controllable_Dichotomous_Image_Segmentation_ICCV_2025_paper.html">CVF Open Access</a>; <a href="https://drive.google.com/file/d/14GQIMlyZJrK4wkEIY1IiIOsy5enTowzZ/view?usp=share_link">中译文</a>) | 
+    📦<a href="https://github.com/XinyuYanTJU/LawDIS">Project Page</a>
+  </p>
+
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> we introduce LawDIS, a novel language-window-based controllable dichotomous image segmentation framework that enables precise and flexible segmentation control through natural language instructions, significantly advancing the state-of-the-art in video object segmentation.
+  </p>
+</div>
+</div>
+</div>
+<!---------------------------- lawdis ---------------------------->
 
 <!-- # 📖 Educations
 - `2022.09 - Present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
