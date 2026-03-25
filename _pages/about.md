@@ -67,7 +67,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 
   <p>
     Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao, and Ali Borji<br>
-    Medical Image Computing and Computer Assisted Intervention (MICCAI), Virtual, October 4-8, 2020
+    Medical Image Computing and Computer Assisted Intervention, Virtual, October 4-8, 2020
   </p>
 
   <div style="display:flex; gap:20px; align-items:flex-start;">
@@ -87,7 +87,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
     📄Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/DengPingFan/PraNet">Project Page</a> | 
     📦<a href="https://gitcode.com/Ascend/ModelZoo-PyTorch/tree/master/ACL_PyTorch/contrib/cv/segmentation/PraNet">Huawei Ascend ModelZoo</a> |
-    🎞️<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a>
+    🎬<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a>
   </p>
 
   <p>
@@ -133,7 +133,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji^</strong>, Yu-Cheng Chou^, Deng-Ping Fan*, Geng Chen, Huazhu Fu*, Debesh Jha, Ling Shao<br>
-    Medical Image Computing and Computer Assisted Intervention (MICCAI), Strasbourg, France, September 27-October 1, 2021
+    Medical Image Computing and Computer Assisted Intervention, Strasbourg, France, September 27-October 1, 2021
   </p>
 
   <!-- 左图右文 -->
@@ -156,7 +156,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/GewelsJI/PNS-Net">Project Page</a> |
-    🎞️<a href="https://youtu.be/JxhoDcg1l78">Introduction Video (YouTube)</a>
+    🎬<a href="https://youtu.be/JxhoDcg1l78">Introduction Video (YouTube)</a>
   </p>
 
   <!-- 关键词 -->
@@ -167,12 +167,12 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation -- an extensible, plug-and-play design that delivers ultra-fast inference (170+ FPS on a single RTX 2080 GPU).
+    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation -- an extensible, <u>plug-and-play</u> design that delivers <u>ultra-fast inference</u> (170+ FPS on a single RTX 2080 GPU).
   </p>
 
   <!-- 影响力 -->
   <p>
-    <strong>Impact:</strong> Provisional acceptance (Top 13%) |
+    <strong>Impact:</strong> Early acceptance (Top 13%) |
     <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 Student Travel Award</a> (Top 5.8% = 95/1630)
   </p>
 </div>
@@ -229,7 +229,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
     📄Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/GewelsJI/VPS">Project Page</a> |
-    🎞️<a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a>
+    🎬<a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a>
   </p>
 
   <!-- 亮点 -->
@@ -483,7 +483,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2205.12853">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11633-022-1365-9">Springer</a>) |
     📦<a href="https://github.com/GewelsJI/DGNet">Project Page</a> (supporting <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
-    🎞️<a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
+    🎬<a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
     
   </p>
 
@@ -611,7 +611,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We propose a novel full-duplex strategy for video object segmentation, which effectively leverages both forward and backward information to enhance segmentation performance in challenging video scenarios.
+    <strong>TL;DR:</strong> A pioneering work that introduces a full-duplex learning strategy to capture static–dynamic interactions, enabling precise segmentation of moving objects in dynamic scenes.
   </p>
 
   <p>
@@ -669,7 +669,8 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   <p>
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2508.01152">arXiv</a>; <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yan_LawDIS_Language-Window-based_Controllable_Dichotomous_Image_Segmentation_ICCV_2025_paper.html">CVF Open Access</a>; <a href="https://drive.google.com/file/d/14GQIMlyZJrK4wkEIY1IiIOsy5enTowzZ/view?usp=share_link">中译文</a>) | 
-    📦<a href="https://github.com/XinyuYanTJU/LawDIS">Project Page</a>
+    📦<a href="https://github.com/XinyuYanTJU/LawDIS">Project Page</a> |
+    🎬<a href="https://github.com/user-attachments/assets/7d4c33a5-eff9-4474-a454-bff2b6ec78fa">introduction video (~1min)</a>
   </p>
 
   <!-- 亮点 -->
