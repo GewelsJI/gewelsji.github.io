@@ -84,7 +84,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>) |
+    📄Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>) |
     <a href="https://github.com/DengPingFan/PraNet">Project</a> |
     <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
     <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>
@@ -93,7 +93,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Keywords:</strong>
     <span style="color:#54b937;">
-      #reverse-attention, #polyp-segmentation, #intelligent-colonoscopy
+      #polyp-segmentation, #intelligent-colonoscopy
     </span>
   </p>
 
@@ -153,16 +153,16 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>) |
+    📄Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>) |
     <a href="https://github.com/GewelsJI/PNS-Net">Project</a> |
-    <a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a> |
+    🎞️<a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a> |
     <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a>
   </p>
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">#self-attention, #video-polyp-segmentation, #intelligent-colonoscopy</span>
+    <span style="color:#54b937;">#video-polyp-segmentation, #intelligent-colonoscopy</span>
   </p>
 
   <!-- 亮点 -->
@@ -229,7 +229,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>) |
     <a href="https://github.com/GewelsJI/VPS">Project</a> |
-    <a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a> |
+    🎞️<a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a> |
     <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a>
   </p>
 
@@ -289,13 +289,12 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a>; 
-    <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>) |
+    📄Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a>; 
+    <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2026][MIR]IntelliScope_Chinese.pdf">中译文</a>) |
     <a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a> |
-    <a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">🔗ColonSurvey</a> |
-    <a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">🤗ColonINST</a> |
-    <a href="https://huggingface.co/ai4colonoscopy/ColonGPT">🤗ColonGPT</a> |
-    <a href="https://dengpingfan.github.io/papers/[2026][MIR]IntelliScope_Chinese.pdf">中译文</a>
+    🗂️<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a> |
+    🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a> |
+    🤗<a href="https://huggingface.co/ai4colonoscopy/ColonGPT">ColonGPT</a>
   </p>
 
   <!-- 亮点 -->
@@ -353,7 +352,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a>) |
+    📄Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a>) |
     <a href="https://github.com/ai4colonoscopy/Colon-X">Project Page</a> 
   </p>
 
@@ -480,9 +479,9 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2205.12853">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11633-022-1365-9">Springer</a>) |
+    📄Paper (<a href="https://arxiv.org/abs/2205.12853">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11633-022-1365-9">Springer</a>) |
     <a href="https://github.com/GewelsJI/DGNet">Project Page</a> (support <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
-    <a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
+    🎞️<a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
     
   </p>
 
@@ -541,7 +540,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>)
+    📄Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>)
   </p>
 
   <!-- 亮点 -->
@@ -601,7 +600,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Conference Paper (<a href="https://arxiv.org/pdf/2108.03151v2">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9711449">IEEE</a>; <a href="https://drive.google.com/file/d/1CcaFWNo23wCMusx95JY4Cuyl6v5T73in/view?usp=share_link">中译文</a>) | Journal Extension (<a href="https://arxiv.org/pdf/2108.03151v3">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/10897692">IEEE</a>) | 
+    📄Conference Paper (<a href="https://arxiv.org/pdf/2108.03151v2">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9711449">IEEE</a>; <a href="https://drive.google.com/file/d/1CcaFWNo23wCMusx95JY4Cuyl6v5T73in/view?usp=share_link">中译文</a>) | 📄Journal Extension (<a href="https://arxiv.org/pdf/2108.03151v3">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/10897692">IEEE</a>) | 
     <a href="https://github.com/GewelsJI/FSNet">Project Page</a>
   </p>
 
