@@ -619,6 +619,71 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 </div>
 <!---------------------------- fsnet ---------------------------->
 
+
+<!---------------------------- lawdis ---------------------------->
+<div style="
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  padding:8px 16px;
+  background:#fafafa;
+  margin-bottom:8px;
+">
+  <!-- 标题 -->
+  <h3 style="color:#1d4ed8;">
+    [ICCV 2021] Full-Duplex Strategy for Video Object Segmentation
+  </h3>
+
+  <!-- 作者 -->
+  <p>
+    <strong>Ge-Peng Ji</strong>, Deng-Ping Fan*, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao<br>
+    International Conference on Computer Vision (ICCV), Vitural, October 11-17, 2021
+  </p>
+
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px; align-items:flex-start;">
+
+  <!-- 左图 -->
+  <div style="flex:0 0 300px;">
+    <img
+      src="images/iccv2021-fsnet.png"
+      width="300"
+      style="display:block; width:300px; height:auto;"
+    />
+  </div>
+
+  <!-- 右侧 -->
+  <div style="flex:1; min-width:0;">
+
+  <!-- 关键词 -->
+  <p>
+    <strong>Keywords:</strong>
+    <span style="color:#54b937;">
+      #video-object-segmentation, #video-salient-object-detection
+    </span>
+  </p>
+
+  <!-- 链接 -->
+  <p>
+    <strong>Links:</strong>
+    ICCV 2021 Conference Paper (<a href="https://arxiv.org/pdf/2108.03151v2">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9711449">IEEE</a>; <a href="https://drive.google.com/file/d/1CcaFWNo23wCMusx95JY4Cuyl6v5T73in/view?usp=share_link">中译文</a>) | CVM 2023 Journal Extension (IF: 18.3; 中国最具国际影响力学术期刊; <a href="https://arxiv.org/pdf/2108.03151v3">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/10897692">IEEE</a>) | 
+    <a href="https://github.com/GewelsJI/FSNet">Project Page</a>
+  </p>
+
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> We propose a novel full-duplex strategy for video object segmentation, which effectively leverages both forward and backward information to enhance segmentation performance in challenging video scenarios.
+  </p>
+
+  <p>
+    <strong>Impact:</strong>
+    Honorable Mention Award at CVMJ 2023 (see the <a href="images/cvmj2023-certificate.png">certificate</a>)
+  </p>
+</div>
+</div>
+</div>
+<!---------------------------- lawdis ---------------------------->
+
+
 <!-- # 📖 Educations
 - `2022.09 - Present` Ph.D., School of Computing, Australian National University, Canberra, Australia.
 - `2018.09 - 2021.06` M.S., School of Computer Science, Wuhan University, Wuhan, China. -->
