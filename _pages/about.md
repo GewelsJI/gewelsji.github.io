@@ -62,7 +62,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   margin-bottom:8px;
 ">
   <h3 style="color:#1d4ed8;">
-    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation
+    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation [<span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span></strong>]
   </h3>
 
   <p>
