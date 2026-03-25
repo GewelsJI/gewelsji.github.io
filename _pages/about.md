@@ -42,6 +42,8 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </div>
 </div>
 
+<br>
+
 - `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
 - `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
@@ -101,7 +103,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Impact:</strong>
     Early acceptance & Oral Presentation (Accept rate = 13%) |
-    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> |
+    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> (<a href="images/miccai2020-pranet-YSPIA-certificate.jpg">certificate</a>; <a href="images/miccai2020-pranet-YSPIA-photo.png">Award ceremony photo</a>) |
     <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a>
     (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) |
     Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) |
@@ -379,7 +381,8 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Ming-Ming Cheng*, and Ling Shao
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Ming-Ming Cheng*, and Ling Shao<br>
+    IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, 44 (10): 6024-6042. (IF: 18.6)
   </p>
 
   <!-- 左图右文 -->
