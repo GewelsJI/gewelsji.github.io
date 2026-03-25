@@ -421,7 +421,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> magazine (see the <a href="images/new-scientist.png">media snapshot</a>)
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> magazine (see the <a href="images/ncvpr2020-cod10k-new-scientist.png">media snapshot</a>)
   </p>  
 </div>
 </div>
@@ -439,12 +439,13 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [MIR 2022] Deep Gradient Learning for Efficient Camouflaged Object Detection
+    [MIR 2023] Deep Gradient Learning for Efficient Camouflaged Object Detection
   </h3>
 
   <!-- 作者 -->
   <p>
-    <strong>Ge-Peng Ji</strong>, Deng-Ping Fan*, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool
+    <strong>Ge-Peng Ji</strong>, Deng-Ping Fan*, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool<br>
+    Machine Intelligence Research, 2023, 20 (1): 92-108. (IF: 8.7; JCR Q1; 中国最具国际影响力学术期刊)
   </p>
 
   <!-- 左图右文 -->
@@ -453,7 +454,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/mir2022-dgnet.png"
+      src="images/mir2023-dgnet.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -466,7 +467,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Keywords:</strong>
     <span style="color:#54b937;">
-      #multimodal-benchmark, #multimodal-large-language-model, #multimodal-reasoning, #intelligent-colonoscopy
+      #efficient-camouflaged-object-segmentation, #polyp-segmentation, #industrial-defect-segmentation
     </span>
   </p>
 
@@ -489,7 +490,67 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 </div>
 <!---------------------------- dgnet ---------------------------->
 
-sam-eval
+<!---------------------------- sam4cod ---------------------------->
+<div style="
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  padding:8px 16px;
+  background:#fafafa;
+  margin-bottom:8px;
+">
+  <!-- 标题 -->
+  <h3 style="color:#1d4ed8;">
+    [SCIS 2023] SAM Struggles in Concealed Scenes -- Empirical Study on Segment Anything
+  </h3>
+
+  <!-- 作者 -->
+  <p>
+    <strong>Ge-Peng Ji</strong>, Deng-Ping Fan, Peng Xu*, Ming-Ming Cheng, Bowen Zhou, Luc Van Gool<br>
+    SCIENCE CHINA Information Sciences, 2023, 66: 226101. (IF=7.6; CiteScore=12.6; CCF A; 中国最具国际影响力学术期刊)
+  </p>
+
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px; align-items:flex-start;">
+
+  <!-- 左图 -->
+  <div style="flex:0 0 300px;">
+    <img
+      src="images/scis2023-sam4cod.png"
+      width="300"
+      style="display:block; width:300px; height:auto;"
+    />
+  </div>
+
+  <!-- 右侧 -->
+  <div style="flex:1; min-width:0;">
+
+  <!-- 关键词 -->
+  <p>
+    <strong>Keywords:</strong>
+    <span style="color:#54b937;">
+      #image-benchmark, #promptable-segmentation, #camouflaged-object-segmentation, #polyp-segmentation, #industrial-defect-segmentation
+    </span>
+  </p>
+
+  <!-- 链接 -->
+  <p>
+    <strong>Links:</strong>
+    Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>) |
+    <a href="https://github.com/GewelsJI/DGNet">Project Page</a> (support <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
+    <a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
+    
+  </p>
+
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> Introducing DGNet (Deep Gradient Network), a novel approach for efficient camouflaged object detection that leverages gradient-based learning to enhance detection performance while significantly reducing computational overhead.
+  </p>
+
+</div>
+</div>
+</div>
+<!---------------------------- sam4cod ---------------------------->
+
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Applications</span>
 
@@ -500,7 +561,7 @@ lawdis
 - `2018.09 - 2021.06` M.S., School of Computer Science, Wuhan University, Wuhan, China. -->
 
 # 💻 Working Experience
-- `2023.03 - 2023.09` Research Assistant, Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE.
+- `2023.03 - 2023.09` Visiting Scholar, Machine Learning Department, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE.
 - `2022.04 - 2022.07` Research Assistant, Sensing Intelligence and Machine Learning Laboratory (SIGMA Lab), Wuhan University, Wuhan, China.
 - `2021.06 - 2022.04` Research Intern (Talent Program), Alibaba Group (ICBU Technology Department), Hangzhou, China.
 - `2020.11 - 2021.04` Research Intern, Inception Institute of Artificial Intelligence (IIAI-CV&Med Team), Abu Dhabi, UAE.
