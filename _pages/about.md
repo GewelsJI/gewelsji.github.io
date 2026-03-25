@@ -419,7 +419,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
     📄CVPR 2020 Conference Paper (<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html">CVF Open Access</a>; <a href="https://github.com/DengPingFan/SINet/">Github</a>; <a href="https://drive.google.com/file/d/1fE9YVD0k6oNowxY1Ds4ZpYeBAmbJlAyk/view?usp=share_link">中译文</a>) |
     📦<a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
     📦<a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K dataset</a> |
-    🌐<a href="https://mmcheng.net/cod/">Online Playground</a>
+    🎮<a href="https://mmcheng.net/cod/">Online Playground</a>
   </p>
 
   <!-- 亮点 -->
@@ -542,7 +542,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    📄Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>) | 📰<a href="https://mp.weixin.qq.com/s/o4wNhZ1SAE0ARhPQRH2T2g">被“中国科学信息科学”官方公众号专门推荐</a>
+    📄Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>) | 📰<a href="https://mp.weixin.qq.com/s/o4wNhZ1SAE0ARhPQRH2T2g">获《中国科学信息科学》官方微信公众号专题解读</a>
   </p>
 
   <!-- 亮点 -->
@@ -605,7 +605,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    📄ICCV 2021 Conference Paper (<a href="https://arxiv.org/pdf/2108.03151v2">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9711449">IEEE</a>; <a href="https://drive.google.com/file/d/1CcaFWNo23wCMusx95JY4Cuyl6v5T73in/view?usp=share_link">中译文</a>) | 📄CVM 2023 Journal Extension (IF: 18.3; 中国最具国际影响力学术期刊; <a href="https://arxiv.org/pdf/2108.03151v3">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/10897692">IEEE</a>) | 
+    📄ICCV 2021 Conference Paper (<a href="https://arxiv.org/pdf/2108.03151v2">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9711449">IEEE Xplore</a>; <a href="https://drive.google.com/file/d/1CcaFWNo23wCMusx95JY4Cuyl6v5T73in/view?usp=share_link">中译文</a>) | 📄CVM 2023 Journal Extension (IF: 18.3; 中国最具国际影响力学术期刊; <a href="https://arxiv.org/pdf/2108.03151v3">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/10897692">IEEE Xplore</a>) | 
     📦<a href="https://github.com/GewelsJI/FSNet">Project Page</a>
   </p>
 
