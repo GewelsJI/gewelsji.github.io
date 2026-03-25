@@ -86,7 +86,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/DengPingFan/PraNet">Project Page</a> | 
-    📦<a href="https://gitcode.com/Ascend/ModelZoo-PyTorch/tree/master/ACL_PyTorch/contrib/cv/segmentation/PraNet">Huawei Ascend ModelZoo</a>) |
+    📦<a href="https://gitcode.com/Ascend/ModelZoo-PyTorch/tree/master/ACL_PyTorch/contrib/cv/segmentation/PraNet">Huawei Ascend ModelZoo</a> |
     🎞️<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a>
   </p>
 
@@ -412,11 +412,11 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    📄TPAMI related (<a href="https://arxiv.org/abs/2102.10274">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9444794">IEEE Xplore</a>; <a href="https://github.com/GewelsJI/SINet-V2">GitHub</a>; <a href="https://drive.google.com/file/d/1g0VDGPDPiN3mwV2TjNTQIo8FedGr_v8G/view?usp=share_link"> Supplementary material</a>; <a href="https://drive.google.com/file/d/1vfymY0GrzbvkxUNYEkWzHBdO1JmEOVQQ/view?usp=share_link">中译文</a>) |
-    📄CVPR related (<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html">CVF Open Access</a>, <a href="https://github.com/DengPingFan/SINet/">Github</a>, <a href="https://drive.google.com/file/d/1fE9YVD0k6oNowxY1Ds4ZpYeBAmbJlAyk/view?usp=share_link">中译文</a>) |
+    📄TPAMI 2021 Journal Paper (<a href="https://arxiv.org/abs/2102.10274">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9444794">IEEE Xplore</a>; <a href="https://github.com/GewelsJI/SINet-V2">GitHub</a>; <a href="https://drive.google.com/file/d/1g0VDGPDPiN3mwV2TjNTQIo8FedGr_v8G/view?usp=share_link"> Supplementary material</a>; <a href="https://drive.google.com/file/d/1vfymY0GrzbvkxUNYEkWzHBdO1JmEOVQQ/view?usp=share_link">中译文</a>) |
+    📄CVPR 2020 Conference Paper (<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html">CVF Open Access</a>; <a href="https://github.com/DengPingFan/SINet/">Github</a>; <a href="https://drive.google.com/file/d/1fE9YVD0k6oNowxY1Ds4ZpYeBAmbJlAyk/view?usp=share_link">中译文</a>) |
     📦<a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
-    📦<a href="https://mmcheng.net/cod/">Online Playground</a> |
-    📦<a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K dataset</a>
+    📦<a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K dataset</a> |
+    🌐<a href="https://mmcheng.net/cod/">Online Playground</a>
   </p>
 
   <!-- 亮点 -->
@@ -425,7 +425,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Covered by <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New Scientist"</a> magazine (see the <a href="images/cvpr2020-cod10k-new-scientist.png">media snapshot</a>) | <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">报道：构建Jittor国产生态</a>
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Covered by <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New Scientist"</a> magazine (see the <a href="images/cvpr2020-cod10k-new-scientist.png">media snapshot</a>) | <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">推动国产Jittor生态体系建设</a>
   </p>  
 </div>
 </div>
@@ -479,7 +479,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2205.12853">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11633-022-1365-9">Springer</a>) |
-    <a href="https://github.com/GewelsJI/DGNet">Project Page</a> (supporting <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
+    📦<a href="https://github.com/GewelsJI/DGNet">Project Page</a> (supporting <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
     🎞️<a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
     
   </p>
@@ -539,7 +539,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    📄Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>)
+    📄Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>) | 📰<a href="https://mp.weixin.qq.com/s/o4wNhZ1SAE0ARhPQRH2T2g">被“中国科学信息科学”官方公众号专门推荐</a>
   </p>
 
   <!-- 亮点 -->
