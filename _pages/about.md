@@ -554,7 +554,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Vision Applications</span>
 
-In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to unlock ultra-precision analysis capabilities in vision systems that enable accurate delineation and localization of fine-grained details in complex environments.
+In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to <u><b>unlock ultra-precision analysis capabilities</b></u> in vision systems that enable accurate delineation and localization of fine-grained details in complex environments.
 
 
 <!---------------------------- fsnet ---------------------------->
