@@ -202,7 +202,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/mir2022-sunseg.gif"
+      src="images/mir2022-sunseg.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -225,6 +225,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a> & 
     <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>) |
     <a href="https://github.com/GewelsJI/VPS">Project</a> |
+    <a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a> |
     <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a>
   </p>
 
@@ -263,7 +264,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/mir2026-colongpt.gif"
+      src="images/mir2026-colongpt.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -378,7 +379,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
   <!-- 作者 -->
   <p>
-    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Ming-Ming Cheng, and Ling Shao
+    Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Ming-Ming Cheng*, and Ling Shao
   </p>
 
   <!-- 左图右文 -->
@@ -421,7 +422,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>Impact:</strong> Oral, Accept rate = 335/5865 = 5.7% | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> (<a href="images/new-scientist.png">media snapshot</a>)
+    <strong>Impact:</strong> Oral, Accept rate = 335/5865 = 5.7% | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> (see <a href="images/new-scientist.png">media snapshot</a>)
   </p>  
 </div>
 </div>
