@@ -105,7 +105,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a>
     (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) |
     Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) |
-    Most Influential <a href="https://dengpingfan.github.io/papers/PraNet-Award.pdf">Application Paper Award</a> at the Jittor Developer Conference 2021 |
+    Most Influential <a href="images/miccai2020-pranet-jittor-award.png">Application Paper Award</a> at the Jittor Developer Conference 2021 |
     Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
   </p>
 </div>
@@ -408,7 +408,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    TPAMI related (<a href="https://arxiv.org/abs/2102.10274">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9444794">IEEE Xplore</a>; <a href="https://github.com/GewelsJI/SINet-V2">GitHub</a>; <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">Jittor国产生态</a>; <a href="https://drive.google.com/file/d/1g0VDGPDPiN3mwV2TjNTQIo8FedGr_v8G/view?usp=share_link"> Supplementary material</a>; <a href="https://drive.google.com/file/d/1vfymY0GrzbvkxUNYEkWzHBdO1JmEOVQQ/view?usp=share_link">中译文</a>) |
+    TPAMI related (<a href="https://arxiv.org/abs/2102.10274">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9444794">IEEE Xplore</a>; <a href="https://github.com/GewelsJI/SINet-V2">GitHub</a>; <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">构建Jittor国产生态</a>; <a href="https://drive.google.com/file/d/1g0VDGPDPiN3mwV2TjNTQIo8FedGr_v8G/view?usp=share_link"> Supplementary material</a>; <a href="https://drive.google.com/file/d/1vfymY0GrzbvkxUNYEkWzHBdO1JmEOVQQ/view?usp=share_link">中译文</a>) |
     CVPR related (<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html">CVF open access</a>, <a href="https://github.com/DengPingFan/SINet/">Github</a>, <a href="https://drive.google.com/file/d/1fE9YVD0k6oNowxY1Ds4ZpYeBAmbJlAyk/view?usp=share_link">中译文</a>) |
     <a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
     <a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K dataset</a> |
@@ -421,14 +421,73 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7& = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> (see <a href="images/new-scientist.png">media snapshot</a>)
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> magazine (see the <a href="images/new-scientist.png">media snapshot</a>)
   </p>  
 </div>
 </div>
 </div>
 <!---------------------------- cod10k ---------------------------->
 
-dgnet
+
+<!---------------------------- dgnet ---------------------------->
+<div style="
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  padding:8px 16px;
+  background:#fafafa;
+  margin-bottom:8px;
+">
+  <!-- 标题 -->
+  <h3 style="color:#1d4ed8;">
+    [MIR 2022] Deep Gradient Learning for Efficient Camouflaged Object Detection
+  </h3>
+
+  <!-- 作者 -->
+  <p>
+    <strong>Ge-Peng Ji</strong>, Deng-Ping Fan*, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool
+  </p>
+
+  <!-- 左图右文 -->
+  <div style="display:flex; gap:20px; align-items:flex-start;">
+
+  <!-- 左图 -->
+  <div style="flex:0 0 300px;">
+    <img
+      src="images/mir2022-dgnet.png"
+      width="300"
+      style="display:block; width:300px; height:auto;"
+    />
+  </div>
+
+  <!-- 右侧 -->
+  <div style="flex:1; min-width:0;">
+
+  <!-- 关键词 -->
+  <p>
+    <strong>Keywords:</strong>
+    <span style="color:#54b937;">
+      #multimodal-benchmark, #multimodal-large-language-model, #multimodal-reasoning, #intelligent-colonoscopy
+    </span>
+  </p>
+
+  <!-- 链接 -->
+  <p>
+    <strong>Links:</strong>
+    Paper (<a href="https://arxiv.org/abs/2205.12853">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11633-022-1365-9">Springer</a>) |
+    <a href="https://github.com/GewelsJI/DGNet">Project Page</a> (support <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
+    <a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
+    
+  </p>
+
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> Introducing DGNet (Deep Gradient Network), a novel approach for efficient camouflaged object detection that leverages gradient-based learning to enhance detection performance while significantly reducing computational overhead.
+  </p>
+
+</div>
+</div>
+</div>
+<!---------------------------- dgnet ---------------------------->
 
 sam-eval
 
@@ -448,6 +507,7 @@ lawdis
 
 # 💬 Invited Talks
 
+* `2026.03.19` ANU Seminar Talk "Multimodal Intelligence in Colonoscopy: Perception, Understanding, and Reasoning"
 * `2023.09.23` 国际图象图形学学术会议(ICIG 2023) - 多模态数据感知与学习Workshop大会报告 "Towards AI-Powered Colonoscopy" ([Page1](http://icig2023.csig.org.cn/workshops/)/[Page2](https://mp.weixin.qq.com/s/GzdW9xxDqh_ldmJnLcu65w))
 * `2023.07.06` 机器智能前沿论坛·第2期 "伪装场景感知及多模态应用: 一种基于梯度先验信息学习的高效伪装目标分割方法" ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA) & [Recorded Video](https://www.bilibili.com/video/BV1ku411b7pR?t=602.3))
 * `2023.03.31` 中国图象图形学学会第三期学生会员分享论坛会议 "Towards AI-Powered Colonoscopy" ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) 
@@ -460,7 +520,7 @@ lawdis
 
 
 # 🏆 Honors and Awards
-- `2025` MICCAI Young Scientist Publication Impact Award (Top~0.2% from 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
+- `2025` MICCAI Young Scientist Publication Impact Award (Top ~0.2% from 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
 - `2025` CVPR 2025 Outstanding Reviewer Award (Top 5.6%=711/12000+, [Link](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - `2025` Stanford/Elsevier Top 2% Scientists List 2025 ([Link](https://topscinet.com/scientist_profile/Ji,%20Gepeng/2020/?stype=single_year#google_vignette))
 - `2024` MICCAI2024 Young Scientist Publication Impact Award Shortlist
@@ -470,8 +530,8 @@ lawdis
 - `2023` IEEE Transactions on Medical Imaging Distinguished Reviewer (Bronze Level 2022 – 2023)
 - `2021` Jittor Developer Conference Distinguish Paper & Most Influential (Application) Paper
 - `2021` MICCAI Student Travel Award ([MICCAI link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
-- `2020` Multimedia Evaluation Benchmark Workshop (Ranking top-1 in terms of accuracy metric)
-- `2019` Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top6%).
+- `2020` Multimedia Evaluation Benchmark Workshop (Ranking Top-1 in terms of accuracy metric)
+- `2019` Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top 6%).
 
 # 📃 Academic Services
 
