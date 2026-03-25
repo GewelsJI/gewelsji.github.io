@@ -535,17 +535,13 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>) |
-    <a href="https://github.com/GewelsJI/DGNet">Project Page</a> (support <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
-    <a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
-    
+    Paper (<a href="https://arxiv.org/abs/2304.06022">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11432-023-3881-x">Springer</a>)
   </p>
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> Introducing DGNet (Deep Gradient Network), a novel approach for efficient camouflaged object detection that leverages gradient-based learning to enhance detection performance while significantly reducing computational overhead.
+    <strong>TL;DR:</strong> SAM evaluation on concealed scenes, revealing significant performance gaps and highlighting the need for specialized approaches in camouflaged object detection.
   </p>
-
 </div>
 </div>
 </div>
