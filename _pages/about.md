@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I am a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I obtained my Master's degree from the School of Computer Science at Wuhan University in 2021. I have published over 30 academic papers, with more than 10,000+ citations and an h-index of 24, and hold six technical patents (CHINA). I regularly serve as a reviewer for top-tier AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, and NeurIPS. I was named to Stanford/Elsevier's list of the world's top 2% scientists for two consecutive years (2024 & 2025).
+I am a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I received my Master's degree from the School of Computer Science at Wuhan University in 2021. I have published over 30 academic papers, with more than 10,000+ citations and an h-index of 24, and hold six Chinese technicalpatents. I regularly serve as a reviewer for top-tier AI journals and conferences, including TPAMI, TIP, IJCV, CVPR, ICCV, and NeurIPS. I was named to the Stanford/Elsevier Top 2% Scientists List in both 2024 and 2025.
 
 
 # 👨‍💻 Research Interests
-My research centers on <span style="color: #aa0404;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision applications**, where identifying ultra-tiny objects or subtle structures requires high spatial precision and fine-grained representation.
+My research centers on <span style="color: #aa0404;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision vision applications**, where identifying ultra-tiny objects or subtle structures requires fine-grained representation and accurate localization.
 
 # 🔥 News
 
@@ -38,18 +38,18 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <div>🚨</div>
   <div>
     <strong>NOTE</strong><br>
-    I am currently on the academic job market and open to postdoctoral and research positions. Please feel free to contact me if you think I might be a good fit for your team. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds, especially in medical applications.
+    I am currently on the academic job market and open to postdoctoral and research positions. Please feel free to reach out if you think my background may be a good fit for your group. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds, especially in medical applications.
   </div>
 </div>
 
 <br>
 
 - `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
-- `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" has officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
+- `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" is now officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
 # 📝 Representative Publications 
 
-^ stands for equal contribution and \* means corresponding author. Full publication list: [Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). 
+^ indicates equal contribution, and * denotes corresponding author. For a full list of publications, please visit my 🌐[Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en). 
 
 ## 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
@@ -67,7 +67,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
   <p>
     Deng-Ping Fan, <strong>Ge-Peng Ji</strong>, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao, and Ali Borji<br>
-    Medical Image Computing and Computer Assisted Intervention (MICCAI), Vitural, October 4-8, 2020
+    Medical Image Computing and Computer Assisted Intervention (MICCAI), Virtual, October 4-8, 2020
   </p>
 
   <div style="display:flex; gap:20px; align-items:flex-start;">
@@ -85,8 +85,9 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>) |
-    <a href="https://github.com/DengPingFan/PraNet">Project Page</a> |
-    <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a>
+    📦<a href="https://github.com/DengPingFan/PraNet">Project Page</a> | 
+    📦<a href="https://gitcode.com/Ascend/ModelZoo-PyTorch/tree/master/ACL_PyTorch/contrib/cv/segmentation/PraNet">Huawei Ascend ModelZoo</a>) |
+    🎞️<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a>
   </p>
 
   <p>
@@ -104,9 +105,9 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     <strong>Impact:</strong>
     Early acceptance & Oral Presentation (Top 13%) |
     <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> (see <a href="images/miccai2020-pranet-YSPIA-certificate.jpg">certificate</a> & <a href="images/miccai2020-pranet-YSPIA-photo.png">award ceremony photo</a>) |
-    <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Rank#1 Cited Paper in MICCAI</a>
+    <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">#1 most-cited MICCAI paper</a>
     (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) |
-    Top#1 Accuracy of MediaEval 2020 Workshop (Medico Track) |
+    Ranked #1 in accuracy at the MediaEval 2020 Medico Task |
     Most Influential <a href="images/miccai2020-pranet-jittor-award.png">Application Paper Award</a> at the Jittor Developer Conference 2021 |
     Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
   </p>
@@ -155,7 +156,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/GewelsJI/PNS-Net">Project Page</a> |
-    🎞️<a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a>
+    🎞️<a href="https://youtu.be/JxhoDcg1l78">Introduction Video (YouTube)</a>
   </p>
 
   <!-- 关键词 -->
@@ -166,7 +167,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation -- a highly flexible and extensible design that delivers ultra-fast inference (170+ FPS on a single RTX 2080 GPU).
+    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation -- an extensible, plug-and-play design that delivers ultra-fast inference (170+ FPS on a single RTX 2080 GPU).
   </p>
 
   <!-- 影响力 -->
@@ -424,7 +425,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> magazine (see the <a href="images/cvpr2020-cod10k-new-scientist.png">media snapshot</a>)
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Covered by <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New Scientist"</a> magazine (see the <a href="images/cvpr2020-cod10k-new-scientist.png">media snapshot</a>)
   </p>  
 </div>
 </div>
@@ -478,7 +479,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <p>
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2205.12853">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11633-022-1365-9">Springer</a>) |
-    <a href="https://github.com/GewelsJI/DGNet">Project Page</a> (support <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
+    <a href="https://github.com/GewelsJI/DGNet">Project Page</a> (supporting <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
     🎞️<a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
     
   </p>
@@ -570,7 +571,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji</strong>, Deng-Ping Fan*, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao<br>
-    International Conference on Computer Vision (ICCV), Vitural, October 11-17, 2021
+    International Conference on Computer Vision (ICCV), Virtual, October 11-17, 2021
   </p>
 
   <!-- 左图右文 -->
@@ -633,8 +634,8 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 * `2023.09.23` 国际图象图形学学术会议(ICIG 2023) - 多模态数据感知与学习Workshop大会报告 "Towards AI-Powered Colonoscopy" ([Page1](http://icig2023.csig.org.cn/workshops/)/[Page2](https://mp.weixin.qq.com/s/GzdW9xxDqh_ldmJnLcu65w))
 * `2023.07.06` 机器智能前沿论坛·第2期 "伪装场景感知及多模态应用: 一种基于梯度先验信息学习的高效伪装目标分割方法" ([Page](https://mp.weixin.qq.com/s/ehlYTWJN8csYPs54e-oRbA) & [Recorded Video](https://www.bilibili.com/video/BV1ku411b7pR?t=602.3))
 * `2023.03.31` 中国图象图形学学会第三期学生会员分享论坛会议 "Towards AI-Powered Colonoscopy" ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) 
-* `2023.01.06` Shenzhen Univeristy Talking 2023: "Towards AI-Powered Colonoscopy" 
-* `2022.12.07` Anhui Univeristy Talking 2022: "Colonoscopy in the AI Era" 
+* `2023.01.06` Shenzhen University Talking 2023: "Towards AI-Powered Colonoscopy" 
+* `2022.12.07` Anhui University Talking 2022: "Colonoscopy in the AI Era" 
 * `2022.10.10` VALSE 2021 Workshop 6 -- Spotlight Talking: "Camouflaged Object Detection and its Applications" ([Poster](http://valser.org/2021/#/poster)) 
 * `2021.11.15` Synced-ICCV 2021 "Full-Duplex Strategy for Video Object Segmentation"
 * `2021.08.28` CSIG-ICCV 2021 "Full-Duplex Strategy for Video Object Segmentation" ([Page](https://event.baai.ac.cn/event/162#section-one)) 
@@ -650,7 +651,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 - `2024` CVM Honorable Paper Mention Award in 2023 ([Journal Updates](https://link.springer.com/journal/41095/updates/26965690))
 - `2024` MIR Outstanding Reviewer Award in 2023 ([MIR Journal News](https://link.springer.com/journal/11633/updates/26630820))
 - `2023` IEEE Transactions on Medical Imaging Distinguished Reviewer (Bronze Level 2022 – 2023)
-- `2021` Jittor Developer Conference Distinguish Paper & Most Influential (Application) Paper
+- `2021` Jittor Developer Conference Distinguished Paper & Most Influential (Application) Paper
 - `2021` MICCAI Student Travel Award ([MICCAI link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
 - `2020` Multimedia Evaluation Benchmark Workshop (Ranking Top-1 in terms of accuracy metric)
 - `2019` Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top 6%).
@@ -698,7 +699,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 * Diagnostics ([Link](https://www.mdpi.com/journal/diagnostics))<br>
 * Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br>
 
-# 🔗 Useful Links
+# 🔗 Useful Resources
 - [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
 - [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
