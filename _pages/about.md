@@ -367,6 +367,9 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
+Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries. This research area is crucial for applications such as wildlife monitoring, search and rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
+
+
 <!---------------------------- cod10k ---------------------------->
 <div style="
   border:2px solid #e5e7eb;
@@ -554,7 +557,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Vision Applications</span>
 
-In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to <u><b>unlock ultra-precision analysis capabilities</b></u> in vision systems that enable accurate delineation and localization of fine-grained details in complex environments.
+In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to <u><b>unlock ultra-precision representations</b></u> in complex vision systems, enabling precise structure delineation and reliable tiny object localization.
 
 
 <!---------------------------- fsnet ---------------------------->
