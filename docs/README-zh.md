@@ -33,7 +33,7 @@ AcadHomepage
 - **搜索引擎优化**: 搜索引擎优化 (SEO) 帮助搜索引擎轻松找到您在主页上发布的信息，然后将其与类似网站进行排名，并获得排名优势。
 
 ## 快速开始
-
+https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en
 1. Fork本仓库到`USERNAME/USERNAME.github.io`，其中`USERNAME`是你的github用户名。
 1. 配置谷歌学术引用爬虫：
     1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。

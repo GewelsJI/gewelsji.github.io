@@ -62,7 +62,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   margin-bottom:8px;
 ">
   <h3 style="color:#1d4ed8;">
-    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation [<span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span></strong>]
+    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation [<span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span>]
   </h3>
 
   <p>
@@ -74,7 +74,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 
   <div style="flex:0 0 300px;">
     <img
-      src="images/miccai2020-pranet.png"
+      src="images/academic-related/miccai2020-pranet.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -104,11 +104,11 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <p>
     <strong>Impact:</strong>
     Early acceptance & Oral Presentation (Top 13%) |
-    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> (see <a href="images/miccai2020-pranet-YSPIA-certificate.jpg">certificate</a> & <a href="images/miccai2020-pranet-YSPIA-photo.png">award ceremony photo</a>) |
+    <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> (see <a href="images/academic-related/miccai2020-pranet-YSPIA-certificate.jpg">certificate</a> & <a href="images/academic-related/miccai2020-pranet-YSPIA-photo.png">award ceremony photo</a>) |
     <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">#1 most-cited MICCAI paper</a>
     (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) |
     Ranked #1 in accuracy at the MediaEval 2020 Medico Task |
-    Most Influential <a href="images/miccai2020-pranet-jittor-award.png">Application Paper Award</a> at the Jittor Developer Conference 2021 |
+    Most Influential <a href="images/academic-related/miccai2020-pranet-jittor-award.png">Application Paper Award</a> at the Jittor Developer Conference 2021 |
     Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
   </p>
 </div>
@@ -142,7 +142,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/miccai2021-pnsnet.png"
+      src="images/academic-related/miccai2021-pnsnet.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -206,7 +206,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/mir2022-sunseg.png"
+      src="images/academic-related/mir2022-sunseg.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -268,7 +268,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/mir2026-colongpt.png"
+      src="images/academic-related/mir2026-colongpt.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -331,7 +331,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/arxiv2026-colonx.png"
+      src="images/academic-related/arxiv2026-colonx.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -395,7 +395,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/cvpr2020-cod10k-v1.png"
+      src="images/academic-related/cvpr2020-cod10k-v1.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -428,7 +428,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   </p>
 
   <p>
-    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Covered by <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New Scientist"</a> magazine (see the <a href="images/cvpr2020-cod10k-new-scientist.png">media snapshot</a>) | <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">推动国产Jittor生态体系建设</a>
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/academic-related/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Covered by <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New Scientist"</a> magazine (see the <a href="images/academic-related/cvpr2020-cod10k-new-scientist.png">media snapshot</a>) | <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">推动国产Jittor生态体系建设</a>
   </p>  
 </div>
 </div>
@@ -461,7 +461,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/mir2023-dgnet.png"
+      src="images/academic-related/mir2023-dgnet.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -522,7 +522,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/scis2023-sam4cod.png"
+      src="images/academic-related/scis2023-sam4cod.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -585,7 +585,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/iccv2021-fsnet.png"
+      src="images/academic-related/iccv2021-fsnet.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
@@ -616,7 +616,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
   <p>
     <strong>Impact:</strong>
-    Honorable Mention Award at CVMJ 2023 (see the <a href="images/cvmj2023-certificate.png">certificate</a>)
+    Honorable Mention Award at CVMJ 2023 (see the <a href="images/academic-related/cvmj2023-certificate.png">certificate</a>)
   </p>
 </div>
 </div>
@@ -648,7 +648,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   <!-- 左图 -->
   <div style="flex:0 0 300px;">
     <img
-      src="images/iccv2025-lawdis.gif"
+      src="images/academic-related/iccv2025-lawdis.gif"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
