@@ -81,7 +81,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>) |
+    Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>) |
     <a href="https://github.com/DengPingFan/PraNet">Project</a> |
     <a href="https://gitee.com/ascend/ModelZoo-PyTorch/tree/master/PyTorch/contrib/cv/semantic_segmentation/PraNet">Huawei Ascend ModelZoo</a> |
     <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>
@@ -150,7 +150,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a> & <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>) |
+    Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>) |
     <a href="https://github.com/GewelsJI/PNS-Net">Project</a> |
     <a href="https://youtu.be/JxhoDcg1l78">Introduction Video (Youtube)</a> |
     <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a>
@@ -222,7 +222,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a> & 
+    Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>) |
     <a href="https://github.com/GewelsJI/VPS">Project</a> |
     <a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a> |
@@ -284,7 +284,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a> & 
+    Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>) |
     <a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a> |
     <a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">🔗ColonSurvey</a> |
@@ -374,7 +374,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [TPAMI 2022] Concealed Object Detection (extended version of <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf">CVPR 2020</a>)
+    [TPAMI 2021] Concealed Object Detection (extended version of <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf">CVPR 2020</a>)
   </h3>
 
   <!-- 作者 -->
@@ -408,8 +408,8 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    TPAMI related (<a href="https://arxiv.org/abs/2102.10274">arXiv</a> & <a href="https://ieeexplore.ieee.org/document/9444794">IEEE</a> & <a href="https://github.com/GewelsJI/SINet-V2">GitHub</a> & <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">Jittor国产生态</a> & <a href="https://drive.google.com/file/d/1g0VDGPDPiN3mwV2TjNTQIo8FedGr_v8G/view?usp=share_link"> Supplementary material</a> & <a href="https://drive.google.com/file/d/1vfymY0GrzbvkxUNYEkWzHBdO1JmEOVQQ/view?usp=share_link">中译文</a>) |
-    CVPR related (<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html">CVF</a>, <a href="https://github.com/DengPingFan/SINet/">Github</a>, <a href="https://drive.google.com/file/d/1fE9YVD0k6oNowxY1Ds4ZpYeBAmbJlAyk/view?usp=share_link">中译文</a>) |
+    TPAMI related (<a href="https://arxiv.org/abs/2102.10274">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9444794">IEEE Xplore</a>; <a href="https://github.com/GewelsJI/SINet-V2">GitHub</a>; <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">Jittor国产生态</a>; <a href="https://drive.google.com/file/d/1g0VDGPDPiN3mwV2TjNTQIo8FedGr_v8G/view?usp=share_link"> Supplementary material</a>; <a href="https://drive.google.com/file/d/1vfymY0GrzbvkxUNYEkWzHBdO1JmEOVQQ/view?usp=share_link">中译文</a>) |
+    CVPR related (<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html">CVF open access</a>, <a href="https://github.com/DengPingFan/SINet/">Github</a>, <a href="https://drive.google.com/file/d/1fE9YVD0k6oNowxY1Ds4ZpYeBAmbJlAyk/view?usp=share_link">中译文</a>) |
     <a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
     <a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K dataset</a> |
     <a href="https://mmcheng.net/cod/">Online Playground</a>
@@ -421,7 +421,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7& = 335/5865) | ESI Hot Paper (0.1%) | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> (see <a href="images/new-scientist.png">media snapshot</a>)
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7& = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> (see <a href="images/new-scientist.png">media snapshot</a>)
   </p>  
 </div>
 </div>
