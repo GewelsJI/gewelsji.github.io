@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I am a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I received my Master's degree from the School of Computer Science at Wuhan University in 2021. I have published over 30 academic papers, with more than 10,000+ citations and an h-index of 24, and hold six Chinese technicalpatents. I regularly serve as a reviewer for top-tier AI journals and conferences, including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. I was named to the Stanford/Elsevier Top 2% Scientists List in both 2024 and 2025.
+I am a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, I received my Master's degree from the School of Computer Science at Wuhan University in 2021. I have published over 30 peer-reviewed academic papers, with more than 10,000+ citations and an h-index of 24, and hold six Chinese technical patents. I regularly serve as a reviewer for top-tier AI journals and conferences, including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. I was named to the Stanford/Elsevier Top 2% Scientists List in both 2024 and 2025.
 
 
 # 👨‍💻 Research Interests
@@ -552,7 +552,9 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 <!---------------------------- sam4cod ---------------------------->
 
 
-#### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Applications</span>
+#### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Vision Applications</span>
+
+In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to unlock ultra-precision analysis capabilities in vision systems that enable accurate delineation and localization of fine-grained details in complex environments.
 
 
 <!---------------------------- fsnet ---------------------------->
@@ -571,7 +573,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji</strong>, Deng-Ping Fan*, Keren Fu, Zhe Wu, Jianbing Shen, Ling Shao<br>
-    International Conference on Computer Vision (ICCV), Virtual, October 11-17, 2021
+    International Conference on Computer Vision, Virtual, October 11-17, 2021
   </p>
 
   <!-- 左图右文 -->
@@ -634,7 +636,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <!-- 作者 -->
   <p>
     Xinyu Yan, Meijun Sun, <strong>Ge-Peng Ji</strong>, Fahad Shahbaz Khan, Salman Khan, Deng-Ping Fan*<br>
-    International Conference on Computer Vision (ICCV), Honolulu, Hawaii, USA, October 19-23, 2025
+    International Conference on Computer Vision, Honolulu, Hawaii, USA, October 19-23, 2025
   </p>
 
   <!-- 左图右文 -->
@@ -656,7 +658,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   <p>
     <strong>Keywords:</strong>
     <span style="color:#54b937;">
-      #dischotomous-image-segmentation, #promptable-segmentation, #stable-diffusion
+      #promptable-segmentation, #stable-diffusion, #dischotomous-image-segmentation
     </span>
   </p>
 
