@@ -374,7 +374,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [TPAMI 2022] Concealed Object Detection (extended version of CVPR 2020 paper)
+    [TPAMI 2022] Concealed Object Detection (extended version of <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf">CVPR 2020</a>)
   </h3>
 
   <!-- 作者 -->
@@ -408,12 +408,11 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    Conference Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a> & <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf">Official</a>) |
+    TPAMI related (<a href="https://arxiv.org/abs/2102.10274">arXiv</a> & <a href="https://ieeexplore.ieee.org/document/9444794">IEEE</a> & <a href="https://github.com/GewelsJI/SINet-V2">GitHub</a> & <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">Jittor国产生态</a> & <a href="https://drive.google.com/file/d/1g0VDGPDPiN3mwV2TjNTQIo8FedGr_v8G/view?usp=share_link"> Supplementary material</a> & <a href="https://drive.google.com/file/d/1vfymY0GrzbvkxUNYEkWzHBdO1JmEOVQQ/view?usp=share_link">中译文</a>) |
+    CVPR related (<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.html">CVF</a>, <a href="https://github.com/DengPingFan/SINet/">Github</a>, <a href="https://drive.google.com/file/d/1fE9YVD0k6oNowxY1Ds4ZpYeBAmbJlAyk/view?usp=share_link">中译文</a>) |
     <a href="https://dengpingfan.github.io/pages/COD.html">Project Page</a> |
-    <a href="https://github.com/DengPingFan/SINet/">Github</a> |
-    <a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K</a> |
-    <a href="https://mmcheng.net/cod/">Online Playground</a> |
-    <a href="https://dengpingfan.github.io/papers/[2026][CVPR]COD10K_Chinese.pdf">中译文</a>
+    <a href="https://drive.google.com/file/d/1vRYAie0JcNStcSwagmCq55eirGyMYGm5/view?usp=sharing">Download COD10K dataset</a> |
+    <a href="https://mmcheng.net/cod/">Online Playground</a>
   </p>
 
   <!-- 亮点 -->
@@ -422,7 +421,7 @@ My research centers on <span style="color: #aa0404;">subtle visual perception (�
   </p>
 
   <p>
-    <strong>Impact:</strong> Oral, Accept rate = 335/5865 = 5.7% | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> (see <a href="images/new-scientist.png">media snapshot</a>)
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7& = 335/5865) | ESI Hot Paper (0.1%) | Coverage of <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New scientist"</a> (see <a href="images/new-scientist.png">media snapshot</a>)
   </p>  
 </div>
 </div>
