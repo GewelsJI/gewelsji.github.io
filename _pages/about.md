@@ -661,7 +661,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   <p>
     <strong>Keywords:</strong>
     <span style="color:#54b937;">
-      #promptable-segmentation, #stable-diffusion, #dischotomous-image-segmentation
+      #promptable-segmentation, #stable-diffusion, #multimodal-model, #dischotomous-image-segmentation
     </span>
   </p>
 
@@ -673,11 +673,10 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
     🎬<a href="https://github.com/user-attachments/assets/7d4c33a5-eff9-4474-a454-bff2b6ec78fa">introduction video (~1min)</a>
   </p>
 
-  <!-- Most high-precision segmentation methods rely on global refinement, which is spatially non-monotonic -- improving some regions often degrades others.  -->
   <!-- 亮点 -->
   <p>
     <strong>TL;DR:</strong>
-    <u>Describe, segment, and post-refine.</u> LawDIS enables human users to precisely segment objects with simple language instructions, and interactively post-refine user-specified regions of arbitrary size.
+    <u>Describe, segment, and post-refine!</u> LawDIS enables human users to precisely segment objects with simple language instructions, and interactively post-refine user-specified regions of arbitrary size.
   </p>
 </div>
 </div>
