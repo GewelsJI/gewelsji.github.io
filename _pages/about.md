@@ -677,7 +677,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   <!-- 亮点 -->
   <p>
     <strong>TL;DR:</strong>
-    LawDIS enables human users to interactively segment objects with simple language instructions, and refine user-specified details for high-precision results.
+    <u>Describe, segment, and post-refine</u> -- LawDIS enables human users to precisely segment objects with simple language instructions, and post-refine user-specified regions interactively.
   </p>
 </div>
 </div>
