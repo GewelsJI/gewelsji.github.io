@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Gepeng Ji is a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, he received his Master's degree from the School of Computer Science at Wuhan University in 2021. He has published over 30 peer-reviewed academic papers, with more than 10,000+ citations and an h-index of 24, and holds six Chinese technical patents. He regularly serves as a reviewer for top-tier AI journals and conferences, including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was named to the Stanford/Elsevier Top 2% Scientists List in both 2024 and 2025.
+Ge-Peng Ji (pronounced: guh-peng jee /ɡə pɛŋ dʒiː/) is a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, he received his Master's degree from the School of Computer Science at Wuhan University in 2021. He has published over 30 peer-reviewed academic papers, with more than 10,000+ citations and an h-index of 24, and holds six Chinese technical patents. He regularly serves as a reviewer for top-tier AI journals and conferences, including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was named to the Stanford/Elsevier Top 2% Scientists List in both 2024 and 2025.
 
 
 # 👨‍💻 Research Interests
