@@ -62,7 +62,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
   margin-bottom:8px;
 ">
   <h3 style="color:#1d4ed8;">
-    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation [<span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span>]
+    [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation
   </h3>
 
   <p>
@@ -87,7 +87,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
     📄Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/DengPingFan/PraNet">Project Page</a> | 
     📦<a href="https://gitcode.com/Ascend/ModelZoo-PyTorch/tree/master/ACL_PyTorch/contrib/cv/segmentation/PraNet">Huawei Ascend ModelZoo</a> |
-    🎬<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a>
+    🎬<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a> <span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span>
   </p>
 
   <p>
@@ -605,7 +605,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    📄ICCV 2021 Conference Paper (<a href="https://arxiv.org/pdf/2108.03151v2">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9711449">IEEE Xplore</a>; <a href="https://drive.google.com/file/d/1CcaFWNo23wCMusx95JY4Cuyl6v5T73in/view?usp=share_link">中译文</a>) | 📄CVM 2023 Journal Extension (IF: 18.3; 中国最具国际影响力学术期刊; <a href="https://arxiv.org/pdf/2108.03151v3">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/10897692">IEEE Xplore</a>) | 
+    📄ICCV 2021 Conference Paper (<a href="https://arxiv.org/pdf/2108.03151v2">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/9711449">IEEE Xplore</a>; <a href="https://drive.google.com/file/d/1CcaFWNo23wCMusx95JY4Cuyl6v5T73in/view?usp=share_link">中译文</a>) | 📄CVMJ 2023 Journal Extension (IF: 18.3; 中国最具国际影响力学术期刊; <a href="https://arxiv.org/pdf/2108.03151v3">arXiv</a>; <a href="https://ieeexplore.ieee.org/document/10897692">IEEE Xplore</a>) | 
     📦<a href="https://github.com/GewelsJI/FSNet">Project Page</a>
   </p>
 
@@ -623,7 +623,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 </div>
 <!---------------------------- fsnet ---------------------------->
 
-<!---------------------------- fsnet ---------------------------->
+<!---------------------------- lawdis ---------------------------->
 <div style="
   border:2px solid #e5e7eb;
   border-radius:10px;
@@ -675,7 +675,8 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> we introduce LawDIS, a novel language-window-based controllable dichotomous image segmentation framework that enables precise and flexible segmentation control through natural language instructions, significantly advancing the state-of-the-art in video object segmentation.
+    <strong>TL;DR:</strong>
+    Most high-precision segmentation methods rely on global refinement, which is spatially non-monotonic -- improving some regions often degrades others. We instead propose a <u>region-aware post-refinement strategy</u> that selectively improves poorly estimated areas.
   </p>
 </div>
 </div>
