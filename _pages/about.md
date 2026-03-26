@@ -167,7 +167,7 @@ My research centers on <span style="color: #aa0404; font-weight: bold;">subtle v
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation -- an extensible, <u>plug-and-play</u> design that delivers <u>ultra-fast inference</u> (170+ FPS on a single RTX 2080 GPU).
+    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation -- an extensible, <u>plug-and-play design</u> that delivers <u>ultra-fast inference</u> (170+ FPS on a single RTX 2080 GPU).
   </p>
 
   <!-- 影响力 -->
@@ -673,10 +673,11 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
     🎬<a href="https://github.com/user-attachments/assets/7d4c33a5-eff9-4474-a454-bff2b6ec78fa">introduction video (~1min)</a>
   </p>
 
+  <!-- Most high-precision segmentation methods rely on global refinement, which is spatially non-monotonic -- improving some regions often degrades others.  -->
   <!-- 亮点 -->
   <p>
     <strong>TL;DR:</strong>
-    Most high-precision segmentation methods rely on global refinement, which is spatially non-monotonic -- improving some regions often degrades others. We instead propose a <u>region-aware post-refinement strategy</u> that selectively improves poorly estimated areas.
+    LawDIS enables human users to interactively segment objects with simple language instructions, and refine user-specified details for high-precision results.
   </p>
 </div>
 </div>
