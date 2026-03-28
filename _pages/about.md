@@ -120,7 +120,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <p>
     <strong>Follow-up Work (PraNet-V2):</strong>
-    We broadened the concept of reverse attention - originally introduced for binary segmentation in PraNet - to a wider range of medical image segmentation tasks in our CVM 2026 journal publication (IF: 18.3; 中国最具国际影响力学术期刊). The paper is available on <a href="https://ieeexplore.ieee.org/document/11373451">IEEE Xplore</a>, and our project page is available at <a href="https://github.com/ai4colonoscopy/PraNet-V2">Github</a>.
+    We extend the concept of reverse attention - originally introduced for binary segmentation in PraNet - to a broader range of multi-class segmentation tasks in medical imaging. Please read our CVM 2026 journal publication (IF: 18.3; 中国最具国际影响力学术期刊; <a href="https://ieeexplore.ieee.org/document/11373451">IEEE Xplore</a>; <a href="https://github.com/ai4colonoscopy/PraNet-V2">Project Page</a>).
   </p>
 </div>
 </div>
