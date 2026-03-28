@@ -56,6 +56,15 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
 
 ## 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
+In healthcare AI, subtle visual perception plays a pivotal role, as many clinically significant cues manifest as faint, low-contrast, and hard-to-distinguish visual patterns. Examples include early-stage polyps in colonoscopy, ambiguous lesion boundaries, and subtle tissue texture variations in medical imaging. Our goal is to move beyond merely detecting observable abnormalities toward understanding subtle pathological signals and supporting clinical decision-making, ultimately enabling more reliable early screening, diagnosis, and precision medicine.
+
+
+ Unlike general vision tasks, medical applications demand not only the ability to detect visible targets, but also heightened sensitivity to weak anomalies, robust contextual understanding, and fine-grained clinical discrimination.
+
+To address these challenges, our research focuses on developing theories and methodologies for subtle visual perception in healthcare settings, integrating advances in computer vision, multimodal learning, and intelligent reasoning. 
+
+
+
 <!---------------------------- PraNet ---------------------------->
 <div style="
   border:2px solid #e5e7eb;
