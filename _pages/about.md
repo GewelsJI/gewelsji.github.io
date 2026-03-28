@@ -25,7 +25,7 @@ Ge-Peng Ji is a final-year PhD candidate at the School of Computing, Australian 
 
 
 # 👨‍💻 Research Interests
-His research centers on <span style="color: #aa0404; font-weight: bold;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns -- often imperceptible to human vision yet semantically meaningful -- in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision vision applications**, where identifying ultra-tiny objects or subtle structures requires fine-grained representation and accurate localization.
+His research centers on <span style="color: #aa0404; font-weight: bold;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns - often imperceptible to human vision yet semantically meaningful - in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision vision applications**, where identifying ultra-tiny objects or subtle structures requires fine-grained representation and accurate localization.
 
 # 🔥 News
 
@@ -114,6 +114,10 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
     Most Influential <a href="images/academic-related/miccai2020-pranet-jittor-award.png">Application Paper Award</a> at the Jittor Developer Conference 2021 |
     Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
   </p>
+
+  <p>
+    <strong>Follow-up Work:</strong>
+    We broadened the concept of reverse attention - originally introduced for binary segmentation in PraNet - to a wider range of medical image segmentation tasks in our CVM 2026 journal publication, <u>PraNet-V2</u> (IF: 18.3; 中国最具国际影响力学术期刊). The paper is available on <a href="https://ieeexplore.ieee.org/document/11373451">IEEE Xplore</a>, and its project page is available at <a href="https://github.com/ai4colonoscopy/PraNet-V2">Github</a>.
 </div>
 </div>
 </div>
@@ -170,7 +174,7 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation -- an extensible, <u>plug-and-play design</u> that delivers <u>ultra-fast inference</u> (170+ FPS on a single RTX 2080 GPU).
+    <strong>TL;DR:</strong> We propose a new self-attention mechanism for video polyp segmentation - an extensible, <u>plug-and-play design</u> that delivers <u>ultra-fast inference</u> (170+ FPS on a single RTX 2080 GPU).
   </p>
 
   <!-- 影响力 -->
@@ -510,7 +514,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [SCIS 2023] SAM Struggles in Concealed Scenes -- Empirical Study on Segment Anything
+    [SCIS 2023] SAM Struggles in Concealed Scenes - Empirical Study on Segment Anything
   </h3>
 
   <!-- 作者 -->
@@ -614,7 +618,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> A pioneering work that introduces a full-duplex learning strategy to capture static–dynamic interactions, enabling precise segmentation of moving objects in dynamic scenes.
+    <strong>TL;DR:</strong> We introduce a full-duplex learning strategy to capture static–dynamic interactions, enabling precise segmentation of moving objects in dynamic scenes.
   </p>
 
   <p>
@@ -704,7 +708,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 * `2023.03.31` 中国图象图形学学会第三期学生会员分享论坛会议 "Towards AI-Powered Colonoscopy" ([Page](https://mp.weixin.qq.com/s/s-laGFgOqRIuDHW-cK1SuA)) 
 * `2023.01.06` Shenzhen University Talking 2023: "Towards AI-Powered Colonoscopy" 
 * `2022.12.07` Anhui University Talking 2022: "Colonoscopy in the AI Era" 
-* `2022.10.10` VALSE 2021 Workshop 6 -- Spotlight Talking: "Camouflaged Object Detection and its Applications" ([Poster](http://valser.org/2021/#/poster)) 
+* `2022.10.10` VALSE 2021 Workshop 6 - Spotlight Talking: "Camouflaged Object Detection and its Applications" ([Poster](http://valser.org/2021/#/poster)) 
 * `2021.11.15` Synced-ICCV 2021 "Full-Duplex Strategy for Video Object Segmentation"
 * `2021.08.28` CSIG-ICCV 2021 "Full-Duplex Strategy for Video Object Segmentation" ([Page](https://event.baai.ac.cn/event/162#section-one)) 
 * `2021.05.15` Alibaba Group ICBU Talking 2021: "Camouflaged Object Detection in the Deep Learning Era"
