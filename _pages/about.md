@@ -302,8 +302,6 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
     📄Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2026][MIR]IntelliScope_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a>
-    🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a> |
-    🤗<a href="https://huggingface.co/ai4colonoscopy/ColonGPT">ColonGPT</a>
   </p>
 
   <!-- 亮点 -->
