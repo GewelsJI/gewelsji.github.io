@@ -202,7 +202,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [MIR 2022] Video Polyp Segmentation: A Deep Learning Perspective
+    [MIR 2022] Video Polyp Segmentation: A Deep Learning Perspective (Extended version of <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">MICCAI 2021</a>)
   </h3>
 
   <!-- 作者 -->
@@ -245,7 +245,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> A comprehensive benchmark and systematic study for video polyp segmentation, providing standardized evaluation and insights for future research.
+    <strong>TL;DR:</strong> We introduce SUN-SEG, the first large-scale, densely-annotated dataset for video polyp segmentation, comprising 1,106 colonoscopy videos with 158.7K frame-mask pairs. SUN-SEG has established itself as a standard benchmark for medical video analysis and is adopted for building the first endoscopy video foundation model, <a href="https://github.com/med-air/Endo-FM">Endo-FM</a> by Qi Dou (CUHK).
   </p>
 
 </div>
@@ -500,7 +500,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> Introducing DGNet (Deep Gradient Network), a novel approach for efficient camouflaged object detection that leverages gradient-based learning to enhance detection performance while significantly reducing computational overhead.
+    <strong>TL;DR:</strong> Introducing DGNet, a novel approach for efficient camouflaged object detection that leverages subtle internal texture cues to improve segmentation performance while significantly reducing computational overhead.
   </p>
 
 </div>
@@ -776,6 +776,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 * Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br>
 
 # 🔗 Useful Resources
+- [Some Collected Resources for New PhD Students](https://www.robots.ox.ac.uk/~phst/) -- from Philip Torr's Homepage
 - [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
 - [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
