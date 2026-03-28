@@ -47,7 +47,7 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
 
 <br>
 
-- `2026.03` We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
+- `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
 - `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" is now officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
 # 📝 Representative Publications 
@@ -112,7 +112,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
     Early acceptance & Oral Presentation (Top 13%) |
     <a href="https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/">MICCAI2025 Young Scientist Publication Impact Award</a> (see <a href="images/academic-related/miccai2020-pranet-YSPIA-certificate.jpg">certificate</a> & <a href="images/academic-related/miccai2020-pranet-YSPIA-photo.png">award ceremony photo</a>) |
     <a href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">#1 most-cited MICCAI paper</a>
-    (by <a href="https://scholar.google.com/citations?view_op=metrics_intro&hl=en">Google Scholar Metrics 2025</a>) |
+    (by <a href="https://scholar.google.com/citations?hl=en&vq=med_radiologymedicalimaging&view_op=list_hcore&venue=QLpioUFGyGMJ.2025">Google Scholar Metrics 2025</a>) |
     Ranked #1 in accuracy at the MediaEval 2020 Medico Task |
     Most Influential <a href="images/academic-related/miccai2020-pranet-jittor-award.png">Application Paper Award</a> at the Jittor Developer Conference 2021 |
     Featured in the <a href="https://hai.stanford.edu/ai-index/2022-ai-index-report">Stanford AI Index Report 2022</a>
@@ -165,7 +165,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    📄Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2021][MICCAI]PNSNet_Chinese.pdf">中译文</a>) |
+    📄Paper (<a href="https://arxiv.org/abs/2105.08468">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">Springer</a>; <a href="https://drive.google.com/file/d/10XLovGgJsyWoi275j7snIwwahV4SOMOb/view?usp=share_link">中译文</a>) |
     📦<a href="https://github.com/GewelsJI/PNS-Net">Project Page</a> |
     🎬<a href="https://youtu.be/JxhoDcg1l78">Introduction Video (YouTube)</a>
   </p>
@@ -238,7 +238,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <p>
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a>; 
-    <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2022][MIR]VPS_Chinese.pdf">中译文</a>) |
+    <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>; <a href="https://drive.google.com/file/d/1gu3T4Rsq5YazItgYP6sKm4MfCSqYy-Sm/view?usp=share_link">中译文</a>) |
     📦<a href="https://github.com/GewelsJI/VPS">Project Page</a> |
     🎬<a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a>
   </p>
@@ -300,23 +300,23 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <p>
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a>; 
-    <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2026][MIR]IntelliScope_Chinese.pdf">中译文</a>) |
+    <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>; <a href="https://drive.google.com/file/d/1lKk2FfFyzEr_ynSVXjUN6PyfHOpYxF45/view?usp=share_link">中译文</a>) |
     📦<a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a>
   </p>
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> Three key initiatives for the multimodal future of intelligent colonoscopy:
+    <strong>TL;DR:</strong> Three key initiatives driving multimodal intelligence in colonoscopy:
   </p>
 
   <!-- 亮点1 -->
   <p>
-    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>. The most comprehensive survey to date, covering 63 datasets and 137 deep models since 2015, and uncovering the key factors driving multimodal colonoscopy analysis.
+    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>: The most comprehensive survey to date, covering 63 datasets and 137 deep models since 2015, and uncovering the key factors driving multimodal colonoscopy analysis.
   </p>
 
   <!-- 亮点2 -->
   <p>
-    2. 🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>: 
+    2. 🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>: First large-scale multimodal dataset (62 categoies & 450K+ VQA entries) for enabling instruction-following capability in colonoscopy tasks.
   </p>
 
   <!-- 亮点3 -->
@@ -504,7 +504,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    📄Paper (<a href="https://arxiv.org/abs/2205.12853">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11633-022-1365-9">Springer</a>) |
+    📄Paper (<a href="https://arxiv.org/abs/2205.12853">arXiv</a>; <a href="https://link.springer.com/article/10.1007/s11633-022-1365-9">Springer</a>; <a href="https://drive.google.com/file/d/1Jhykam9FLZigAuhg3wCdbPH4tEFU0SRG/view?usp=share_link">中译文</a>) |
     📦<a href="https://github.com/GewelsJI/DGNet">Project Page</a> (supporting <a href="https://github.com/GewelsJI/DGNet/tree/main/lib_pytorch">PyTorch</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_jittor">Jittor</a>/<a href="https://github.com/GewelsJI/DGNet/tree/main/lib_ascend">Ascend</a> platforms) |
     🎬<a href="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a">Introduction video (~2min)</a>
     
@@ -512,7 +512,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> Introducing DGNet, a novel approach for efficient camouflaged object detection that leverages subtle internal texture cues to improve segmentation performance while significantly reducing computational overhead.
+    <strong>TL;DR:</strong> Introducing an efficient model (DGNet) for camouflaged object detection that leverages subtle internal texture cues to improve segmentation performance while significantly reducing computational overhead.
   </p>
 
 </div>
@@ -634,7 +634,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We introduce a full-duplex learning strategy to capture static–dynamic interactions, enabling precise segmentation of moving objects in dynamic scenes.
+    <strong>TL;DR:</strong> We introduce a full-duplex learning strategy that enforces mutual spatiotemporal constraints, enabling precise segmentation of moving objects in dynamic scenes.
   </p>
 
   <p>
