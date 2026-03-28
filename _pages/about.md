@@ -90,7 +90,7 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
     📄Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/DengPingFan/PraNet">Project Page</a> | 
     📦<a href="https://gitcode.com/Ascend/ModelZoo-PyTorch/tree/master/ACL_PyTorch/contrib/cv/segmentation/PraNet">Huawei Ascend ModelZoo</a> |
-    🎬<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a> <span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span>
+    🎬<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a> <span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span> | <a href="https://drive.google.com/file/d/1EBXgaPx11szJz5BmoTH-zmB_wq4BnTuN/view?usp=share_link" target="_blank">CN Blog: 如何用“反向思维”找出隐匿的早期病灶</a>
   </p>
 
   <p>
