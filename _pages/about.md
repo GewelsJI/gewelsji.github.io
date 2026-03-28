@@ -245,7 +245,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We introduce SUN-SEG, the <u>first large-scale, densely-annotated</u> video polyp segmentation dataset, comprising 1,106 colonoscopy videos with 158.7K human annotated masks. SUN-SEG has established itself as a standard benchmark for medical video analysis and is adopted for building the first video foundation model for endoscopy (<a href="https://github.com/med-air/Endo-FM">Endo-FM</a> by Prof. Qi Dou's group at CUHK).
+    <strong>TL;DR:</strong> We introduce SUN-SEG, the <u>first large-scale, densely-annotated</u> video polyp segmentation dataset, comprising 1,106 colonoscopy videos with 158.7K human annotated masks. SUN-SEG has established itself as <u>a standard benchmark</u> for medical video analysis and is adopted for building the first video foundation model for endoscopy (<a href="https://github.com/med-air/Endo-FM">Endo-FM</a> by Prof. Qi Dou's group at CUHK).
   </p>
 
 </div>
@@ -306,14 +306,24 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
     🤗<a href="https://huggingface.co/ai4colonoscopy/ColonGPT">ColonGPT</a>
   </p>
 
+  <!-- 亮点 -->
+  <p>
+    <strong>TL;DR:</strong> Three key initiatives for the multimodal future of intelligent colonoscopy:
+  </p>
+
   <!-- 亮点1 -->
   <p>
-    📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>. The most comprehensive survey that characterises 63 datasets and 137 deep models published since 2015.
+    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>. The most comprehensive survey to date, covering 63 datasets and 137 deep models since 2015, and uncovering the key factors driving multimodal colonoscopy analysis.
   </p>
 
   <!-- 亮点2 -->
   <p>
-    🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>. We advocate three initiatives to embrace the coming multimodal era in colonoscopy."
+    2. 🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>: 
+  </p>
+
+  <!-- 亮点3 -->
+  <p>
+    3. 🤗<a href="https://huggingface.co/ai4colonoscopy/ColonGPT">ColonGPT</a>:
   </p>
 
 </div>
