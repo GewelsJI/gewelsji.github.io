@@ -92,7 +92,8 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
     📄Paper (<a href="https://arxiv.org/abs/2006.11392">arXiv</a>; <a href="https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2020][MICCAI]PraNet_Chinese.pdf">中译文</a>) |
     📦<a href="https://github.com/DengPingFan/PraNet">Project Page</a> | 
     📦<a href="https://gitcode.com/Ascend/ModelZoo-PyTorch/tree/master/ACL_PyTorch/contrib/cv/segmentation/PraNet">Huawei Ascend ModelZoo</a> |
-    🎬<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a> <span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span> | <a href="https://drive.google.com/file/d/1EBXgaPx11szJz5BmoTH-zmB_wq4BnTuN/view?usp=share_link" target="_blank">CN Blog: 如何用“反向思维”找出隐匿的早期病灶</a>
+    🎬<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a> <span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span> | 
+    💡<a href="https://drive.google.com/file/d/1EBXgaPx11szJz5BmoTH-zmB_wq4BnTuN/view?usp=share_link">个人博客: 如何用“反向思维”找出隐匿的早期病灶</a>
   </p>
 
   <p>
@@ -183,7 +184,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <!-- 影响力 -->
   <p>
     <strong>Impact:</strong> Early acceptance (Top 13%) |
-    <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 Student Travel Award</a> (Top 5.8% = 95/1630) | Widely adopted as a baseline in follow-up works, with 200+ citations.
+    <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 Student Travel Award</a> (Top 5.8% = 95/1630) | Widely adopted as a standard baseline with <a href="https://scholar.google.com/scholar?cites=3224560575922063913&as_sdt=2005&sciodt=0,5&hl=en">over 200 citations</a>
   </p>
 </div>
 </div>
@@ -377,7 +378,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
-Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries (Ref: <a href="https://www.nature.com/articles/nature03312">Nature 2005</a>). This research area is crucial for real-world applications such as bushfire detection, wildlife monitoring, search/rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
+Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries (Ref: <a href="https://www.nature.com/articles/nature03312">Cuthill etal. Nature 2005.</a>). This research area is crucial for real-world applications such as bushfire detection, wildlife monitoring, search/rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
 
 
 <!---------------------------- cod10k ---------------------------->
