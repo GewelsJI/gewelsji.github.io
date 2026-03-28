@@ -375,7 +375,7 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
-Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries. This research area is crucial for applications such as wildlife monitoring, search and rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
+Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries (Ref: <a href="https://www.nature.com/articles/nature03312">Nature 2005</a>). This research area is crucial for real-world applications such as bushfire detection, wildlife monitoring, search/rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
 
 
 <!---------------------------- cod10k ---------------------------->
