@@ -116,8 +116,8 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
   </p>
 
   <p>
-    <strong>Follow-up Work:</strong>
-    We broadened the concept of reverse attention - originally introduced for binary segmentation in PraNet - to a wider range of medical image segmentation tasks in our CVM 2026 journal publication, <u>PraNet-V2</u> (IF: 18.3; 中国最具国际影响力学术期刊). The paper is available on <a href="https://ieeexplore.ieee.org/document/11373451">IEEE Xplore</a>, and its project page is available at <a href="https://github.com/ai4colonoscopy/PraNet-V2">Github</a>.
+    <strong>Follow-up Work (PraNet-V2):</strong>
+    We broadened the concept of reverse attention - originally introduced for binary segmentation in PraNet - to a wider range of medical image segmentation tasks in our CVM 2026 journal publication (IF: 18.3; 中国最具国际影响力学术期刊). The paper is available on <a href="https://ieeexplore.ieee.org/document/11373451">IEEE Xplore</a>, and its project page is available at <a href="https://github.com/ai4colonoscopy/PraNet-V2">Github</a>.
   </p>
 </div>
 </div>
