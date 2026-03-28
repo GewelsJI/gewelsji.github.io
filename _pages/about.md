@@ -245,7 +245,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We introduce SUN-SEG, the first large-scale, densely-annotated dataset for video polyp segmentation, comprising 1,106 colonoscopy videos with 158.7K frame-mask pairs. SUN-SEG has established itself as a standard benchmark for medical video analysis and is adopted for building the first endoscopy video foundation model, <a href="https://github.com/med-air/Endo-FM">Endo-FM</a> by Qi Dou (CUHK).
+    <strong>TL;DR:</strong> We introduce SUN-SEG, the <u>first large-scale, densely-annotated video dataset</u> for polyp segmentation, comprising 1,106 colonoscopy videos with 158.7K frame-mask pairs. SUN-SEG has established itself as a standard benchmark for medical video analysis and is adopted for building the first video foundation model in endoscopy (see <a href="https://github.com/med-air/Endo-FM">Endo-FM</a> by Qi Dou, CUHK).
   </p>
 
 </div>
