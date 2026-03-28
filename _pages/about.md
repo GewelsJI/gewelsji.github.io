@@ -58,13 +58,6 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
 
 In healthcare AI, subtle visual perception plays a pivotal role, as many clinically significant cues manifest as faint, low-contrast, and hard-to-distinguish visual patterns. Examples include early-stage polyps in colonoscopy, ambiguous lesion boundaries, and subtle tissue texture variations in medical imaging. Our goal is to move beyond merely detecting observable abnormalities toward understanding subtle pathological signals and supporting clinical decision-making, ultimately enabling more reliable early screening, diagnosis, and precision medicine.
 
-
- Unlike general vision tasks, medical applications demand not only the ability to detect visible targets, but also heightened sensitivity to weak anomalies, robust contextual understanding, and fine-grained clinical discrimination.
-
-To address these challenges, our research focuses on developing theories and methodologies for subtle visual perception in healthcare settings, integrating advances in computer vision, multimodal learning, and intelligent reasoning. 
-
-
-
 <!---------------------------- PraNet ---------------------------->
 <div style="
   border:2px solid #e5e7eb;
@@ -126,7 +119,7 @@ To address these challenges, our research focuses on developing theories and met
 
   <p>
     <strong>Follow-up Work (PraNet-V2):</strong>
-    We broadened the concept of reverse attention - originally introduced for binary segmentation in PraNet - to a wider range of medical image segmentation tasks in our CVM 2026 journal publication (IF: 18.3; 中国最具国际影响力学术期刊). The paper is available on <a href="https://ieeexplore.ieee.org/document/11373451">IEEE Xplore</a>, and its project page is available at <a href="https://github.com/ai4colonoscopy/PraNet-V2">Github</a>.
+    We broadened the concept of reverse attention - originally introduced for binary segmentation in PraNet - to a wider range of medical image segmentation tasks in our CVM 2026 journal publication (IF: 18.3; 中国最具国际影响力学术期刊). The paper is available on <a href="https://ieeexplore.ieee.org/document/11373451">IEEE Xplore</a>, and our project page is available at <a href="https://github.com/ai4colonoscopy/PraNet-V2">Github</a>.
   </p>
 </div>
 </div>
@@ -190,7 +183,7 @@ To address these challenges, our research focuses on developing theories and met
   <!-- 影响力 -->
   <p>
     <strong>Impact:</strong> Early acceptance (Top 13%) |
-    <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 Student Travel Award</a> (Top 5.8% = 95/1630)
+    <a href="https://miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html">MICCAI 2021 Student Travel Award</a> (Top 5.8% = 95/1630) | Widely adopted as a baseline in follow-up works, with 200+ citations.
   </p>
 </div>
 </div>
