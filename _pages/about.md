@@ -245,7 +245,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> We introduce SUN-SEG, the <u>first large-scale, densely-annotated video dataset</u> for polyp segmentation, comprising 1,106 colonoscopy videos with 158.7K frame-mask pairs. SUN-SEG has established itself as a standard benchmark for medical video analysis and is adopted for building the first video foundation model in endoscopy (see <a href="https://github.com/med-air/Endo-FM">Endo-FM</a> by Qi Dou, CUHK).
+    <strong>TL;DR:</strong> We introduce SUN-SEG, the <u>first large-scale, densely-annotated</u> video polyp segmentation dataset, comprising 1,106 colonoscopy videos with 158.7K human annotated masks. SUN-SEG has established itself as a standard benchmark for medical video analysis and is adopted for building the first video foundation model for endoscopy (<a href="https://github.com/med-air/Endo-FM">Endo-FM</a> by Prof. Qi Dou's group at CUHK).
   </p>
 
 </div>
@@ -301,15 +301,19 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>; <a href="https://dengpingfan.github.io/papers/[2026][MIR]IntelliScope_Chinese.pdf">中译文</a>) |
-    📦<a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a> |
-    🗂️<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a> |
+    📦<a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a>
     🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a> |
     🤗<a href="https://huggingface.co/ai4colonoscopy/ColonGPT">ColonGPT</a>
   </p>
 
-  <!-- 亮点 -->
+  <!-- 亮点1 -->
   <p>
-    <strong>TL;DR:</strong> XXX
+    📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>. The most comprehensive survey that characterises 63 datasets and 137 deep models published since 2015.
+  </p>
+
+  <!-- 亮点2 -->
+  <p>
+    🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>. We advocate three initiatives to embrace the coming multimodal era in colonoscopy."
   </p>
 
 </div>
