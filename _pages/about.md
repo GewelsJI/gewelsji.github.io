@@ -309,7 +309,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> A comprehensive survey of intelligent colonoscopy, covering the latest advances in multimodal benchmarks and large language models, and providing insights into future research directions.
+    <strong>TL;DR:</strong> XXX
   </p>
 
 </div>
@@ -368,7 +368,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> Introducing COLON-X, a multimodal benchmark designed to advance intelligent colonoscopy toward clinical reasoning, featuring comprehensive datasets and evaluation protocols for multimodal learning and reasoning in colonoscopy.
+    <strong>TL;DR:</strong> XXX
   </p>
 
 </div>
