@@ -634,7 +634,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> SAM evaluation on concealed scenes, revealing significant performance gaps and highlighting the need for specialized approaches in camouflaged object detection.
+    <strong>TL;DR:</strong> <a href="https://github.com/facebookresearch/segment-anything">SAM</a> evaluation on concealed scenes, revealing substantial performance gaps and offering empirical insights for future research.
   </p>
 </div>
 </div>
