@@ -454,7 +454,9 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
-Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries (Ref: <a href="https://www.nature.com/articles/nature03312">Cuthill et al., Nature 2005</a>). This research area is crucial for real-world applications such as bushfire detection, wildlife monitoring, search/rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
+Camouflaged scenarios refer to environments in which objects blend seamlessly into their surroundings, making them inherently difficult to perceive due to low contrast and ambiguous boundaries (<a href="https://www.nature.com/articles/nature03312">Cuthill et al., Nature 2005</a>)
+Such scenarios is crucial for a range of real-world applications, including <a href="https://blog.google/intl/en-au/company-news/outreach-initiatives/google-ai-bushfire-detection/?utm_source=chatgpt.com">bushfire detection</a> and <a href="https://wwf.org.au/news/2020/googles-ai-technology-to-identify-animals-impacted-by-bushfires/?utm_source=chatgpt.com">wildlife monitoring/searching/rescuing</a>.
+Our goal is to develop models capable of modeling subtle visual cues and contextual dependencies, enabling robust detection of camouflaged objects in complex environments.
 
 
 <!---------------------------- cod10k ---------------------------->
