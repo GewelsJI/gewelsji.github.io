@@ -104,7 +104,7 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
     📦<a href="https://github.com/DengPingFan/PraNet">Project Page</a> | 
     📦<a href="https://gitcode.com/Ascend/ModelZoo-PyTorch/tree/master/ACL_PyTorch/contrib/cv/segmentation/PraNet">Huawei Ascend ModelZoo</a> |
     🎬<a href="https://youtu.be/ukJKJosu1f8?si=lMpQekJ84NKuRZX5">Technical Video at MedicoEval'2020 Workshop</a> <span class='show_paper_citations' data='oaxKYKUAAAAJ:g5m5HwL7SMYC'></span> | 
-    💡<a href="https://drive.google.com/file/d/1EBXgaPx11szJz5BmoTH-zmB_wq4BnTuN/view?usp=share_link">个人博客: 如何用“反向思维”找出隐匿的早期病灶</a>
+    💡<a href="https://my.feishu.cn/wiki/WEuEwdNMci5mfRk34zdcfUHzngd?from=from_copylink">个人博客: 如何用“反向思维”找出隐匿的早期病灶</a>
   </p>
 
   <p>
@@ -880,7 +880,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 ## Tools
 - [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing): Make AI Writing Better for Everyone
 - Find any emojis you need at [EmojiDB beta](https://emojidb.org)!
-- `2026.03.14` [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
+- `2026.03.29` [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
-- [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [个人解读](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
+- `2026.03.26`[From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [个人解读](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
