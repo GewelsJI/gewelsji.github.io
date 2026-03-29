@@ -240,7 +240,8 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
     📄Paper (<a href="https://arxiv.org/abs/2203.14291">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-022-1371-y">Springer</a>; <a href="https://drive.google.com/file/d/1gu3T4Rsq5YazItgYP6sKm4MfCSqYy-Sm/view?usp=share_link">中译文</a>) |
     📦<a href="https://github.com/GewelsJI/VPS">Project Page</a> |
-    🎬<a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a>
+    🎬<a href="https://github.com/GewelsJI/VPS/assets/38354957/9bea01ae-9582-494f-8bf6-f83307eebc08">Introduction Video (~2min)</a> |
+    📰<a href="https://mp.weixin.qq.com/s/wp0MdDxJpZzXyrLzbLhP1w">获《机器智能研究》官方微信公众号专题解读</a>
   </p>
 
   <!-- 亮点 -->
@@ -306,22 +307,22 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> Three key initiatives driving multimodal intelligence in colonoscopy:
+    <strong>TL;DR:</strong> Three key initiatives advancing multimodal intelligence in colonoscopy:
   </p>
 
   <!-- 亮点1 -->
   <p>
-    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>: The most comprehensive survey to date, covering 63 datasets and 137 deep models since 2015, and uncovering the key factors driving multimodal colonoscopy analysis.
+    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>: The most comprehensive survey to date, charcterizing 63 datasets and 137 deep models since 2015, and identifying foundational resources and transferable insights for the next multimodal era of colonoscopy.
   </p>
 
   <!-- 亮点2 -->
   <p>
-    2. 🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>: First large-scale multimodal dataset (62 categoies & 450K+ VQA entries) for enabling instruction-following capability in colonoscopy tasks.
+    2. 🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>:  The first large-scale multimodal dataset (450K+ VQA entries), enabling instruction-following capabilities for colonoscopy systems.
   </p>
 
   <!-- 亮点3 -->
   <p>
-    3. 🤗<a href="https://huggingface.co/ai4colonoscopy/ColonGPT">ColonGPT</a>:
+    3. 🤗<a href="https://huggingface.co/ai4colonoscopy/ColonGPT">ColonGPT</a>: A colonoscopy-specific MLLM with a <u>token-efficient design</u>, reducing visual tokens to ~34% without compromising performance, while remaining efficient enough for training and deployment on consumer-grade GPUs.
   </p>
 
 </div>
