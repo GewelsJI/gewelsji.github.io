@@ -77,12 +77,23 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
-  <div style="flex:0 0 300px;">
+  <!-- <div style="flex:0 0 300px;">
     <img
       src="images/academic-related/miccai2020-pranet.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
+  </div> -->
+
+  <div style="flex:0 0 300px;">
+    <a href="images/academic-related/miccai2020-pranet.png" target="_blank">
+      <img
+        src="images/academic-related/miccai2020-pranet.png"
+        width="300"
+        title="Click to view full size"
+        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+      />
+    </a>
   </div>
 
   <div style="flex:1; min-width:0;">
@@ -227,12 +238,22 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
   <!-- 左图 -->
-  <div style="flex:0 0 300px;">
+  <!-- <div style="flex:0 0 300px;">
     <img
       src="images/academic-related/mir2022-sunseg.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
+  </div> -->
+  <div style="flex:0 0 300px;">
+    <a href="images/academic-related/mir2022-sunseg.png" target="_blank">
+      <img
+        src="images/academic-related/mir2022-sunseg.png"
+        width="300"
+        title="Click to view full size"
+        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+      />
+    </a>
   </div>
 
   <!-- 右侧 -->
@@ -290,12 +311,23 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
   <!-- 左图 -->
-  <div style="flex:0 0 300px;">
+  <!-- <div style="flex:0 0 300px;">
     <img
       src="images/academic-related/mir2026-colongpt.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
+  </div> -->
+
+  <div style="flex:0 0 300px;">
+    <a href="images/academic-related/mir2026-colongpt.png" target="_blank">
+      <img
+        src="images/academic-related/mir2026-colongpt.png"
+        width="300"
+        title="Click to view full size"
+        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+      />
+    </a>
   </div>
 
   <!-- 右侧 -->
@@ -314,7 +346,8 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
     <strong>Links:</strong>
     📄Paper (<a href="https://arxiv.org/abs/2410.17241">arXiv</a>; 
     <a href="https://link.springer.com/article/10.1007/s11633-025-1597-6">Springer</a>; <a href="https://drive.google.com/file/d/1lKk2FfFyzEr_ynSVXjUN6PyfHOpYxF45/view?usp=share_link">中译文</a>) |
-    📦<a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a>
+    📦<a href="https://github.com/ai4colonoscopy/IntelliScope">Project Page</a> |
+    📰<a href="https://mp.weixin.qq.com/s/rnBZ3ffTjn-NTYzNMUqFBg">获《机器智能研究》官方微信公众号专题解读</a>
   </p>
 
   <!-- 亮点 -->
