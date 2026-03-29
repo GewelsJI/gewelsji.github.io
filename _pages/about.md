@@ -21,7 +21,7 @@ redirect_from:
 
 <!-- (pronounced: guh-peng jee /ɡə pɛŋ dʒiː/)  -->
 
-Ge-Peng Ji is a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, he received his Master's degree from the School of Computer Science at Wuhan University in 2021. He has published over 30 peer-reviewed academic papers, with more than 10,000+ citations and an h-index of 24, and holds six Chinese technical patents. He regularly serves as a reviewer for top-tier AI journals and conferences, including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was named to the Stanford/Elsevier Top 2% Scientists List in both 2024 and 2025.
+Ge-Peng Ji (🔊pronounced: /ɡə pɛŋ dʒiː/) is a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, he received his Master's degree from the School of Computer Science at Wuhan University in 2021. He has published over 30 peer-reviewed academic papers, with more than 10,000+ citations and an h-index of 24, and holds six Chinese technical patents. He regularly serves as a reviewer for top-tier AI journals and conferences, including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was named to the Stanford/Elsevier Top 2% Scientists List in both 2024 and 2025.
 
 
 # 👨‍💻 Research Interests
@@ -312,12 +312,12 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点1 -->
   <p>
-    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>: The most comprehensive survey to date, charcterizing 63 datasets and 137 deep models since 2015, and identifying foundational resources and transferable insights for the next multimodal era of colonoscopy.
+    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>: The most comprehensive survey to date, analyzing 63 datasets and 137 deep models since 2015, and uncovering foundational resources and transferable insights for the next multimodal era of colonoscopy.
   </p>
 
   <!-- 亮点2 -->
   <p>
-    2. 🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>:  The first large-scale multimodal dataset (450K+ VQA entries), enabling instruction-following capabilities for colonoscopy systems.
+    2. 🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/ColonINST-v1">ColonINST</a>: The <u>first large-scale multimodal dataset</u> (450K+ VQA entries), enabling instruction-following capabilities for colonoscopy systems.
   </p>
 
   <!-- 亮点3 -->
@@ -353,12 +353,23 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
   <!-- 左图 -->
-  <div style="flex:0 0 300px;">
+  <!-- <div style="flex:0 0 300px;">
     <img
       src="images/academic-related/arxiv2026-colonx.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
+  </div> -->
+
+  <!-- 左图（可点击放大） -->
+  <div style="flex:0 0 300px;">
+    <a href="images/academic-related/arxiv2026-colonx.png" target="_blank">
+      <img
+        src="images/academic-related/arxiv2026-colonx.png"
+        width="300"
+        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+      />
+    </a>
   </div>
 
   <!-- 右侧 -->
@@ -368,7 +379,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <p>
     <strong>Keywords:</strong>
     <span style="color:#54b937;">
-      #multimodal-benchmark, #multimodal-large-language-model, #multimodal-reasoning, #intelligent-colonoscopy
+      #multimodal-benchmark, #clinical-reasoning, #reinforcement-learning, #multimodal-large-language-model, #intelligent-colonoscopy
     </span>
   </p>
 
@@ -789,8 +800,13 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 * Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br>
 
 # 🔗 Useful Resources
+
+## Academic Resources
 - [Some Collected Resources for New PhD Students](https://www.robots.ox.ac.uk/~phst/) -- from Philip Torr's Homepage
 - [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
 - [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
 - [剑桥大学:语言和写作决定人生发展的潜力](https://www.isee-ai.cn/~zhwshi/writing.pdf)
+
+## Tools
+- Find any emojis you need at [EmojiDB beta](https://emojidb.org)!
