@@ -231,7 +231,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji^</strong>, Guobao Xiao^, Yu-Cheng Chou^, Deng-Ping Fan*, Kai Zhao, Geng Chen, and Luc Van Gool<br>
-    Machine Intelligence Research, 2022, 19 (6): 531-549. (IF: 8.7; 中国最具国际影响力学术期刊)
+    Machine Intelligence Research, 2022, 19 (6): 531-549. (IF: 8.7; CiteScore: 13.2; JCR Q1; 中国最具国际影响力学术期刊)
   </p>
 
   <!-- 左图右文 -->
@@ -304,7 +304,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji</strong>, Jingyi Liu, Peng Xu, Nick Barnes, Fahad Shahbaz Khan, Salman Khan, Deng-Ping Fan*<br>
-    Machine Intelligence Research, 2026, 23 (1), 70-114. (IF: 8.7; 中国最具国际影响力学术期刊)
+    Machine Intelligence Research, 2026, 23 (1), 70-114. (IF: 8.7; CiteScore: 13.2; JCR Q1; 中国最具国际影响力学术期刊)
   </p>
 
   <!-- 左图右文 -->
@@ -357,7 +357,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点1 -->
   <p>
-    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>: The most comprehensive survey to date, analyzing 63 datasets and 137 deep models since 2015, and uncovering foundational resources and transferable insights for the next multimodal era of colonoscopy.
+    1. 📖<a href="https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing">ColonSurvey</a>: The <u>most comprehensive survey</u> to date, analyzing 63 datasets and 137 deep models since 2015, and uncovering foundational resources and transferable insights for the next multimodal era of colonoscopy.
   </p>
 
   <!-- 亮点2 -->
@@ -397,21 +397,13 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
-  <!-- 左图 -->
-  <!-- <div style="flex:0 0 300px;">
-    <img
-      src="images/academic-related/arxiv2026-colonx.png"
-      width="300"
-      style="display:block; width:300px; height:auto;"
-    />
-  </div> -->
-
   <!-- 左图（可点击放大） -->
   <div style="flex:0 0 300px;">
     <a href="images/academic-related/arxiv2026-colonx.png" target="_blank">
       <img
         src="images/academic-related/arxiv2026-colonx.png"
         width="300"
+        title="Click to view full size"
         style="display:block; width:300px; height:auto; cursor: zoom-in;"
       />
     </a>
@@ -437,7 +429,22 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> XXX
+    <strong>TL;DR:</strong> We launch the Colon-X project, an open initiative aimed at advancing multimodal intelligence in colonoscopy toward clinical reasoning. Three research highlights include:
+  </p>
+
+  <!-- 亮点1 -->
+  <p>
+    1. 🤗<a href="https://huggingface.co/datasets/ai4colonoscopy/Colon-X">ColonVQA</a>: The most extensive database ever built for multimodal colonoscopy analysis, distinguished by its <u>scale</u> (212.7K images and 1.1M+ VQA entries), <u>diversity</u> (76 clinical findings), and <u>coverage</u> (18 tasks).
+  </p>
+
+  <!-- 亮点2 -->
+  <p>
+    2. Multimodal Understanding: Benchmarking generalizability (<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/2-instructions-for-coloneval.md">ColonEval</a>) and reliability (<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/3-instructions-for-colonpert.md">ColonPert</a>) of MLLMs in colonoscopy. The results eveal that clinical outputs from leading MLLMs remain far from robust and trustworthy.
+  </p>
+
+  <!-- 亮点3 -->
+  <p>
+    3. Clinical reasoning: To bring reasoning into colonoscopy AI, we design a multi-agent debating workflow to curate a clinically grounded reasoning dataset (<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/4-instructions-for-colonreason.md">ColonReason</a>), and propose an R1-style model (🤗<a href="https://huggingface.co/ai4colonoscopy/ColonR1">ColonR1</a>) with sets a reproducible SOTA baseline for community.
   </p>
 
 </div>
@@ -447,7 +454,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
-Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries (Ref: <a href="https://www.nature.com/articles/nature03312">Cuthill etal. Nature 2005.</a>). This research area is crucial for real-world applications such as bushfire detection, wildlife monitoring, search/rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
+Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries (Ref: <a href="https://www.nature.com/articles/nature03312">Cuthill et al., Nature 2005.</a>). This research area is crucial for real-world applications such as bushfire detection, wildlife monitoring, search/rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
 
 
 <!---------------------------- cod10k ---------------------------->
@@ -532,7 +539,7 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   <!-- 作者 -->
   <p>
     <strong>Ge-Peng Ji</strong>, Deng-Ping Fan*, Yu-Cheng Chou, Dengxin Dai, Alexander Liniger, Luc Van Gool<br>
-    Machine Intelligence Research, 2023, 20 (1): 92-108. (IF: 8.7; JCR Q1; 中国最具国际影响力学术期刊)
+    Machine Intelligence Research, 2023, 20 (1): 92-108. (IF: 8.7; CiteScore: 13.2; JCR Q1; 中国最具国际影响力学术期刊)
   </p>
 
   <!-- 左图右文 -->
@@ -854,4 +861,5 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [剑桥大学:语言和写作决定人生发展的潜力](https://www.isee-ai.cn/~zhwshi/writing.pdf)
 
 ## Tools
+- [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing): Make AI Writing Better for Everyone
 - Find any emojis you need at [EmojiDB beta](https://emojidb.org)!
