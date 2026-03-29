@@ -870,7 +870,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 # 🔗 Useful Resources
 
-## Academic
+## Readings
 - [Some Collected Resources for New PhD Students](https://www.robots.ox.ac.uk/~phst/) -- from Philip Torr's Homepage
 - [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
