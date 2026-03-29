@@ -642,7 +642,7 @@ Our goal is to develop models capable of modeling subtle visual cues and context
 
   <!-- 亮点 -->
   <p>
-    <strong>TL;DR:</strong> <a href="https://github.com/facebookresearch/segment-anything">SAM</a> evaluation on concealed scenes, revealing substantial performance gaps and offering empirical insights for future research.
+    <strong>TL;DR:</strong> <a href="https://github.com/facebookresearch/segment-anything">Segment Anything Model (SAM)</a> evaluation on concealed scenes, revealing substantial performance gaps and offering empirical insights for future research.
   </p>
 </div>
 </div>
@@ -880,3 +880,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 ## Tools
 - [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing): Make AI Writing Better for Everyone
 - Find any emojis you need at [EmojiDB beta](https://emojidb.org)!
+
+## AI Blogs
+- [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20)
+- `2026.03.14` [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
