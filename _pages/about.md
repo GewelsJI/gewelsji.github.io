@@ -652,7 +652,7 @@ Our goal is to develop models capable of modeling subtle visual cues and context
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Vision Applications</span>
 
-In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to <u><b>unlock ultra-precision representations</b></u> in complex vision systems, enabling precise structure delineation and reliable tiny object localization.
+In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to unlock ultra-precision representations in complex vision systems, enabling precise structure delineation and reliable tiny object localization.
 
 
 <!---------------------------- fsnet ---------------------------->
@@ -822,6 +822,48 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 # 📃 Academic Services
 
 #### Program Committee Member & Conference Reviewer
+<a href="https://iclr.cc/">ICLR</a> (2022–2023), 
+<a href="https://icml.cc/">ICML</a> (2022–2023), 
+<a href="https://neurips.cc/">NeurIPS</a> (2022–2023),  
+<a href="https://cvpr.thecvf.com/">CVPR</a> (2022–2025), 
+<a href="https://iccv.thecvf.com/">ICCV</a> (2023), 
+<a href="https://eccv.ecva.net/">ECCV</a> (2022),  
+<a href="https://ijcai.org/">IJCAI</a> (2021–2023), 
+<a href="https://miccai.org/">MICCAI</a> (2020, 2022–2023),  
+<a href="https://2023.ieeeicassp.org/">ICASSP</a> (2023), 
+<a href="https://ieeeicip.org/">ICIP</a> (2022–2023),  
+<a href="https://ismar21.org/">ISMAR</a> (2021), 
+<a href="http://prcv.cn/">PRCV</a> (2021, 2023), 
+<a href="https://ajcai2023.org/">AJCAI</a> (2023), and others.
+
+#### Journal Reviewer
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>, 
+<a href="https://www.springer.com/journal/11263/">IJCV</a>, 
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">TIP</a>, 
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>, 
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945">TVCG</a>, 
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>, 
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>, 
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">JBHI</a>, 
+<a href="https://www.springer.com/journal/41095">CVM</a>, 
+<a href="https://www.springer.com/journal/11633">MIR</a>, 
+<a href="https://www.sciencedirect.com/journal/information-fusion">Information Fusion</a>, 
+<a href="https://www.elsevier.com/journals/neurocomputing/0925-2312">Neurocomputing</a>, 
+<a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding">CVIU</a>, 
+<a href="https://www.nature.com/srep/">Scientific Reports</a>, 
+<a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a>, 
+<a href="https://www.sciencedirect.com/journal/digital-signal-processing">DSP</a>, 
+<a href="https://www.mdpi.com/journal/sensors">Sensors</a>, 
+<a href="https://www.sciencedirect.com/journal/signal-processing-image-communication">SPIC</a>, 
+<a href="https://www.springer.com/journal/371/">The Visual Computer</a>, 
+<a href="https://onlinelibrary.wiley.com/journal/10981098">IJIST</a>, 
+<a href="https://www.mdpi.com/journal/diagnostics">Diagnostics</a>, 
+<a href="https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering">BBE</a>, and others.
+
+<!-- 
+# 📃 Academic Services
+
+#### Program Committee Member & Conference Reviewer
 
 * International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022), [ICLR@2023](https://iclr.cc/Conferences/2023))<br>
 * International Conference on Machine Learning ([ICML@2022](https://icml.cc/Conferences/2022), [ICML@2023](https://icml.cc/Conferences/2023))<br>
@@ -860,11 +902,11 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 * The Visual Computer ([TVC](https://www.springer.com/journal/371/?utm_source=letpub&utm_medium=display&utm_content=mpu&utm_campaign=SRCN_3_ll01_cn_letpuborganic_cs_371))<br>
 * International Journal of Imaging Systems and Technology ([IJIST](https://onlinelibrary.wiley.com/journal/10981098))
 * Diagnostics ([Link](https://www.mdpi.com/journal/diagnostics))<br>
-* Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br>
+* Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br> -->
 
 # 🔗 Useful Resources
 
-## Academic Resources
+## Academic
 - [Some Collected Resources for New PhD Students](https://www.robots.ox.ac.uk/~phst/) -- from Philip Torr's Homepage
 - [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
