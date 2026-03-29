@@ -151,12 +151,24 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
   <!-- 左图 -->
-  <div style="flex:0 0 300px;">
+  <!-- <div style="flex:0 0 300px;">
     <img
       src="images/academic-related/miccai2021-pnsnet.png"
       width="300"
       style="display:block; width:300px; height:auto;"
     />
+  </div> -->
+
+  <!-- 左图（可点击放大） -->
+  <div style="flex:0 0 300px;">
+    <a href="images/academic-related/miccai2021-pnsnet.png" target="_blank">
+      <img
+        src="images/academic-related/miccai2021-pnsnet.png"
+        width="300"
+        title="Click to view full size"
+        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+      />
+    </a>
   </div>
 
   <!-- 右侧 -->
