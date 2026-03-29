@@ -806,67 +806,22 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 
 # 🏆 Honors and Awards
-- `2025` MICCAI Young Scientist Publication Impact Award (Top ~0.2% from 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
+- `2025` MICCAI Young Scientist Publication Impact Award (Top ~0.2% among 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
 - `2025` CVPR 2025 Outstanding Reviewer Award (Top 5.6%=711/12000+, [Link](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - `2025` Stanford/Elsevier Top 2% Scientists List 2025 ([Link](https://topscinet.com/scientist_profile/Ji,%20Gepeng/2020/?stype=single_year#google_vignette))
-- `2024` MICCAI2024 Young Scientist Publication Impact Award Shortlist
 - `2024` Stanford/Elsevier Top 2% Scientists List 2024 ([Link](https://topresearcherslist.com/Home/Profile/924272))
-- `2024` CVM Honorable Paper Mention Award in 2023 ([Journal Updates](https://link.springer.com/journal/41095/updates/26965690))
-- `2024` MIR Outstanding Reviewer Award in 2023 ([MIR Journal News](https://link.springer.com/journal/11633/updates/26630820))
-- `2023` IEEE Transactions on Medical Imaging Distinguished Reviewer (Bronze Level 2022 – 2023)
-- `2021` Jittor Developer Conference Distinguished Paper & Most Influential (Application) Paper
+- `2024` CVM Honorable Paper Mention Award (for 2023 publications, see [Journal Message](https://ieeexplore.ieee.org/document/10897628) & [Certificate](https://drive.google.com/file/d/1eqyJv_VE3ayJnJQZjteorRUvI2TXb0d-/view?usp=share_link))
+- `2024` MIR Outstanding Reviewer Award in 2023 (for 2023, [MIR Journal News](https://www.mi-research.net/news/581))
+- `2023` IEEE Transactions on Medical Imaging Distinguished Reviewer (Bronze Level, 2022 – 2023)
+- `2021` Jittor Developer Conference Distinguished Paper & Most Influential Application Paper
 - `2021` MICCAI Student Travel Award ([MICCAI link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
-- `2020` Multimedia Evaluation Benchmark Workshop (Ranking Top-1 in terms of accuracy metric)
-- `2019` Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei Co., LTD \& Wuhan University), Object Detection Track (Ranking: Top 6%).
+- `2020` Multimedia Evaluation Benchmark Workshop (Ranked #1 in accuracy metric)
+- `2019` Sparse Representation and Intelligent Analysis Competition of Remote Sensing Images (Co-organized by Huawei & Wuhan University), Object Detection Track (Top 6%)
 
 # 📃 Academic Services
 
 - <strong>Conference Reviewer:</strong> <a href="https://iclr.cc/">ICLR</a> (2022–2023), <a href="https://icml.cc/">ICML</a> (2022–2023), <a href="https://neurips.cc/">NeurIPS</a> (2022–2023), <a href="https://cvpr.thecvf.com/">CVPR</a> (2022–2025), <a href="https://iccv.thecvf.com/">ICCV</a> (2023), <a href="https://eccv.ecva.net/">ECCV</a> (2022), <a href="https://ijcai.org/">IJCAI</a> (2021–2023), <a href="https://miccai.org/">MICCAI</a> (2020, 2022–2023), <a href="https://2023.ieeeicassp.org/">ICASSP</a> (2023), <a href="https://ieeeicip.org/">ICIP</a> (2022–2023), <a href="https://ismar21.org/">ISMAR</a> (2021), <a href="http://prcv.cn/">PRCV</a> (2021, 2023), <a href="https://ajcai2023.org/">AJCAI</a> (2023), and others.
 - <strong>Journal Reviewer:</strong> <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>, <a href="https://www.springer.com/journal/11263/">IJCV</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">TIP</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945">TVCG</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">JBHI</a>, <a href="https://www.springer.com/journal/41095">CVM</a>, <a href="https://www.springer.com/journal/11633">MIR</a>, <a href="https://www.sciencedirect.com/journal/information-fusion">Information Fusion</a>, <a href="https://www.elsevier.com/journals/neurocomputing/0925-2312">Neurocomputing</a>, <a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding">CVIU</a>, <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a>, <a href="https://www.sciencedirect.com/journal/digital-signal-processing">DSP</a>, <a href="https://www.mdpi.com/journal/sensors">Sensors</a>, <a href="https://www.sciencedirect.com/journal/signal-processing-image-communication">SPIC</a>, <a href="https://www.springer.com/journal/371/">The Visual Computer</a>, <a href="https://onlinelibrary.wiley.com/journal/10981098">IJIST</a>, <a href="https://www.mdpi.com/journal/diagnostics">Diagnostics</a>, <a href="https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering">BBE</a>, and others.
-
-<!-- 
-# 📃 Academic Services
-
-#### Program Committee Member & Conference Reviewer
-
-* International Conference on Learning Representations ([ICLR@2022](https://iclr.cc/Conferences/2022), [ICLR@2023](https://iclr.cc/Conferences/2023))<br>
-* International Conference on Machine Learning ([ICML@2022](https://icml.cc/Conferences/2022), [ICML@2023](https://icml.cc/Conferences/2023))<br>
-* Conference on Neural Information Processing Systems ([NeurIPS@2022](https://nips.cc/Conferences/2022), [NeurIPS@2023](https://neurips.cc/Conferences/2023))<br>
-* IEEE/CVF Computer Vision and Pattern Recognition Conference ([CVPR@2022](https://cvpr2022.thecvf.com/), [CVPR@2023](https://cvpr2023.thecvf.com/), [CVPR@2024](https://cvpr2024.thecvf.com/), [CVPR@2025](https://cvpr2025.thecvf.com/))<br>
-* International Conference on Computer Vision ([ICCV@2023](https://iccv2023.thecvf.com))<br>
-* European Conference on Computer Vision ([ECCV@2022](https://eccv2022.ecva.net/))<br>
-* International Joint Conference on Artificial Intelligence ([IJCAI@2021](https://ijcai-21.org/), [IJCAI@2022](https://ijcai-22.org/), [IJCAI@2023](https://ijcai-23.org))<br>
-* International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI@2020](https://miccai2020.org/en/), [MICCAI@2022](https://miccai2022.org/), [MICCAI@2023](https://conferences.miccai.org/2023/en/))<br>
-* IEEE International Conference on Acoustics, Speech, & Signal Processing ([ICASSP@2023](https://2023.ieeeicassp.org/))
-* IEEE International Conference on Image Processing ([ICIP@2022](https://2022.ieeeicip.org/), [ICIP@2023](https://2023.ieeeicip.org))<br>
-* IEEE International Symposium on Mixed and Augmented Reality ([ISMAR@2021](https://ismar21.org/))<br>
-* Chinese Conference on Pattern Recognition and Computer Vision ([PRCV@2021](http://2021.prcv.cn/), PRCV2023)<br>
-* Australasian Joint Conference on Artificial Intelligence ([AJCAI@2023](https://ajcai2023.org))<br>
-
-#### Journal Reviewer
-
-* IEEE Transactions on Pattern Analysis and Machine Intelligence ([TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34))
-* International Journal of Computer Vision ([IJCV](https://www.springer.com/journal/11263/))<br>
-* IEEE Transactions on Image Processing ([TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))<br>
-* IEEE Journal of Biomedical and Health Informatics ([JBHI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020))<br>
-* IEEE Transactions on Medical Imaging ([TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))<br>
-* IEEE Transactions on Visualization and Computer Graphics ([TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945))<br>
-* IEEE Transactions on Circuits and Systems for Video Technology ([TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))<br>
-* IEEE Transactions on Multimedia ([TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046))<br>
-* Computational Visual Media ([CVM](https://www.springer.com/journal/41095))<br>
-* Machine Intelligence Research ([MIR](https://www.springer.com/journal/11633))<br>
-* Information Fusion ([IF](https://www.sciencedirect.com/journal/information-fusion))
-* Neurocomputing ([NC](https://www.elsevier.com/journals/neurocomputing/0925-2312))<br>
-* Computer Vision and Image Understanding ([CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding))<br>
-* Scientific Reports ([Link](https://www.nature.com/srep/))<br>
-* Expert Systems with Applications ([ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications))<br>
-* Digital Signal Processing ([DSP](https://www.sciencedirect.com/journal/digital-signal-processing))<br>
-* Sensors ([Link](https://www.mdpi.com/journal/sensors))<br>
-* Signal Processing: Image Communication ([SPIC](https://www.sciencedirect.com/journal/signal-processing-image-communication))<br>
-* The Visual Computer ([TVC](https://www.springer.com/journal/371/?utm_source=letpub&utm_medium=display&utm_content=mpu&utm_campaign=SRCN_3_ll01_cn_letpuborganic_cs_371))<br>
-* International Journal of Imaging Systems and Technology ([IJIST](https://onlinelibrary.wiley.com/journal/10981098))
-* Diagnostics ([Link](https://www.mdpi.com/journal/diagnostics))<br>
-* Biocybernetics and Biomedical Engineering ([BBE](https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering))<br> -->
 
 # 🔗 Useful Resources
 
