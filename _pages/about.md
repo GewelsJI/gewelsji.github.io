@@ -56,7 +56,7 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
 
 ## 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
 
-In healthcare AI, subtle visual perception plays a pivotal role, as many clinically significant cues manifest as faint, low-contrast, and hard-to-distinguish visual patterns. Examples include early-stage polyps in colonoscopy, ambiguous lesion boundaries, and subtle tissue texture variations in medical imaging. Our goal is to move beyond merely detecting observable abnormalities toward understanding subtle pathological signals and supporting clinical decision-making, ultimately enabling more reliable early screening, diagnosis, and precision medicine.
+In healthcare AI, subtle visual perception is critical, as many clinically significant cues manifest as faint, low-contrast, and hard-to-distinguish visual patterns.  Examples include early-stage polyps in colonoscopy, ambiguous lesion boundaries, and subtle tissue texture variations in medical imaging.  Our goal is to move beyond merely detecting observable abnormalities toward mining subtle clinically-meaningful signals and supporting clinical decision-making, ultimately enabling more reliable early screening, diagnosis, and precision medicine.
 
 <!---------------------------- PraNet ---------------------------->
 <div style="
@@ -225,7 +225,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 ">
   <!-- 标题 -->
   <h3 style="color:#1d4ed8;">
-    [MIR 2022] Video Polyp Segmentation: A Deep Learning Perspective (Extended version of <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">MICCAI 2021</a>)
+    [MIR 2022] Video Polyp Segmentation: A Deep Learning Perspective (extended version of <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">MICCAI 2021</a>)
   </h3>
 
   <!-- 作者 -->
@@ -439,12 +439,12 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
   <!-- 亮点2 -->
   <p>
-    2. Multimodal Understanding: Benchmarking generalizability (<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/2-instructions-for-coloneval.md">ColonEval</a>) and reliability (<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/3-instructions-for-colonpert.md">ColonPert</a>) of MLLMs in colonoscopy. The results eveal that clinical outputs from leading MLLMs remain far from robust and trustworthy.
+    2. Multimodal Understanding: Benchmarking generalizability (📦<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/2-instructions-for-coloneval.md">ColonEval</a>) and reliability (📦<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/3-instructions-for-colonpert.md">ColonPert</a>) of MLLMs in colonoscopy. The results eveal that clinical outputs from leading MLLMs remain far from robust and trustworthy.
   </p>
 
   <!-- 亮点3 -->
   <p>
-    3. Clinical reasoning: To bring reasoning into colonoscopy AI, we design a multi-agent debating workflow to curate a clinically grounded reasoning dataset (<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/4-instructions-for-colonreason.md">ColonReason</a>), and propose an R1-style model (🤗<a href="https://huggingface.co/ai4colonoscopy/ColonR1">ColonR1</a>) with sets a reproducible SOTA baseline for community.
+    3. Clinical reasoning: To bring reasoning into colonoscopy AI, we design a <u>multi-agent debating workflow</u> to curate a clinically grounded reasoning dataset (📦<a href="https://github.com/ai4colonoscopy/Colon-X/blob/main/docs/4-instructions-for-colonreason.md">ColonReason</a>), and propose an <u>R1-style model</u> (🤗<a href="https://huggingface.co/ai4colonoscopy/ColonR1">ColonR1</a>) with sets a reproducible SOTA baseline for community.
   </p>
 
 </div>
@@ -454,7 +454,7 @@ In healthcare AI, subtle visual perception plays a pivotal role, as many clinica
 
 #### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
 
-Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries (Ref: <a href="https://www.nature.com/articles/nature03312">Cuthill et al., Nature 2005.</a>). This research area is crucial for real-world applications such as bushfire detection, wildlife monitoring, search/rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
+Camouflaged scene understanding focuses on the perception and analysis of objects that blend into their surroundings, making them difficult to detect due to low contrast and unclear boundaries (Ref: <a href="https://www.nature.com/articles/nature03312">Cuthill et al., Nature 2005</a>). This research area is crucial for real-world applications such as bushfire detection, wildlife monitoring, search/rescue operations, and military surveillance. The core challenge lies in developing models that can effectively capture subtle visual cues and contextual information to accurately identify camouflaged objects in complex environments.
 
 
 <!---------------------------- cod10k ---------------------------->
