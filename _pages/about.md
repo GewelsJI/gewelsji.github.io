@@ -545,13 +545,16 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
-  <!-- 左图 -->
+  <!-- 左图（可点击放大） -->
   <div style="flex:0 0 300px;">
-    <img
-      src="images/academic-related/mir2023-dgnet.png"
-      width="300"
-      style="display:block; width:300px; height:auto;"
-    />
+    <a href="images/academic-related/mir2023-dgnet.png" target="_blank">
+      <img
+        src="images/academic-related/mir2023-dgnet.png"
+        width="300"
+        title="Click to view full size"
+        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+      />
+    </a>
   </div>
 
   <!-- 右侧 -->
@@ -606,13 +609,16 @@ Camouflaged scene understanding focuses on the perception and analysis of object
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
-  <!-- 左图 -->
+  <!-- 左图（可点击放大） -->
   <div style="flex:0 0 300px;">
-    <img
-      src="images/academic-related/scis2023-sam4cod.png"
-      width="300"
-      style="display:block; width:300px; height:auto;"
-    />
+    <a href="images/academic-related/scis2023-sam4cod.png" target="_blank">
+      <img
+        src="images/academic-related/scis2023-sam4cod.png"
+        width="300"
+        title="Click to view full size"
+        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+      />
+    </a>
   </div>
 
   <!-- 右侧 -->
@@ -669,13 +675,16 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   <!-- 左图右文 -->
   <div style="display:flex; gap:20px; align-items:flex-start;">
 
-  <!-- 左图 -->
+  <!-- 左图（可点击放大） -->
   <div style="flex:0 0 300px;">
-    <img
-      src="images/academic-related/iccv2021-fsnet.png"
-      width="300"
-      style="display:block; width:300px; height:auto;"
-    />
+    <a href="images/academic-related/iccv2021-fsnet.png" target="_blank">
+      <img
+        src="images/academic-related/iccv2021-fsnet.png"
+        width="300"
+        title="Click to view full size"
+        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+      />
+    </a>
   </div>
 
   <!-- 右侧 -->
