@@ -880,7 +880,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 ## Tools
 - [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing): Make AI Writing Better for Everyone
 - Find any emojis you need at [EmojiDB beta](https://emojidb.org)!
+- `2026.03.14` [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
-- [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20)
-- `2026.03.14` [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
+- [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [个人解读](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
