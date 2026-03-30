@@ -842,5 +842,6 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
+- `2026.03.29` [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) & [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa)
 - `2026.03.26` [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [核心观点梳理](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
 - `2026.02.03` [International AI Safety Report 2026](https://arxiv.org/abs/2602.00001) by Prof. Yoshua Bengio (Board Chair) 👉 [核心观点梳理](https://my.feishu.cn/wiki/FoWEwmiOgi4FrLkIj4pcOzjonib?from=from_copylink)
