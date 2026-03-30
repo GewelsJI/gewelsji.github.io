@@ -825,6 +825,11 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 # 🔗 Useful Resources
 
+## Research
+- [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
+- [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
+
 ## Self-improvement
 - [Some Collected Resources for New PhD Students](https://www.robots.ox.ac.uk/~phst/) -- from Philip Torr's Homepage
 - [剑桥大学:语言和写作决定人生发展的潜力](https://www.isee-ai.cn/~zhwshi/writing.pdf)
@@ -837,10 +842,5 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
-- `2026.03.26` [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [个人解读](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
+- `2026.03.26` [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [核心观点梳理](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
 - `2026.02.03` [International AI Safety Report 2026](https://arxiv.org/abs/2602.00001) by Prof. Yoshua Bengio (Board Chair) 👉 [核心观点梳理](https://my.feishu.cn/wiki/FoWEwmiOgi4FrLkIj4pcOzjonib?from=from_copylink)
-
-## Research
-- [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-- [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
-- [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
