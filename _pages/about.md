@@ -825,17 +825,21 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 # 🔗 Useful Resources
 
-## Readings
+## Self-improvement
 - [Some Collected Resources for New PhD Students](https://www.robots.ox.ac.uk/~phst/) -- from Philip Torr's Homepage
-- [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-- [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
-- [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
 - [剑桥大学:语言和写作决定人生发展的潜力](https://www.isee-ai.cn/~zhwshi/writing.pdf)
+- [AI Interview Prep](https://drive.google.com/file/d/1ICGc4uy20XzxHPSZZO0eXNWcJzXR6oJy/view?usp=share_link): Transformers and Attention Mechanisms
+- [GitHub - Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Tools
 - [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing): Make AI Writing Better for Everyone
 - Find any emojis you need at [EmojiDB beta](https://emojidb.org)!
-- `2026.03.29` [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
+- [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
-- `2026.03.26`[From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [个人解读](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
+- `2026.03.26` [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [个人解读](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
+
+## Research
+- [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
+- - [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
