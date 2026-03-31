@@ -517,7 +517,7 @@ Our goal is to develop models capable of modeling subtle visual cues and context
   </p>
 
   <p>
-    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/academic-related/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Covered by <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New Scientist"</a> magazine (see the <a href="images/academic-related/cvpr2020-cod10k-new-scientist.png">media snapshot</a>) | <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">推动国产Jittor生态体系建设</a>
+    <strong>Impact:</strong> CVPR Oral Paper (Top 5.7% = 335/5865) | ESI Hot Paper (Top 0.1%) | <a href="images/academic-related/tpami2021-sinetv2-jittor-award.png">Distinguish Paper</a> at the Jittor Developer Conference 2021 | Spotlight Paper at VALSE 2021 | Covered by <a href="https://www.newscientist.com/article/2243247-an-ai-trained-to-spot-hidden-objects-can-see-through-camouflage/">"New Scientist"</a> magazine (see the <a href="images/academic-related/cvpr2020-cod10k-new-scientist.png">media snapshot</a>) | <a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-06-11-00-00-cod/">推动国产Jittor生态体系建设</a>
   </p>  
 </div>
 </div>
@@ -842,6 +842,6 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
-- `2026.03.29` [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) & [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa)
+- `2026.03.29` [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) & [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa) from Turing Post
 - `2026.03.26` [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [核心观点梳理](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
 - `2026.02.03` [International AI Safety Report 2026](https://arxiv.org/abs/2602.00001) by Prof. Yoshua Bengio (Board Chair) 👉 [核心观点梳理](https://my.feishu.cn/wiki/FoWEwmiOgi4FrLkIj4pcOzjonib?from=from_copylink)
