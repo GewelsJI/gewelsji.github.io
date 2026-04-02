@@ -25,7 +25,7 @@ Ge-Peng Ji (🔊pronounced: /ɡə pɛŋ dʒiː/) is a final-year PhD candidate a
 
 
 # 👨‍💻 Research Interests
-His research centers on <span style="color: #aa0404; font-weight: bold;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns - often imperceptible to human vision yet semantically meaningful - in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **ultra-precision vision applications**, where identifying ultra-tiny objects or subtle structures requires fine-grained representation and accurate localization.
+His research centers on <span style="color: #aa0404; font-weight: bold;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns - often imperceptible to human vision yet semantically meaningful - in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **high-precision vision applications**, where identifying tiny objects or subtle structures requires fine-grained representation and accurate localization.
 
 # 🔥 News
 
@@ -650,9 +650,9 @@ Our goal is to develop models capable of modeling subtle visual cues and context
 <!---------------------------- sam4cod ---------------------------->
 
 
-#### 🚩 <span style="color: #aa0404;">[Research Topic #3] Ultra-Precision Vision Applications</span>
+#### 🚩 <span style="color: #aa0404;">[Research Topic #3] High-Precision Vision Applications</span>
 
-In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to unlock ultra-precision representations in complex vision systems, enabling precise structure delineation and reliable tiny object localization.
+In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to unlock high-precision representations in complex vision systems, enabling precise structure delineation and reliable tiny object localization.
 
 
 <!---------------------------- fsnet ---------------------------->
@@ -842,6 +842,8 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
-- `2026.03.29` [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) & [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa) from Turing Post
+- `2026.03.29` & [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa) from Turing Post 👉 [核心观点梳理](https://my.feishu.cn/wiki/GSBVwyGCLijjBrk3VPgc55XcnQh?from=from_copylink) 
+  - [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) 
+  - Yann LeCun talks: [Munich presentation (September 29, 2023)](https://x.com/TheTuringPost/status/1709190072715886892?utm_campaign=topic-4-what-is-jepa&utm_medium=referral&utm_source=www.turingpost.com) & Harvard presentation (March 28, 2024)
 - `2026.03.26` [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [核心观点梳理](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
 - `2026.02.03` [International AI Safety Report 2026](https://arxiv.org/abs/2602.00001) by Prof. Yoshua Bengio (Board Chair) 👉 [核心观点梳理](https://my.feishu.cn/wiki/FoWEwmiOgi4FrLkIj4pcOzjonib?from=from_copylink)
