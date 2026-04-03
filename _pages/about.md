@@ -842,8 +842,9 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
-- `2026.03.29` & [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa) from Turing Post 👉 [核心观点梳理](https://my.feishu.cn/wiki/GSBVwyGCLijjBrk3VPgc55XcnQh?from=from_copylink) 
-  - [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) 
-  - Yann LeCun talks: [Munich presentation (September 29, 2023)](https://x.com/TheTuringPost/status/1709190072715886892?utm_campaign=topic-4-what-is-jepa&utm_medium=referral&utm_source=www.turingpost.com) & Harvard presentation (March 28, 2024)
+- `2026.03.29` JEPA (Joint-Embedding Predictive Architecture) 👉 [核心观点梳理](https://my.feishu.cn/wiki/GSBVwyGCLijjBrk3VPgc55XcnQh?from=from_copylink) 
+  - [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa) from Turing Post 
+  - [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) from Turing Post 
+  - Yann LeCun talks: [Munich presentation (September 29, 2023)](https://x.com/TheTuringPost/status/1709190072715886892?utm_campaign=topic-4-what-is-jepa&utm_medium=referral&utm_source=www.turingpost.com) & [Harvard presentation (March 28, 2024)](https://x.com/TheTuringPost/status/1781835268196307296?utm_campaign=topic-4-what-is-jepa&utm_medium=referral&utm_source=www.turingpost.com)
 - `2026.03.26` [From "Reasoning" Thinking to "Agentic" Thinking](https://x.com/JustinLin610/status/2037116325210829168?s=20) by Junyang Lin (@JustinLin610) 👉 [核心观点梳理](https://my.feishu.cn/wiki/YECSwf2oXiqUZRkx20hc0SOln1g?from=from_copylink)
 - `2026.02.03` [International AI Safety Report 2026](https://arxiv.org/abs/2602.00001) by Prof. Yoshua Bengio (Board Chair) 👉 [核心观点梳理](https://my.feishu.cn/wiki/FoWEwmiOgi4FrLkIj4pcOzjonib?from=from_copylink)
