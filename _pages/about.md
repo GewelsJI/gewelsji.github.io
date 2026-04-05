@@ -842,7 +842,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
-- `2026.04.05` Evolutionary History of Qwen Lineups (coming soon ...)
+- `2026.04.05` 中文博客 👉 [Understanding the Evolution of Qwen Models](https://my.feishu.cn/docx/ScI6dK0RPoNnm8xqOr4c6xS2nCh?from=from_copylink)
 - `2026.03.29` JEPA (Joint-Embedding Predictive Architecture) 👉 [核心观点梳理](https://my.feishu.cn/wiki/GSBVwyGCLijjBrk3VPgc55XcnQh?from=from_copylink) 
   - [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa) from Turing Post 
   - [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) from Turing Post 
