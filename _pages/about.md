@@ -423,7 +423,7 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
   <!-- 链接 -->
   <p>
     <strong>Links:</strong>
-    📄Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a>) |
+    📄Paper (<a href="https://arxiv.org/abs/2512.03667">arXiv</a>; <a href="https://drive.google.com/file/d/1n9lBLva6Pc-UDAdZbq_9xGi2bpwzLxex/view?usp=share_link">中译文</a>) |
     📦<a href="https://github.com/ai4colonoscopy/Colon-X">Project Page</a> 
   </p>
 
@@ -843,7 +843,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 ## AI Blogs
 <!-- - `2026.04.05` 中文博客 👉 Understanding the Evolution of Qwen Models (Coming soon ...) -->
-- `2026.03.29` JEPA (Joint-Embedding Predictive Architecture) 👉 [核心观点梳理](https://my.feishu.cn/wiki/GSBVwyGCLijjBrk3VPgc55XcnQh?from=from_copylink) 
+- `2026.03.29` JEPA (Joint-Embedding Predictive Architecture) 👉 [中文博客](https://my.feishu.cn/wiki/GSBVwyGCLijjBrk3VPgc55XcnQh?from=from_copylink) 
   - [What is JEPA (Joint Embedding Predictive Architecture)?](https://www.turingpost.com/p/jepa) from Turing Post 
   - [14 JEPA Milestones as a Map of AI Progress](https://www.turingpost.com/p/jepamap) from Turing Post 
   - Yann LeCun talks: [Munich presentation (September 29, 2023)](https://x.com/TheTuringPost/status/1709190072715886892?utm_campaign=topic-4-what-is-jepa&utm_medium=referral&utm_source=www.turingpost.com) & [Harvard presentation (March 28, 2024)](https://x.com/TheTuringPost/status/1781835268196307296?utm_campaign=topic-4-what-is-jepa&utm_medium=referral&utm_source=www.turingpost.com)
