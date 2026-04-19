@@ -842,6 +842,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
 ## AI Blogs
+- `2026.04.20` From PPO to GRPO: What's the correct thing by DeepSeek-R1? 👉 [中文博客](https://my.feishu.cn/wiki/Na7lwbdEuiDLMMkkxmrcuUdznmb?from=from_copylink)
 - `2026.04.19` Prompt engineering (2023-2024) -> Context engineering (2025) -> Harness engineering (2026) 👉 [中文博客](https://my.feishu.cn/wiki/Ix5VwKQsni6urGkMIjzc7cdznTh?from=from_copylink)
 <!-- - `2026.04.05` 中文博客 👉 Understanding the Evolution of Qwen Models (Coming soon ...) -->
 - `2026.03.29` JEPA (Joint-Embedding Predictive Architecture) 👉 [中文博客](https://my.feishu.cn/wiki/GSBVwyGCLijjBrk3VPgc55XcnQh?from=from_copylink) 
