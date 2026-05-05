@@ -39,7 +39,7 @@ His research centers on <span class="topic-accent">subtle visual perception (微
 
 <br>
 
-- `2026.05` I vibe-coded an agentic workflow ([Codex](https://openai.com/codex/) + [GPT-5 API](https://developers.openai.com/api/docs/models/gpt-5) + [LarkMCP](https://github.com/larksuite/lark-openapi-mcp)) that automatically summarizes research trends from top-liked papers on 🤗[HuggingFace Daily Papers](https://huggingface.co/papers/month/2026-05). Weekly/Monthly summaries are available via my 📝[Lark folder](https://my.feishu.cn/wiki/Tp15w1RSGi3vASkwT4GcXAEvnRe?from=from_copylink).
+- `2026.05` I vibe-coded an agentic workflow ([Codex](https://openai.com/codex/) + [GPT-5 API](https://developers.openai.com/api/docs/models/gpt-5) + [LarkMCP](https://github.com/larksuite/lark-openapi-mcp)) to auto-summarize research trends from top-liked AI papers on 🤗[HuggingFace Daily Papers](https://huggingface.co/papers/month/2026-05). Weekly/monthly reports live in my 📝[Lark folder](https://my.feishu.cn/wiki/Tp15w1RSGi3vASkwT4GcXAEvnRe?from=from_copylink). Planning a public release of my workflow later this year.
 - `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
 - `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" is now officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
@@ -766,9 +766,9 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - <strong>Conference Reviewer:</strong> <a href="https://iclr.cc/">ICLR</a> (2022–2023), <a href="https://icml.cc/">ICML</a> (2022–2023), <a href="https://neurips.cc/">NeurIPS</a> (2022–2023), <a href="https://cvpr.thecvf.com/">CVPR</a> (2022–2025), <a href="https://iccv.thecvf.com/">ICCV</a> (2023), <a href="https://eccv.ecva.net/">ECCV</a> (2022), <a href="https://ijcai.org/">IJCAI</a> (2021–2023), <a href="https://miccai.org/">MICCAI</a> (2020, 2022–2023), <a href="https://2023.ieeeicassp.org/">ICASSP</a> (2023), <a href="https://ieeeicip.org/">ICIP</a> (2022–2023), <a href="https://ismar21.org/">ISMAR</a> (2021), <a href="http://prcv.cn/">PRCV</a> (2021, 2023), <a href="https://ajcai2023.org/">AJCAI</a> (2023), and others.
 - <strong>Journal Reviewer:</strong> <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>, <a href="https://www.springer.com/journal/11263/">IJCV</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">TIP</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945">TVCG</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">JBHI</a>, <a href="https://www.springer.com/journal/41095">CVM</a>, <a href="https://www.springer.com/journal/11633">MIR</a>, <a href="https://www.sciencedirect.com/journal/information-fusion">Information Fusion</a>, <a href="https://www.elsevier.com/journals/neurocomputing/0925-2312">Neurocomputing</a>, <a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding">CVIU</a>, <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a>, <a href="https://www.sciencedirect.com/journal/digital-signal-processing">DSP</a>, <a href="https://www.mdpi.com/journal/sensors">Sensors</a>, <a href="https://www.sciencedirect.com/journal/signal-processing-image-communication">SPIC</a>, <a href="https://www.springer.com/journal/371/">The Visual Computer</a>, <a href="https://onlinelibrary.wiley.com/journal/10981098">IJIST</a>, <a href="https://www.mdpi.com/journal/diagnostics">Diagnostics</a>, <a href="https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering">BBE</a>, and others.
 
-# 🔗 Useful Resources
+# 🔗 Things I Keep Coming Back To
 
-## Research
+## Useful links
 - [中国计算机学会(CCF)推荐国际学术会议和期刊目录](https://ccf.atom.im) & [官方公示(2026.03)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [AI conference deadlines](https://github.com/ccfddl/ccf-deadlines)
 - [Best Paper Awards in Computer Science (1996-2023)](https://jeffhuang.com/best_paper_awards/)
@@ -784,7 +784,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - Find any emojis you need at [EmojiDB beta](https://emojidb.org)!
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
 
-## AI Blogs
+## my AI Blogs
 - `2026.04.20` From PPO to GRPO: What's the correct thing by DeepSeek-R1? 👉 [中文博客](https://my.feishu.cn/wiki/Na7lwbdEuiDLMMkkxmrcuUdznmb?from=from_copylink)
 - `2026.04.19` Prompt engineering (2023-2024) -> Context engineering (2025) -> Harness engineering (2026) 👉 [中文博客](https://my.feishu.cn/wiki/Ix5VwKQsni6urGkMIjzc7cdznTh?from=from_copylink)
 <!-- - `2026.04.05` 中文博客 👉 Understanding the Evolution of Qwen Models (Coming soon ...) -->
