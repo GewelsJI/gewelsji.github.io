@@ -111,11 +111,104 @@
     font-size: $type-size-6;
   }
 
+  .topic-accent,
+  .topic-heading {
+    color: #aa0404;
+  }
+
+  .topic-accent {
+    font-weight: bold;
+  }
+
+  .job-market-note {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    padding: 12px 16px;
+    border-left: 4px solid #3b82f6;
+    border-radius: 6px;
+    background: #f0f7ff;
+  }
+
+  .publication-card {
+    margin-bottom: 8px;
+    padding: 8px 16px;
+    border: 2px solid #e5e7eb;
+    border-radius: 10px;
+    background: #fafafa;
+  }
+
+  .publication-card__title {
+    color: #1d4ed8;
+  }
+
+  .publication-card__body {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+  }
+
+  .publication-card__media {
+    flex: 0 0 300px;
+    max-width: 100%;
+  }
+
+  .publication-card__content {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .publication-card__image {
+    display: block;
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .publication-card__image--zoom {
+    cursor: zoom-in;
+  }
+
+  .publication-keywords {
+    color: #54b937;
+  }
+
+  @include breakpoint(max-width $medium) {
+    .job-market-note {
+      padding: 10px 12px;
+    }
+
+    .publication-card {
+      padding: 10px 12px;
+    }
+
+    .publication-card__body {
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .publication-card__media {
+      flex: none;
+      width: 100%;
+    }
+
+    .publication-card__image {
+      width: 100%;
+      max-width: 360px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+}
+
+.page-bottom-spacer {
+  margin-bottom: 50px;
 }
 
 .page__hero {

@@ -25,19 +25,11 @@ Ge-Peng Ji (🔊pronounced: /ɡə pɛŋ dʒiː/) is a final-year PhD candidate a
 
 
 # 👨‍💻 Research Interests
-His research centers on <span style="color: #aa0404; font-weight: bold;">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns - often imperceptible to human vision yet semantically meaningful - in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **high-precision vision applications**, where identifying tiny objects or subtle structures requires fine-grained representation and accurate localization.
+His research centers on <span class="topic-accent">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns - often imperceptible to human vision yet semantically meaningful - in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **high-precision vision applications**, where identifying tiny objects or subtle structures requires fine-grained representation and accurate localization.
 
 # 🔥 News
 
-<div style="
-  display: flex;
-  gap: 10px;
-  border-left: 4px solid #3b82f6;
-  background: #f0f7ff;
-  padding: 12px 16px;
-  border-radius: 6px;
-  align-items: flex-start;
-">
+<div class="job-market-note">
   <div>🚨</div>
   <div>
     <strong>NOTE</strong><br>
@@ -54,19 +46,13 @@ His research centers on <span style="color: #aa0404; font-weight: bold;">subtle 
 
 ^ indicates equal contribution, and * denotes corresponding author. For a full list of publications, please visit my 🎓[Google Scholar](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en) profile. 
 
-## 🚩 <span style="color: #aa0404;">[Research Topic #1] Healthcare AI</span>
+## 🚩 <span class="topic-heading">[Research Topic #1] Healthcare AI</span>
 
 In healthcare AI, subtle visual perception is critical, as many clinically significant cues manifest as faint, low-contrast, and hard-to-distinguish visual patterns.  Examples include early-stage polyps in colonoscopy, ambiguous lesion boundaries, and subtle tissue texture variations in medical imaging.  Our goal is to move beyond merely detecting observable abnormalities toward mining subtle clinically-meaningful signals and supporting clinical decision-making, ultimately enabling more reliable early screening, diagnosis, and precision medicine.
 
 <!---------------------------- PraNet ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
-  <h3 style="color:#1d4ed8;">
+<div class="publication-card">
+  <h3 class="publication-card__title">
     [MICCAI 2020] PraNet: Parallel Reverse Attention Network for Polyp Segmentation
   </h3>
 
@@ -75,28 +61,29 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
     Medical Image Computing and Computer Assisted Intervention, Virtual, October 4-8, 2020
   </p>
 
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
-  <!-- <div style="flex:0 0 300px;">
+  <!-- <div class="publication-card__media">
     <img
       src="images/academic-related/miccai2020-pranet.png"
       width="300"
-      style="display:block; width:300px; height:auto;"
+      class="publication-card__image" loading="lazy"
     />
   </div> -->
 
-  <div style="flex:0 0 300px;">
-    <a href="images/academic-related/miccai2020-pranet.png" target="_blank">
+  <div class="publication-card__media">
+    <a href="images/academic-related/miccai2020-pranet.png" target="_blank" rel="noopener noreferrer">
       <img
         src="images/academic-related/miccai2020-pranet.png"
+        alt="PraNet paper preview"
         width="300"
         title="Click to view full size"
-        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+        class="publication-card__image publication-card__image--zoom" loading="lazy"
       />
     </a>
   </div>
 
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <p>
     <strong>Links:</strong>
@@ -109,7 +96,7 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
 
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #polyp-segmentation, #intelligent-colonoscopy
     </span>
   </p>
@@ -140,15 +127,9 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
 
 
 <!---------------------------- PNS-Net ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [MICCAI 2021] Progressively Normalized Self-Attention Network for Video Polyp Segmentation
   </h3>
 
@@ -159,31 +140,32 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图 -->
-  <!-- <div style="flex:0 0 300px;">
+  <!-- <div class="publication-card__media">
     <img
       src="images/academic-related/miccai2021-pnsnet.png"
       width="300"
-      style="display:block; width:300px; height:auto;"
+      class="publication-card__image" loading="lazy"
     />
   </div> -->
 
   <!-- 左图（可点击放大） -->
-  <div style="flex:0 0 300px;">
-    <a href="images/academic-related/miccai2021-pnsnet.png" target="_blank">
+  <div class="publication-card__media">
+    <a href="images/academic-related/miccai2021-pnsnet.png" target="_blank" rel="noopener noreferrer">
       <img
         src="images/academic-related/miccai2021-pnsnet.png"
+        alt="PNS-Net paper preview"
         width="300"
         title="Click to view full size"
-        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+        class="publication-card__image publication-card__image--zoom" loading="lazy"
       />
     </a>
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 链接 -->
   <p>
@@ -196,7 +178,7 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">#video-polyp-segmentation, #intelligent-colonoscopy</span>
+    <span class="publication-keywords">#video-polyp-segmentation, #intelligent-colonoscopy</span>
   </p>
 
   <!-- 亮点 -->
@@ -216,15 +198,9 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
 
 
 <!---------------------------- SUN-SEG ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [MIR 2022] Video Polyp Segmentation: A Deep Learning Perspective (extended version of <a href="https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14">MICCAI 2021</a>)
   </h3>
 
@@ -235,34 +211,35 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图 -->
-  <!-- <div style="flex:0 0 300px;">
+  <!-- <div class="publication-card__media">
     <img
       src="images/academic-related/mir2022-sunseg.png"
       width="300"
-      style="display:block; width:300px; height:auto;"
+      class="publication-card__image" loading="lazy"
     />
   </div> -->
-  <div style="flex:0 0 300px;">
-    <a href="images/academic-related/mir2022-sunseg.png" target="_blank">
+  <div class="publication-card__media">
+    <a href="images/academic-related/mir2022-sunseg.png" target="_blank" rel="noopener noreferrer">
       <img
         src="images/academic-related/mir2022-sunseg.png"
+        alt="SUN-SEG paper preview"
         width="300"
         title="Click to view full size"
-        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+        class="publication-card__image publication-card__image--zoom" loading="lazy"
       />
     </a>
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #video-benchmark, #video-polyp-segmentation, #intelligent-colonoscopy
     </span>
   </p>
@@ -289,15 +266,9 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
 
 
 <!---------------------------- colongpt ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [MIR 2026] Frontiers in Intelligent Colonoscopy
   </h3>
 
@@ -308,35 +279,36 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图 -->
-  <!-- <div style="flex:0 0 300px;">
+  <!-- <div class="publication-card__media">
     <img
       src="images/academic-related/mir2026-colongpt.png"
       width="300"
-      style="display:block; width:300px; height:auto;"
+      class="publication-card__image" loading="lazy"
     />
   </div> -->
 
-  <div style="flex:0 0 300px;">
-    <a href="images/academic-related/mir2026-colongpt.png" target="_blank">
+  <div class="publication-card__media">
+    <a href="images/academic-related/mir2026-colongpt.png" target="_blank" rel="noopener noreferrer">
       <img
         src="images/academic-related/mir2026-colongpt.png"
+        alt="Frontiers in Intelligent Colonoscopy paper preview"
         width="300"
         title="Click to view full size"
-        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+        class="publication-card__image publication-card__image--zoom" loading="lazy"
       />
     </a>
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #survey, #multimodal-benchmark, #multimodal-large-language-model, #intelligent-colonoscopy
     </span>
   </p>
@@ -377,15 +349,9 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
 
 
 <!---------------------------- colon-x ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [arXiv 2026] Colon-X: Advancing Intelligent Colonoscopy toward Clinical Reasoning
   </h3>
 
@@ -395,27 +361,28 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图（可点击放大） -->
-  <div style="flex:0 0 300px;">
-    <a href="images/academic-related/arxiv2026-colonx.png" target="_blank">
+  <div class="publication-card__media">
+    <a href="images/academic-related/arxiv2026-colonx.png" target="_blank" rel="noopener noreferrer">
       <img
         src="images/academic-related/arxiv2026-colonx.png"
+        alt="Colon-X paper preview"
         width="300"
         title="Click to view full size"
-        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+        class="publication-card__image publication-card__image--zoom" loading="lazy"
       />
     </a>
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #multimodal-benchmark, #clinical-reasoning, #reinforcement-learning, #multimodal-large-language-model, #intelligent-colonoscopy
     </span>
   </p>
@@ -452,7 +419,7 @@ In healthcare AI, subtle visual perception is critical, as many clinically signi
 </div>
 <!---------------------------- colon-x ---------------------------->
 
-#### 🚩 <span style="color: #aa0404;">[Research Topic #2] Camouflaged Scene Understanding</span>
+#### 🚩 <span class="topic-heading">[Research Topic #2] Camouflaged Scene Understanding</span>
 
 Camouflaged scenarios refer to environments in which objects blend seamlessly into their surroundings, making them inherently difficult to perceive due to low contrast and ambiguous boundaries (<a href="https://www.nature.com/articles/nature03312">Cuthill et al., Nature 2005</a>)
 Such scenarios is crucial for a range of real-world applications, including <a href="https://blog.google/intl/en-au/company-news/outreach-initiatives/google-ai-bushfire-detection/?utm_source=chatgpt.com">bushfire detection</a> and <a href="https://wwf.org.au/news/2020/googles-ai-technology-to-identify-animals-impacted-by-bushfires/?utm_source=chatgpt.com">wildlife monitoring/searching/rescuing</a>.
@@ -460,15 +427,9 @@ Our goal is to develop models capable of modeling subtle visual cues and context
 
 
 <!---------------------------- cod10k ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [TPAMI 2021] Concealed Object Detection (extended version of <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf">CVPR 2020</a>)
   </h3>
 
@@ -479,24 +440,25 @@ Our goal is to develop models capable of modeling subtle visual cues and context
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图 -->
-  <div style="flex:0 0 300px;">
+  <div class="publication-card__media">
     <img
       src="images/academic-related/cvpr2020-cod10k-v1.png"
+      alt="COD10K paper preview"
       width="300"
-      style="display:block; width:300px; height:auto;"
+      class="publication-card__image" loading="lazy"
     />
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #image-benchmark, #camouflaged-object-detection, #concealed-object-detection
     </span>
   </p>
@@ -526,15 +488,9 @@ Our goal is to develop models capable of modeling subtle visual cues and context
 
 
 <!---------------------------- dgnet ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [MIR 2023] Deep Gradient Learning for Efficient Camouflaged Object Detection
   </h3>
 
@@ -545,27 +501,28 @@ Our goal is to develop models capable of modeling subtle visual cues and context
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图（可点击放大） -->
-  <div style="flex:0 0 300px;">
-    <a href="images/academic-related/mir2023-dgnet.png" target="_blank">
+  <div class="publication-card__media">
+    <a href="images/academic-related/mir2023-dgnet.png" target="_blank" rel="noopener noreferrer">
       <img
         src="images/academic-related/mir2023-dgnet.png"
+        alt="DGNet paper preview"
         width="300"
         title="Click to view full size"
-        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+        class="publication-card__image publication-card__image--zoom" loading="lazy"
       />
     </a>
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #efficient-camouflaged-object-segmentation, #polyp-segmentation, #industrial-defect-segmentation
     </span>
   </p>
@@ -590,15 +547,9 @@ Our goal is to develop models capable of modeling subtle visual cues and context
 <!---------------------------- dgnet ---------------------------->
 
 <!---------------------------- sam4cod ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [SCIS 2023] SAM Struggles in Concealed Scenes - Empirical Study on Segment Anything
   </h3>
 
@@ -609,27 +560,28 @@ Our goal is to develop models capable of modeling subtle visual cues and context
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图（可点击放大） -->
-  <div style="flex:0 0 300px;">
-    <a href="images/academic-related/scis2023-sam4cod.png" target="_blank">
+  <div class="publication-card__media">
+    <a href="images/academic-related/scis2023-sam4cod.png" target="_blank" rel="noopener noreferrer">
       <img
         src="images/academic-related/scis2023-sam4cod.png"
+        alt="SAM4COD paper preview"
         width="300"
         title="Click to view full size"
-        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+        class="publication-card__image publication-card__image--zoom" loading="lazy"
       />
     </a>
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #image-benchmark, #promptable-segmentation, #camouflaged-object-segmentation, #polyp-segmentation, #industrial-defect-segmentation
     </span>
   </p>
@@ -650,21 +602,15 @@ Our goal is to develop models capable of modeling subtle visual cues and context
 <!---------------------------- sam4cod ---------------------------->
 
 
-#### 🚩 <span style="color: #aa0404;">[Research Topic #3] High-Precision Vision Applications</span>
+#### 🚩 <span class="topic-heading">[Research Topic #3] High-Precision Vision Applications</span>
 
 In real-world vision systems such as autonomous driving (e.g., distant traffic signs and lane markings), image matting (e.g., hair-level boundary extraction), and remote sensing (e.g., tiny object detection in high-resolution imagery), even pixel-level inaccuracies can lead to critical failures. Our goal is to unlock high-precision representations in complex vision systems, enabling precise structure delineation and reliable tiny object localization.
 
 
 <!---------------------------- fsnet ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [ICCV 2021] Full-Duplex Strategy for Video Object Segmentation
   </h3>
 
@@ -675,27 +621,28 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图（可点击放大） -->
-  <div style="flex:0 0 300px;">
-    <a href="images/academic-related/iccv2021-fsnet.png" target="_blank">
+  <div class="publication-card__media">
+    <a href="images/academic-related/iccv2021-fsnet.png" target="_blank" rel="noopener noreferrer">
       <img
         src="images/academic-related/iccv2021-fsnet.png"
+        alt="FSNet paper preview"
         width="300"
         title="Click to view full size"
-        style="display:block; width:300px; height:auto; cursor: zoom-in;"
+        class="publication-card__image publication-card__image--zoom" loading="lazy"
       />
     </a>
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #video-object-segmentation, #video-salient-object-detection
     </span>
   </p>
@@ -722,15 +669,9 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 <!---------------------------- fsnet ---------------------------->
 
 <!---------------------------- lawdis ---------------------------->
-<div style="
-  border:2px solid #e5e7eb;
-  border-radius:10px;
-  padding:8px 16px;
-  background:#fafafa;
-  margin-bottom:8px;
-">
+<div class="publication-card">
   <!-- 标题 -->
-  <h3 style="color:#1d4ed8;">
+  <h3 class="publication-card__title">
     [ICCV 2025] LawDIS: Language-Window-based Controllable Dichotomous Image Segmentation
   </h3>
 
@@ -741,24 +682,25 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
   </p>
 
   <!-- 左图右文 -->
-  <div style="display:flex; gap:20px; align-items:flex-start;">
+  <div class="publication-card__body">
 
   <!-- 左图 -->
-  <div style="flex:0 0 300px;">
+  <div class="publication-card__media">
     <img
       src="images/academic-related/iccv2025-lawdis.gif"
+      alt="LawDIS paper preview"
       width="300"
-      style="display:block; width:300px; height:auto;"
+      class="publication-card__image" loading="lazy"
     />
   </div>
 
   <!-- 右侧 -->
-  <div style="flex:1; min-width:0;">
+  <div class="publication-card__content">
 
   <!-- 关键词 -->
   <p>
     <strong>Keywords:</strong>
-    <span style="color:#54b937;">
+    <span class="publication-keywords">
       #promptable-segmentation, #stable-diffusion, #multimodal-model, #dischotomous-image-segmentation
     </span>
   </p>

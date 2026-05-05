@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Ge-Peng Ji"
 description              : "Passionate about AI, striving to make a positive impact on the world."
-repository               : "gewelsji.github.io"
+repository               : "GewelsJI/gewelsji.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
