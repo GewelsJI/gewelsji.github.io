@@ -39,6 +39,7 @@ His research centers on <span class="topic-accent">subtle visual perception (微
 
 <br>
 
+- `2026.05` I vibe-coded a agentic workflow (codex + gpt5 api + lark mcp) that automatically summarizes research trends from top-liked papers on [HuggingFace Daily Papers](https://huggingface.co/papers/month/2026-05). Weekly/Monthly summaries are available via my [Lark folder](https://my.feishu.cn/wiki/Tp15w1RSGi3vASkwT4GcXAEvnRe?from=from_copylink). I will release this tool (`AI Paper Digest`) to the public soon.
 - `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
 - `2026.01` Our paper "Frontiers in Intelligent Colonoscopy" is now officially available on [Springer](https://link.springer.com/article/10.1007/s11633-025-1597-6) platform. Code can be found on our [GitHub repository](https://github.com/ai4colonoscopy/IntelliScope).
 
