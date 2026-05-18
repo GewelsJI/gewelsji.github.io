@@ -749,6 +749,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 
 # 🏆 Honors and Awards
+- `2026` CVPR 2026 Outstanding Reviewer Award (Top 5.6%=??/17491, [Link](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf))
 - `2025` MICCAI Young Scientist Publication Impact Award (Top ~0.2% among 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
 - `2025` CVPR 2025 Outstanding Reviewer Award (Top 5.6%=711/12000+, [Link](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - `2025` Stanford/Elsevier Top 2% Scientists List 2025 ([Link](https://topscinet.com/scientist_profile/Ji,%20Gepeng/2020/?stype=single_year#google_vignette))
@@ -780,6 +781,8 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 - [GitHub - Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Tools
+
+- [Nüwa.skill](https://github.com/alchaincyf/nuwa-skill) 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工
 - [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing): Make AI Writing Better for Everyone
 - Find any emojis you need at [EmojiDB beta](https://emojidb.org)!
 - [New LLM Architecture Gallery](https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html) by Sebastian Raschka 一口气看完42款LLM架构的图解，太棒了！
