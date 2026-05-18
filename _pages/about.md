@@ -749,7 +749,7 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 
 # 🏆 Honors and Awards
-- `2026` CVPR 2026 Outstanding Reviewer Award (Top 5.6%=??/17491, [Link](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf))
+- `2026` CVPR 2026 Outstanding Reviewer Award (Top 5%=??/17491, [Link](https://media.eventhosts.cc/Conferences/CVPR2026/CVPR_main_conf_2026_15.pdf))
 - `2025` MICCAI Young Scientist Publication Impact Award (Top ~0.2% among 2020-2024 accepted papers, [Link](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/))
 - `2025` CVPR 2025 Outstanding Reviewer Award (Top 5.6%=711/12000+, [Link](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer))
 - `2025` Stanford/Elsevier Top 2% Scientists List 2025 ([Link](https://topscinet.com/scientist_profile/Ji,%20Gepeng/2020/?stype=single_year#google_vignette))
