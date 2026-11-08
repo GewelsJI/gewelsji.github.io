@@ -17,27 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧍‍♂️ Biography
+# 🧍‍♂️ Biography {#biography}
 
 <!-- (pronounced: guh-peng jee /ɡə pɛŋ dʒiː/)  -->
 
-Ge-Peng Ji (🔊pronounced: /ɡə pɛŋ dʒiː/) is a final-year PhD candidate at the School of Computing, Australian National University, advised by [Professor Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). Prior to this, he received his Master's degree from the School of Computer Science at Wuhan University in 2021. He has published over 30 peer-reviewed academic papers, with more than 10,000+ citations and an h-index of 24, and holds six Chinese technical patents. He regularly serves as a reviewer for top-tier AI journals and conferences, including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was named to the Stanford/Elsevier Top 2% Scientists List in both 2024 and 2025.
+Ge-Peng Ji (🔊pronounced: /ɡə pɛŋ dʒiː/) is a postdoctoral researcher at Mohamed bin Zayed University of Artificial Intelligence (🇦🇪MBZUAI), where he works with Professor [Rao Anwer](https://scholar.google.com/citations?user=_KlvMVoAAAAJ&hl=en) and Professor [Fahad Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en). He earned his PhD from the School of Computing at the Australian National University (🇦🇺ANU) under the supervision of Professor [Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). He received his master’s degree from the School of Computer Science at Wuhan University (🇨🇳WHU) in 2021.
 
-
-# 👨‍💻 Research Interests
-His research centers on <span class="topic-accent">subtle visual perception (微视觉感知)</span>, aiming to model hard-to-detect patterns - often imperceptible to human vision yet semantically meaningful - in complex environments using advanced AI techniques, including computer vision, multimodal learning, and reinforcement learning. Empowering such perceptual capabilities in intelligent systems has broad real-world implications, including 1️⃣ **healthcare AI**, where early identification of subtle anomalies in medical imaging can enable timely and potentially life-saving interventions; 2️⃣ **camouflaged scene understanding**, where objects blend into their surroundings due to low contrast and unclear boundaries; and 3️⃣ **high-precision vision applications**, where identifying tiny objects or subtle structures requires fine-grained representation and accurate localization.
-
-# 🔥 News
+He has published more than 30 peer-reviewed papers, which have collectively received over 10,000 citations. He has an h-index of 28 and holds six patents in China. He regularly reviews for journals and conferences including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was included in the Stanford/Elsevier Top 2% Scientists List for three consecutive years (2024~2026).
 
 <div class="job-market-note">
   <div>🚨</div>
   <div>
-    <strong>NOTE</strong><br>
-    I am currently on the academic job market and open to postdoctoral and research positions. Please feel free to reach out if you think my background may be a good fit for your group. I am also open to interdisciplinary collaborations and welcome connections with researchers from diverse backgrounds, especially in medical applications.
+    <strong>Research Opportunities</strong><br>
+    Our research group at MBZUAI is recruiting remote unpaid interns, visiting students, and postdocs. Please feel free to contact me if you’re interested in any of these roles or would like to discuss potential collaborations.
   </div>
 </div>
 
-<br>
+<!-- # 👨‍💻 Research Interests -->
+
+<!-- My recent research explores <span class="topic-accent">Recursive Discovery Intelligence</span>, the idea that what an intelligent system discovers should guide what it examines next.
+
+Even within a single image, a faint cue can suggest where to look more closely. The evidence revealed by a closer look can refine the system's interpretation and guide its next observation. This makes <span class="topic-accent">subtle visual perception (微视觉感知)</span> a natural starting point for studying discovery. He draws on computer vision, multimodal learning, and reinforcement learning to uncover meaningful patterns in complex scenes that are easy for people and machines to miss. This research spans three application areas. In **healthcare AI**, detecting subtle anomalies in medical images can support earlier intervention. In **camouflaged scene understanding**, faint cues can reveal objects that blend into their surroundings. In **high-precision vision**, finding tiny objects and delicate structures requires fine-grained representations and accurate localization. -->
+
+# 🔥 News
 
 <!-- - `2026.05` I vibe-coded an agentic workflow ([Codex](https://openai.com/codex/) + [GPT-5 API](https://developers.openai.com/api/docs/models/gpt-5) + [LarkMCP](https://github.com/larksuite/lark-openapi-mcp)) to auto-summarize research trends from top-liked AI papers on 🤗[HuggingFace Daily Papers](https://huggingface.co/papers/month/2026-05). Weekly/monthly reports live in my 📝[Lark folder](https://my.feishu.cn/wiki/Tp15w1RSGi3vASkwT4GcXAEvnRe?from=from_copylink). Planning a public release of my workflow later this year. -->
 - `2026.03` 🎉 We are excited to launch the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, an open initiative aimed at advancing intelligent colonoscopy toward clinical reasoning.
@@ -767,3 +769,33 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 <!-- - <strong>Conference Reviewer:</strong> <a href="https://iclr.cc/">ICLR</a> (2022–2023), <a href="https://icml.cc/">ICML</a> (2022–2023), <a href="https://neurips.cc/">NeurIPS</a> (2022–2023), <a href="https://cvpr.thecvf.com/">CVPR</a> (2022–2025), <a href="https://iccv.thecvf.com/">ICCV</a> (2023), <a href="https://eccv.ecva.net/">ECCV</a> (2022), <a href="https://ijcai.org/">IJCAI</a> (2021–2023), <a href="https://miccai.org/">MICCAI</a> (2020, 2022–2023), <a href="https://2023.ieeeicassp.org/">ICASSP</a> (2023), <a href="https://ieeeicip.org/">ICIP</a> (2022–2023), <a href="https://ismar21.org/">ISMAR</a> (2021), <a href="http://prcv.cn/">PRCV</a> (2021, 2023), <a href="https://ajcai2023.org/">AJCAI</a> (2023), and others. -->
 - <strong>Conference Reviewer:</strong> <a href="https://iclr.cc/">ICLR</a>, <a href="https://icml.cc/">ICML</a>, <a href="https://neurips.cc/">NeurIPS</a>, <a href="https://cvpr.thecvf.com/">CVPR</a>, <a href="https://iccv.thecvf.com/">ICCV</a>, <a href="https://eccv.ecva.net/">ECCV</a>, <a href="https://ijcai.org/">IJCAI</a>, <a href="https://miccai.org/">MICCAI</a>, <a href="https://2023.ieeeicassp.org/">ICASSP</a>, <a href="https://ieeeicip.org/">ICIP</a>, <a href="https://ismar21.org/">ISMAR</a>, <a href="http://prcv.cn/">PRCV</a>, <a href="https://ajcai2023.org/">AJCAI</a>, and others.
 - <strong>Journal Reviewer:</strong> <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>, <a href="https://www.springer.com/journal/11263/">IJCV</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">TIP</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945">TVCG</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">JBHI</a>, <a href="https://www.springer.com/journal/41095">CVM</a>, <a href="https://www.springer.com/journal/11633">MIR</a>, <a href="https://www.sciencedirect.com/journal/information-fusion">Information Fusion</a>, <a href="https://www.nature.com/npjdigitalsurgery">npj Digital Surgery</a>, <a href="https://www.elsevier.com/journals/neurocomputing/0925-2312">Neurocomputing</a>, <a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding">CVIU</a>, <a href="https://www.nature.com/srep/">Scientific Reports</a>, <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a>, <a href="https://www.sciencedirect.com/journal/digital-signal-processing">DSP</a>, <a href="https://www.mdpi.com/journal/sensors">Sensors</a>, <a href="https://www.sciencedirect.com/journal/signal-processing-image-communication">SPIC</a>, <a href="https://www.springer.com/journal/371/">The Visual Computer</a>, <a href="https://onlinelibrary.wiley.com/journal/10981098">IJIST</a>, <a href="https://www.mdpi.com/journal/diagnostics">Diagnostics</a>, <a href="https://www.journals.elsevier.com/biocybernetics-and-biomedical-engineering">BBE</a>, and others.
+
+<section id="visitor-map-preview" aria-labelledby="visitor-map-preview-title">
+  <h2 id="visitor-map-preview-title">🗺️ Visitor Map</h2>
+  <p class="small">MapMyVisitors demo snapshot &middot; <time datetime="2026-11-07">Nov 7, 2026</time></p>
+  <dl class="visitor-map-stats">
+    <div>
+      <dt>Pageviews that day</dt>
+      <dd>523</dd>
+    </div>
+    <div>
+      <dt>Total pageviews</dt>
+      <dd>537,392</dd>
+    </div>
+    <div>
+      <dt>Top countries</dt>
+      <dd class="visitor-map-flags">
+        <span role="img" aria-label="United States" title="United States">🇺🇸</span>
+        <span role="img" aria-label="Spain" title="Spain">🇪🇸</span>
+        <span role="img" aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+        <span role="img" aria-label="South Korea" title="South Korea">🇰🇷</span>
+        <span role="img" aria-label="Singapore" title="Singapore">🇸🇬</span>
+      </dd>
+    </div>
+  </dl>
+  <a href="https://mapmyvisitors.com/web/1bvcg" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/images/visitor-map-preview.png' | relative_url }}"
+         width="500" height="245" loading="lazy" decoding="async"
+         alt="Open the interactive MapMyVisitors demo in a new tab">
+  </a>
+</section>

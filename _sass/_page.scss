@@ -111,6 +111,41 @@
     font-size: $type-size-6;
   }
 
+  #visitor-map-preview {
+    .visitor-map-stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5em;
+      max-width: 500px;
+      margin: 0 0 0.75em;
+      font-size: 0.75em;
+
+      > div {
+        flex: 1 0 auto;
+        padding: 0.45em 0.7em;
+        border: 1px solid $border-color;
+        border-radius: 0.6em;
+      }
+
+      dt {
+        margin: 0;
+        font-weight: normal;
+      }
+
+      dd {
+        margin: 0;
+        font-size: 1.3em;
+        font-weight: bold;
+        font-variant-numeric: tabular-nums;
+      }
+    }
+
+    .visitor-map-flags {
+      display: flex;
+      gap: 0.28em;
+    }
+  }
+
   .topic-accent,
   .topic-heading {
     color: #aa0404;

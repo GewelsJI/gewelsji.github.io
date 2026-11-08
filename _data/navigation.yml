@@ -3,9 +3,6 @@ main:
   - title: "Biography"
     url: "/#biography"
 
-  - title: "Research Interests"
-    url: "/#-research-interests"
-
   - title: "News"
     url: "/#-news"
 

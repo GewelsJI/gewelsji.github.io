@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ge-Peng Ji<br>(季葛鹏)"
   avatar           : "images/gp_profile.jpg"
-  bio              : "PhD candidate @ Australian National University"
-  location         : "Canberra, Australia"
+  bio              : "Postdoc Researcher at MBZUAI"
+  location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en"
@@ -80,6 +80,7 @@ exclude:
   - Gruntfile.js
   - LICENSE
   - README
+  - README.acadhomepage.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
