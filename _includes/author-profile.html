@@ -1,6 +1,7 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+{% assign resources_url = '/resources/' | relative_url %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
@@ -106,6 +107,7 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+      <li><a href="{{ resources_url }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Blog &amp; Resources</a></li>
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
@@ -201,6 +203,7 @@
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
       {% endif %}
+      <a href="{{ resources_url }}" aria-label="Blog &amp; Resources" title="Blog &amp; Resources"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
       {% endif %}

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include seo.html title=page.title %}
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=Inter:wght@100..900&amp;display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/resources.css' | relative_url }}">
+  </head>
+  <body>
+    <main class="resource-page" id="top">
+      <header class="resource-hero">
+        <div class="resource-bar">
+          <span>Resources</span>
+          <a href="{{ '/' | relative_url }}">&larr; Homepage</a>
+        </div>
+        <div class="resource-intro">
+          <h1>{{ page.title | escape }}</h1>
+          <p>Links, tools, and notes I return to.</p>
+        </div>
+      </header>
+
+      <article class="resource-paper">
+        {{ content }}
+      </article>
+
+      <footer class="resource-bar resource-footer">
+        <span>{{ site.title | escape }}</span>
+        <a href="#top">Back to top &uarr;</a>
+      </footer>
+    </main>
+  </body>
+</html>
