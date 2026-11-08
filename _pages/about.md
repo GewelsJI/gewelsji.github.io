@@ -23,7 +23,7 @@ redirect_from:
 
 Ge-Peng Ji (🔊pronounced: /ɡə pɛŋ dʒiː/) is a postdoctoral researcher at Mohamed bin Zayed University of Artificial Intelligence (🇦🇪MBZUAI), where he works with Professor [Rao Anwer](https://scholar.google.com/citations?user=_KlvMVoAAAAJ&hl=en) and Professor [Fahad Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en). He earned his PhD from the School of Computing at the Australian National University (🇦🇺ANU) under the supervision of Professor [Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). He received his master’s degree from the School of Computer Science at Wuhan University (🇨🇳WHU) in 2021.
 
-He has published more than 30 peer-reviewed papers, which have collectively received over 10,000 citations. He has an h-index of 28 and holds six patents in China. He regularly reviews for journals and conferences including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was included in the Stanford/Elsevier Top 2% Scientists List for three consecutive years (2024~2026).
+He has published more than 30 peer-reviewed papers, which have collectively received over 12K+ citations. He has an h-index of 28 and holds six patents in China. He regularly reviews for journals and conferences including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was included in the Stanford/Elsevier Top 2% Scientists List for three consecutive years (2024 ~ 2026).
 
 <strong>Research Opportunities.</strong> Our research group at MBZUAI is recruiting remote interns, visiting students, and postdocs. Please feel free to contact me (<a href="mailto:{{ site.author.email | escape }}">{{ site.author.email | escape }}</a>) if you’re interested in any of these roles or would like to discuss potential collaborations.
 
@@ -37,7 +37,7 @@ He has published more than 30 peer-reviewed papers, which have collectively rece
 
 # 🚨 Research Interests
 
-My recent research explores <span class="topic-accent">Recursive Discovery Intelligence</span>, the idea that what an intelligent system discovers should guide what it examines next. The broader goal is to understand how the co-evolution of data, models, and machine/human experience can support more general intelligence. My earlier work focused on **subtle visual discovery** across various applications, including healthcare AI, multimodal AI, and high-precision computer vision.
+My recent research explores <span class="topic-accent">Recursive Discovery Intelligence</span>, the idea that what an intelligent system discovers should guide what it examines next. The broader goal is to understand how the co-evolution of data, models, and machine/human experience can support more general intelligence. My earlier work focused on **subtle visual discovery (微视觉)** across various applications, including healthcare AI, multimodal AI, and high-precision computer vision.
 
 # 🔥 News
 
