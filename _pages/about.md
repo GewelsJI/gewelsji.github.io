@@ -25,19 +25,19 @@ Ge-Peng Ji (🔊pronounced: /ɡə pɛŋ dʒiː/) is a postdoctoral researcher at
 
 He has published more than 30 peer-reviewed papers, which have collectively received over 10,000 citations. He has an h-index of 28 and holds six patents in China. He regularly reviews for journals and conferences including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was included in the Stanford/Elsevier Top 2% Scientists List for three consecutive years (2024~2026).
 
-<div class="job-market-note">
+<strong>Research Opportunities.</strong> Our research group at MBZUAI is recruiting remote interns, visiting students, and postdocs. Please feel free to contact me (<a href="mailto:{{ site.author.email | escape }}">{{ site.author.email | escape }}</a>) if you’re interested in any of these roles or would like to discuss potential collaborations.
+
+<!-- <div class="job-market-note">
   <div>🚨</div>
   <div>
     <strong>Research Opportunities</strong><br>
     Our research group at MBZUAI is recruiting remote unpaid interns, visiting students, and postdocs. Please feel free to contact me if you’re interested in any of these roles or would like to discuss potential collaborations.
   </div>
-</div>
+</div> -->
 
-<!-- # 👨‍💻 Research Interests -->
+# 🚨 Research Interests
 
-<!-- My recent research explores <span class="topic-accent">Recursive Discovery Intelligence</span>, the idea that what an intelligent system discovers should guide what it examines next.
-
-Even within a single image, a faint cue can suggest where to look more closely. The evidence revealed by a closer look can refine the system's interpretation and guide its next observation. This makes <span class="topic-accent">subtle visual perception (微视觉感知)</span> a natural starting point for studying discovery. He draws on computer vision, multimodal learning, and reinforcement learning to uncover meaningful patterns in complex scenes that are easy for people and machines to miss. This research spans three application areas. In **healthcare AI**, detecting subtle anomalies in medical images can support earlier intervention. In **camouflaged scene understanding**, faint cues can reveal objects that blend into their surroundings. In **high-precision vision**, finding tiny objects and delicate structures requires fine-grained representations and accurate localization. -->
+My recent research explores <span class="topic-accent">Recursive Discovery Intelligence</span>, the idea that what an intelligent system discovers should guide what it examines next. The broader goal is to understand how the co-evolution of data, models, and machine/human experience can support more general intelligence. My earlier work focused on **subtle visual discovery** across various applications, including healthcare AI, multimodal AI, and high-precision computer vision.
 
 # 🔥 News
 
