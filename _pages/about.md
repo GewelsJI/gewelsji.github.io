@@ -37,7 +37,7 @@ He has published more than 30 peer-reviewed papers, which have collectively rece
 
 My recent research explores <span class="topic-accent">Recursive Discovery Intelligence</span>, the idea that what an intelligent system discovers should guide what it examines next. The broader goal is to understand how the co-evolution of data, models, and machine/human experience can support more general intelligence. My previous works mainly focused on **subtle visual discovery (微视觉探索)** across various applications, including healthcare AI, multimodal AI, and high-precision computer vision.
 
-<strong>🌟 Research Opportunities 🌟</strong> Our research group at MBZUAI is recruiting remote interns, visiting students, and postdocs. Please feel free to contact me (📨 <a href="mailto:{{ site.author.email | escape }}">{{ site.author.email | escape }}</a>) if you’re interested in any of these roles. We also welcome discussions and collaborations across diverse AI topics.
+<strong><u>🌟Research Opportunities🌟</u></strong> Our research group at MBZUAI is recruiting remote interns, visiting students, and postdocs. Please feel free to contact me (📨 <a href="mailto:{{ site.author.email | escape }}">{{ site.author.email | escape }}</a>) if you’re interested in any of these roles. We also welcome discussions and collaborations across diverse AI topics.
 
 # 🔥 News
 
