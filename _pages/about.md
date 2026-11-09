@@ -23,7 +23,7 @@ redirect_from:
 
 Ge-Peng Ji (🔊pronounced: /ɡə pɛŋ dʒiː/) is a postdoctoral researcher at Mohamed bin Zayed University of Artificial Intelligence (🇦🇪MBZUAI), where he works with Professor [Rao Anwer](https://scholar.google.com/citations?user=_KlvMVoAAAAJ&hl=en) and Professor [Fahad Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en). He earned his PhD from the School of Computing at the Australian National University (🇦🇺ANU) under the supervision of Professor [Nick Barnes](https://scholar.google.com/citations?user=yMXs1WcAAAAJ&hl=en). He received his master’s degree from the School of Computer Science at Wuhan University (🇨🇳WHU) in 2021.
 
-He has published more than 30 peer-reviewed papers, which have collectively received over 12K+ citations. He has an h-index of 28 and holds six patents in China. He regularly reviews for journals and conferences including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was included in the Stanford/Elsevier Top 2% Scientists List for three consecutive years (2024 ~ 2026).
+He has published more than 30 peer-reviewed papers, which have collectively received over 12K+ citations. He has an h-index of 28 and holds six patents in China. He regularly reviews for journals and conferences including TPAMI, IJCV, TMI, CVPR, ICCV, and MICCAI. He was named to the Stanford/Elsevier Top 2% Scientists List for three consecutive years (<a href="{{ '/images/academic-related/topscinet-certificate-2026.png' | relative_url }}" aria-label="View the 2024 to 2026 Top 2% Scientists certificate">2024 ~ 2026</a>).
 
 <!-- <div class="job-market-note">
   <div>🚨</div>
@@ -35,10 +35,9 @@ He has published more than 30 peer-reviewed papers, which have collectively rece
 
 # 🚨 Research Interests
 
-My recent research explores <span class="topic-accent">Recursive Discovery Intelligence</span>, the idea that what an intelligent system discovers should guide what it examines next. The broader goal is to understand how the co-evolution of data, models, and machine/human experience can support more general intelligence. My earlier work focused on **subtle visual discovery (微视觉探索)** across various applications, including healthcare AI, multimodal AI, and high-precision computer vision.
+My recent research explores <span class="topic-accent">Recursive Discovery Intelligence</span>, the idea that what an intelligent system discovers should guide what it examines next. The broader goal is to understand how the co-evolution of data, models, and machine/human experience can support more general intelligence. My previous works mainly focused on **subtle visual discovery (微视觉探索)** across various applications, including healthcare AI, multimodal AI, and high-precision computer vision.
 
-<strong>🌟 Research Opportunities.</strong> Our research group at MBZUAI is recruiting remote interns, visiting students, and postdocs. Please feel free to contact me (<a href="mailto:{{ site.author.email | escape }}">{{ site.author.email | escape }}</a>) if you’re interested in any of these roles or would like to discuss potential collaborations.
-
+<strong>🌟 Research Opportunities.</strong> Our research group at MBZUAI is recruiting remote interns, visiting students, and postdocs. Please feel free to contact me (📨 <a href="mailto:{{ site.author.email | escape }}">{{ site.author.email | escape }}</a>) if you’re interested in any of these roles. We also welcome discussions and collaborations across diverse AI topics.
 
 # 🔥 News
 
@@ -773,10 +772,9 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 <section id="visitor-map-preview" aria-labelledby="visitor-map-preview-title">
   <h2 id="visitor-map-preview-title">🗺️ Visitor Map</h2>
-  <p class="small">MapMyVisitors demo snapshot &middot; <time datetime="2026-11-07">Nov 7, 2026</time></p>
   <dl class="visitor-map-stats">
     <div>
-      <dt>Pageviews that day</dt>
+      <dt>Daily pageviews</dt>
       <dd>523</dd>
     </div>
     <div>
@@ -799,4 +797,5 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
          width="500" height="245" loading="lazy" decoding="async"
          alt="Open the interactive MapMyVisitors demo in a new tab">
   </a>
+  <p class="small visitor-map-source">Sample data from MapMyVisitors</p>
 </section>

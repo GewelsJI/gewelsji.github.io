@@ -112,11 +112,17 @@
   }
 
   #visitor-map-preview {
+    max-width: 500px;
+    margin-inline: auto;
+
+    h2 {
+      text-align: center;
+    }
+
     .visitor-map-stats {
       display: flex;
       flex-wrap: wrap;
       gap: 0.5em;
-      max-width: 500px;
       margin: 0 0 0.75em;
       font-size: 0.75em;
 
@@ -143,6 +149,11 @@
     .visitor-map-flags {
       display: flex;
       gap: 0.28em;
+    }
+
+    .visitor-map-source {
+      margin-top: 0.35em;
+      text-align: center;
     }
   }
 
