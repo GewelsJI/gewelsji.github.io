@@ -772,30 +772,27 @@ In real-world vision systems such as autonomous driving (e.g., distant traffic s
 
 <section id="visitor-map-preview" aria-labelledby="visitor-map-preview-title">
   <h1 id="visitor-map-preview-title">🗺️ Visitor Map</h1>
-  <dl class="visitor-map-stats">
-    <div>
-      <dt>Daily pageviews</dt>
-      <dd>523</dd>
+  <div class="visitor-widgets">
+    <div class="visitor-map-widget">
+      <script async id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=f7e_Pwhnl4x2FDca5pjmB1-MpAn1o5IOlmTt0nDcqsI&amp;cl=ffffff&amp;w=a"></script>
     </div>
-    <div>
-      <dt>Total pageviews</dt>
-      <dd>537,392</dd>
+    <div class="visitor-globe-widget" aria-label="Visitor globe">
+      <script async id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=Cz5i1OHOkBf4K7z2K3C1e3Y2zW7Rfe1_GISRRGBYRDc"></script>
     </div>
-    <div>
-      <dt>Top countries</dt>
-      <dd class="visitor-map-flags">
-        <span role="img" aria-label="United States" title="United States">🇺🇸</span>
-        <span role="img" aria-label="Spain" title="Spain">🇪🇸</span>
-        <span role="img" aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
-        <span role="img" aria-label="South Korea" title="South Korea">🇰🇷</span>
-        <span role="img" aria-label="Singapore" title="Singapore">🇸🇬</span>
-      </dd>
-    </div>
-  </dl>
-  <a href="https://mapmyvisitors.com/web/1bvcg" target="_blank" rel="noopener noreferrer">
-    <img src="{{ '/images/visitor-map-preview.png' | relative_url }}"
-         width="500" height="245" loading="lazy" decoding="async"
-         alt="Open the interactive MapMyVisitors demo in a new tab">
-  </a>
-  <p class="small visitor-map-source">Sample data from MapMyVisitors</p>
+  </div>
+  <script>
+    document.querySelectorAll('#visitor-map-preview .visitor-map-widget, #visitor-map-preview .visitor-globe-widget').forEach(function (container) {
+      function resizeWidget() {
+        var widget = container.querySelector('#mapmyvisitors-widget, .mmvst_outer');
+        var originalWidth = widget && parseFloat(widget.style.width);
+        if (originalWidth && container.clientWidth) {
+          widget.style.zoom = container.clientWidth / originalWidth;
+        }
+      }
+
+      new ResizeObserver(resizeWidget).observe(container);
+      new MutationObserver(resizeWidget).observe(container, { childList: true });
+      resizeWidget();
+    });
+  </script>
 </section>
